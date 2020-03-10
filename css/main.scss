@@ -1,0 +1,58 @@
+---
+---
+
+@import "includes/variables";
+
+@font-face {
+	font-family: 'led16segment2 Italic';
+	src: url('/assets/fonts/Led16Segment2Italic.eot');
+	src: local('led16segment2 Italic'), url('/assets/fonts/Led16Segment2Italic.ttf') format('truetype');
+}
+
+html {
+    background-color: #222;
+    padding: 0;
+}
+
+body {
+    padding: 8px;
+    background-color: #111;
+    font-family: $font-family;
+    font-size: $font-size;
+    color: $font-color;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+header, main {
+    font-family: "led16segment2 Italic";
+    text-transform: uppercase;
+    font-size: 4em;
+}
+
+footer {
+    margin: 32px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-block-start: 32px;
+    margin-block-end: 32px;
+    text-align: center;
+}
+
+.worse {
+    color: #c30;
+}
+
+.covid {
+    color: #c90;
+}
+
+.better {
+    color: #693;
+}
+
+a {
+    color: $primary-color;
+    text-decoration: none;
+}

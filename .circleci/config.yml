@@ -1,0 +1,52 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/jekyll-build
+    parallelism: 1
+    shell: /bin/bash --login
+    docker:
+      - image: circleci/ruby:2.4.3-jessie-node
+    steps:
+    - checkout
+    - restore_cache:
+        keys:
+        - v2-dep-{{ .Branch }}-
+        - v2-dep-master-
+        - v2-dep-
+    - run: 
+        name: Bundle Install
+        command: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
+    - run: 
+        name: Build Site
+        command: bundle exec jekyll build --verbose
+    - save_cache:
+        key: v1-dep-{{ .Branch }}-{{ epoch }}
+        paths:
+          - ~/.bundle
+    - run: 
+        name: HTMLProofer Tests
+        command: bundle exec htmlproofer ./_site --check-html --disable-external --allow-hash-href
+    - persist_to_workspace:
+        root: ./
+        paths:
+          - _site
+  deploy:
+    machine:
+      enabled: true
+    steps:
+      - attach_workspace:
+          at: ./
+      - run:
+          name: Publish to Site
+          command: rsync -va --delete ./_site/ joeycastillo_bigboard@ssh.phx.nearlyfreespeech.net:/home/public/
+workflows:
+  version: 2
+  build-and-deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master

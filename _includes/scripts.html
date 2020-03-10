@@ -1,0 +1,17 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>
+extended = true;
+function toggle() {
+    if (extended) {
+        $("tr.covid").prev().prev().prev().prev().prevUntil().css('display', 'none');
+        $("tr.covid").next().next().next().next().nextUntil().css('display', 'none');
+        extended = false;
+        $("#toggle_link").html("(SHOW ALL)")
+    } else {
+        $( "tr").css('display', 'table-row');
+        extended = true;
+        $("#toggle_link").html("(SHOW CONTEXT)")
+    }
+}
+toggle();
+</script>

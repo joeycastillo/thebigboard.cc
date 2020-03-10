@@ -1,0 +1,29 @@
+# Site settings
+title: The Big Board
+description: Coronavirus deaths in context
+url: "http://www.thebigboard.cc" # The base hostname & protocol for your site. Use it if you need absolute URL's
+permalink: /:year/:month/:day/:title/
+
+# Social
+image: /assets/images/default.png # this image appears when shared on social media
+
+# Analytics
+# analytics: UA-XXXXXXXX
+
+# Contact
+author: Joey Castillo
+
+# Navigation
+# navigation:
+# - title: About
+#   url: /about
+# - title: Blog
+#   url: /blog
+
+# Configuration details
+sass:
+    sass_dir: css
+    # Use this for production
+    # style: compressed
+
+exclude: [.scss, README.md, node_modules, gruntfile.js, package.json, Gemfile, circle.yml, vendor]

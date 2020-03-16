@@ -2,6 +2,9 @@ import requests
 import csv
 import yaml
 import codecs
+import subprocess
+import os
+from git import Repo
 from datetime import datetime
 from contextlib import closing
 
@@ -24,10 +27,11 @@ def get_total(url):
 
 assert(d1 == d2 == d3)
 date = datetime.strptime(d1 + ' 23:59:59', '%m/%d/%y %H:%M:%S')
-
 new_yaml = None
 
-with open('../_data/covid.yml') as f:
+script_path = os.path.dirname(os.path.realpath(__file__))
+
+with open(script_path + '/../_data/covid.yml', 'r') as f:
     s = f.read()
     dict = yaml.safe_load(s)
     if dict['updated'] != date:
@@ -40,5 +44,9 @@ with open('../_data/covid.yml') as f:
         new_yaml = yaml.dump(dict)
 
 if new_yaml is not None:
-    with open('../_data/covid.yml', 'w') as f:
+    with open(script_path + '/../_data/covid.yml', 'w') as f:
         f.write(new_yaml)
+    repo = Repo(script_path + "/..")
+    repo.git.add('_data')
+    repo.git.commit('-m', 'automatic data update', author='commit robot <noreply@thebigboard.cc>')
+    repo.remote(name='origin').push()

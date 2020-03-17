@@ -44,9 +44,10 @@ with open(script_path + '/../_data/covid.yml', 'r') as f:
         new_yaml = yaml.dump(dict)
 
 if new_yaml is not None:
+    repo = Repo(script_path + "/..")
+    repo.remote(name='origin').pull()
     with open(script_path + '/../_data/covid.yml', 'w') as f:
         f.write(new_yaml)
-    repo = Repo(script_path + "/..")
     repo.git.add('_data')
     repo.git.commit('-m', 'automatic data update', author='commit robot <noreply@thebigboard.cc>')
     repo.remote(name='origin').push()

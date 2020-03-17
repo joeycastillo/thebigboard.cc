@@ -1,0 +1,8 @@
+---
+---
+{
+{% for state in site.data.covid.breakdowns.Australia %}    "{{state.name}}" : {"confirmed":{{state.confirmed}},"recovered":{{state.recovered}},"deaths":{{state.deaths}}}{% if forloop.last == false %},
+{% endif %}{% endfor %},
+    "updated":"{{site.data.covid.updated}}",
+    "source":"{{site.data.covid.source}}"
+}

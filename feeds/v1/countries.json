@@ -1,0 +1,8 @@
+---
+---
+{
+{% for country in site.data.covid.countries %}    "{{country.name}}" : {"confirmed":{{country.confirmed}},"recovered":{{country.recovered}},"deaths":{{country.deaths}}}{% if forloop.last == false %},
+{% endif %}{% endfor %},
+    "updated":"{{site.data.covid.updated}}",
+    "source":"{{site.data.covid.source}}"
+}

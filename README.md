@@ -1,17 +1,17 @@
-# jekyll-nil-theme
+# The Big Coronavirus Board
 
-The simplest possible starting point for a Jekyll project.
+This is a Jekyll-powered website aimed at displaying Coronavirus deaths in context, as compared to other causes of death worldwide. When I started it, the goal was to get people to take the virus seriously (because it seemed like a lot of people weren't). A week later, it seems like everyone is taking it seriously. And honestly it's unnerved me a bit to see COVID-19 climb the chart. While I worry it risks appearing insensitive, I think it serves a purpose in reminding people that the novel coronavirus is a very dangerous pathogen, and that we all have to do our part to keep it at bay. 
 
-WHAT IT HAS: Header and footer includes, navigation and copyright boilerplate, analytics, [HTML proofreading](https://github.com/gjtorikian/html-proofer), and configuration for automatic testing and deployment with [CircleCI](https://circleci.com).
+## Architecture and Methodology
 
-WHAT IT DOESN'T HAVE: Even a slight opinion about what your site should look like. While it does apply some very minimal styling out of the box, the intent is for you to rip it all out and do your own thing. Ideally, you would not want to fork this project or even clone it. Download it as a ZIP, init a new repo and and start building your own theme. You won't need upstream changes, and they'd conflict with what you're doing anyway.
+A cron job runs [the update.py script](https://github.com/joeycastillo/thebigboard.cc/blob/master/scripts/update.py) every half hour, which pulls [data](https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv) from the Johns Hopkins real-time dashboard and places it in [a YAML file](https://github.com/joeycastillo/thebigboard.cc/blob/master/_data/covid.yml). It then pushes the update to GitHub, which triggers a CircleCI build that generates the static files and deploys them via rsync.
 
-## Automatic deployment with CircleCI
+The site uses the JHU data to generate its COVID stats. Data about other causes of death comes from the [Global Burden of Disease Study](http://ghdx.healthdata.org/gbd-2017); it's the data from 2017, the most recent year the study covered, and it prorates those annual deaths to the date of the last data update (naïvely assuming that all other causes of death grow linearly over the course of the year). 
 
-To use the automatic deployment feature:
+## Other Feeds
 
-* Update line 41 of `.circleci/config.yml` with the connection details for your server.
-* Set up the project in CircleCI. You will need to give it an SSH key for your server; this is covered succinctly [here](https://circleci.com/docs/2.0/add-ssh-key/).
-* Any changes merged into `master` will be checked with HTMLProofer and then rsync'ed over to your production server.
+In addition to the landing page, I realized that downloading and processing these statistics puts me in a position to offer useful, structured data about the pandemic. As such, I have also added a series of JSON feeds with [global summary data](http://www.thebigboard.cc/feeds/v1/global.json), [country-level data](http://www.thebigboard.cc/feeds/v1/countries.json), and state/province level data for [Australia](http://www.thebigboard.cc/feeds/v1/australia.json), [Canada](http://www.thebigboard.cc/feeds/v1/canada.json), [China](http://www.thebigboard.cc/feeds/v1/china.json) and the [United States](http://www.thebigboard.cc/feeds/v1/us.json) (the countries with detailed state and province level reporting). These static files are generated at the same time that the cron job triggers a broader site update. 
 
-Note that HTMLProofer will fail on images with missing or blank `alt` tags. I have left the test phase configured this way to encourage the development of accessible websites, but if you know what you are doing, you may choose to add the `--empty_alt_ignore` flag to the HTMLProofer test phase.
+## License
+
+Feel free to use any of the designs, code or data as you see fit; [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) seems appropriate.

@@ -1,6 +1,6 @@
-confirmed: 197076
+confirmed: 197168
 recovered: 80840
-deaths: 7903
+deaths: 7905
 countries:
 - name: Afghanistan
   confirmed: 22
@@ -566,6 +566,10 @@ countries:
   confirmed: 1
   recovered: 0
   deaths: 0
+- name: The Gambia
+  confirmed: 1
+  recovered: 0
+  deaths: 0
 - name: Togo
   confirmed: 1
   recovered: 0
@@ -583,9 +587,9 @@ countries:
   recovered: 0
   deaths: 1
 - name: US
-  confirmed: 6330
+  confirmed: 6421
   recovered: 17
-  deaths: 106
+  deaths: 108
 - name: Ukraine
   confirmed: 14
   recovered: 0
@@ -856,7 +860,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Delaware
-    confirmed: 8
+    confirmed: 16
     recovered: 0
     deaths: 0
   - name: Diamond Princess
@@ -868,7 +872,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Florida
-    confirmed: 212
+    confirmed: 216
     recovered: 0
     deaths: 6
   - name: Georgia
@@ -888,7 +892,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Idaho
-    confirmed: 7
+    confirmed: 8
     recovered: 0
     deaths: 0
   - name: Illinois
@@ -908,7 +912,7 @@ breakdowns:
     recovered: 0
     deaths: 1
   - name: Kentucky
-    confirmed: 25
+    confirmed: 26
     recovered: 1
     deaths: 1
   - name: Louisiana
@@ -940,7 +944,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Missouri
-    confirmed: 9
+    confirmed: 11
     recovered: 0
     deaths: 0
   - name: Montana
@@ -952,7 +956,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Nevada
-    confirmed: 48
+    confirmed: 56
     recovered: 0
     deaths: 1
   - name: New Hampshire
@@ -976,7 +980,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: North Dakota
-    confirmed: 1
+    confirmed: 3
     recovered: 0
     deaths: 0
   - name: Ohio
@@ -1008,7 +1012,7 @@ breakdowns:
     recovered: 0
     deaths: 1
   - name: South Dakota
-    confirmed: 10
+    confirmed: 11
     recovered: 0
     deaths: 1
   - name: Tennessee
@@ -1036,16 +1040,20 @@ breakdowns:
     recovered: 0
     deaths: 2
   - name: Washington
-    confirmed: 1014
+    confirmed: 1076
     recovered: 1
-    deaths: 53
+    deaths: 55
+  - name: West Virginia
+    confirmed: 1
+    recovered: 0
+    deaths: 0
   - name: Wisconsin
     confirmed: 72
     recovered: 1
     deaths: 0
   - name: Wyoming
-    confirmed: 10
+    confirmed: 11
     recovered: 0
     deaths: 0
-updated: 2020-03-17 23:13:10
+updated: 2020-03-17 23:53:03
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

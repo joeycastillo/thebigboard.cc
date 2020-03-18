@@ -1,6 +1,6 @@
-confirmed: 207518
-recovered: 82104
-deaths: 8248
+confirmed: 211852
+recovered: 83294
+deaths: 8724
 countries:
 - name: Afghanistan
   confirmed: 22
@@ -107,7 +107,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Canada
-  confirmed: 598
+  confirmed: 629
   recovered: 9
   deaths: 8
 - name: Central African Republic
@@ -153,7 +153,7 @@ countries:
 - name: Cuba
   confirmed: 7
   recovered: 0
-  deaths: 0
+  deaths: 1
 - name: Cyprus
   confirmed: 49
   recovered: 0
@@ -163,7 +163,7 @@ countries:
   recovered: 3
   deaths: 0
 - name: Denmark
-  confirmed: 1091
+  confirmed: 1115
   recovered: 1
   deaths: 4
 - name: Djibouti
@@ -231,7 +231,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Greece
-  confirmed: 387
+  confirmed: 418
   recovered: 8
   deaths: 5
 - name: Greenland
@@ -299,9 +299,9 @@ countries:
   recovered: 11
   deaths: 0
 - name: Italy
-  confirmed: 31506
-  recovered: 2941
-  deaths: 2503
+  confirmed: 35713
+  recovered: 4025
+  deaths: 2978
 - name: Jamaica
   confirmed: 13
   recovered: 2
@@ -455,7 +455,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Peru
-  confirmed: 117
+  confirmed: 145
   recovered: 1
   deaths: 0
 - name: Philippines
@@ -479,7 +479,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Romania
-  confirmed: 246
+  confirmed: 260
   recovered: 19
   deaths: 0
 - name: Russia
@@ -595,8 +595,8 @@ countries:
   recovered: 0
   deaths: 1
 - name: US
-  confirmed: 7324
-  recovered: 0
+  confirmed: 7323
+  recovered: 106
   deaths: 115
 - name: Ukraine
   confirmed: 14
@@ -694,7 +694,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Ontario
-    confirmed: 190
+    confirmed: 221
     recovered: 5
     deaths: 1
   - name: Prince Edward Island
@@ -1035,6 +1035,10 @@ breakdowns:
     confirmed: 134
     recovered: 0
     deaths: 2
+  - name: US
+    confirmed: -1
+    recovered: 106
+    deaths: 0
   - name: United States Virgin Islands
     confirmed: 2
     recovered: 0
@@ -1071,5 +1075,5 @@ breakdowns:
     confirmed: 15
     recovered: 0
     deaths: 0
-updated: 2020-03-18 15:53:09
+updated: 2020-03-18 17:33:06
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

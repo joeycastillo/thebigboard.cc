@@ -1,8 +1,16 @@
 <footer>
   <small>
-    <p>METHODOLOGY: Year-to-date worldwide COVID-19 deaths are from <a href="https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6">Johns Hopkins University</a>. Worldwide deaths from other causes are from the <a href="http://ghdx.healthdata.org/gbd-2017">Global Burden of Disease Study</a>, using 2017 estimates prorated to the current point in 2020 (assuming linear growth over the course of the year).</p>
-    <p>This list is not intended to be exhaustive; I've chosen a sample that includes many familiar diseases and causes of death and omits many others. Also note that grouping has a large impact on the raw numbers; "cancer" encompasses a larger number of underlying conditions than "whooping cough".</p>
-    <p>Causes of death have been edited for length, ranging from the benign (Chronic Obstructive Pulmonary Disease ➞ COPD) to the potentially misleading (other exposure to mechanical forces ➞ crushing); both <a href="https://github.com/joeycastillo/thebigboard.cc/tree/master/_data/deaths.csv">the data driving this page</a> and <a href="https://github.com/joeycastillo/thebigboard.cc/tree/master/_data/deaths_full.csv">the original data I exported from GBD</a> are available on GitHub. </p>
+    <p>This website is updated every half hour using data from <a href="https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6">Johns Hopkins University</a>. Their source CSV file, which is updated throughout the day, <a href="https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv">can be found here</a>. I am also generating a series of machine-readable JSON files with information about the pandemic:</p>
+    <ul>
+        <li><a href="/feeds/v1/global.json">Global summary information</a>, basically the information on this page</li>
+        <li><a href="/feeds/v1/countries.json">Per-country information</a>, the same numbers but broken down by country</li>
+        <li><a href="/feeds/v1/australia.json">State and territory-level data for Australia</a></li>
+        <li><a href="/feeds/v1/canada.json">Province-level data for Canada</a></li>
+        <li><a href="/feeds/v1/china.json">Province-level data for China</a></li>
+        <li><a href="/feeds/v1/us.json">State-level data for the United States</a></li>
+    </ul>
+    <p><strong>PLEASE</strong> don't rely on this for anything serious; the real-time numbers are preliminary and the update script is triggered by a cron job running on my home internet connection.This is for hobbyist projects, not mission critical applications. For the most up-to-date data, go to <a href="https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv">the real-time source</a>. For the most accurate data, use <a href="https://github.com/CSSEGISandData/COVID-19">the published data sets</a>.
+    </p>
     <p>This is a single-serving side project from me, Joey, <a href="https://twitter.com/josecastillo">@josecastillo</a>. Questions / suggestions / pull requests? <a href="https://github.com/joeycastillo/thebigboard.cc">The website is on GitHub</a>.</p>
   </small>
 </footer>

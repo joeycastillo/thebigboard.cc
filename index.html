@@ -1,29 +1,21 @@
 ---
 layout: default
-title: "Current Standings"
+title: "State of the Pandemic"
 ---
-{% assign last_update = site.data.covid.updated | date: '%s'%}
-{% assign start_of_year = 1577836800 | times: 1.0 %}
-{% assign seconds_this_year = 29980800 | times: 1.0 %}
-{% assign seconds_so_far = last_update | minus: start_of_year %}
-{% assign percent_done = seconds_so_far | divided_by: seconds_this_year %}
-{% assign covid_displayed = false %}
-<h6>Estimated as of {{ site.data.covid.updated | date: "%Y-%m-%d" | replace: "-", "/"}}<br><a href="javascript: toggle()" id="toggle_link">(SHOW ALL)</a></h6>
+<h6>As of {{ site.data.covid.updated | date: "%Y-%m-%d %H%M" | replace: "-", "/"}} UTC</h6>
 <center>
 <table>
-{% for death in site.data.deaths %}
-{% assign deaths_so_far = death.deaths | times: percent_done | round  %}
-{% if site.data.covid.deaths > deaths_so_far and covid_displayed == false %}
-  <tr class="covid">
-    <td style="padding-right: 32px">2019 Coronavirus</td>
+  <tr class="confirmed">
+    <td style="padding-right: 32px">Cases</td>
+    <td style="text-align: right">{{ site.data.covid.confirmed }}</td>
+  </tr>
+  <tr class="deaths">
+    <td style="padding-right: 32px">Deaths</td>
     <td style="text-align: right">{{ site.data.covid.deaths }}</td>
   </tr>
-{% assign covid_displayed = true %}
-{% endif %}
-  <tr class="{% if deaths_so_far >= site.data.covid.deaths %}worse{% else %}better{% endif %}">
-    <td style="padding-right: 32px">{{ death.cause }}</td>
-    <td style="text-align: right">{{ deaths_so_far }}</td>
+  <tr class="recovered">
+    <td style="padding-right: 32px">Recovered</td>
+    <td style="text-align: right">{{ site.data.covid.recovered }}</td>
   </tr>
-{% endfor %}
 </table>
 </center>

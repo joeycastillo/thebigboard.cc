@@ -108,6 +108,8 @@ if new_yaml is not None:
     repo.remote(name='origin').pull()
     with open(script_path + '/../_data/covid.yml', 'w') as f:
         f.write(new_yaml)
+    with open(script_path + '/../_data/history.csv', 'a') as f:
+        f.write(str(last_update) + ',' + str(confirmed) + ',' + str(recovered) + ',' + str(deaths) + '\n')
     repo.git.add('_data')
     repo.git.commit('-m', 'automatic data update', author='commit robot <noreply@thebigboard.cc>')
     repo.remote(name='origin').push()

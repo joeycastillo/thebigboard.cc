@@ -1,6 +1,6 @@
-confirmed: 229289
+confirmed: 230055
 recovered: 84557
-deaths: 9324
+deaths: 9358
 countries:
 - name: Afghanistan
   confirmed: 22
@@ -83,13 +83,13 @@ countries:
   recovered: 0
   deaths: 0
 - name: Bosnia and Herzegovina
-  confirmed: 45
+  confirmed: 63
   recovered: 2
   deaths: 0
 - name: Brazil
-  confirmed: 533
+  confirmed: 534
   recovered: 2
-  deaths: 4
+  deaths: 6
 - name: Brunei
   confirmed: 75
   recovered: 0
@@ -111,10 +111,14 @@ countries:
   recovered: 0
   deaths: 0
 - name: Canada
-  confirmed: 727
+  confirmed: 770
   recovered: 9
   deaths: 9
 - name: Central African Republic
+  confirmed: 1
+  recovered: 0
+  deaths: 0
+- name: Chad
   confirmed: 1
   recovered: 0
   deaths: 0
@@ -147,7 +151,7 @@ countries:
   recovered: 1
   deaths: 0
 - name: Croatia
-  confirmed: 102
+  confirmed: 105
   recovered: 5
   deaths: 1
 - name: Cruise Ship
@@ -167,7 +171,7 @@ countries:
   recovered: 3
   deaths: 0
 - name: Denmark
-  confirmed: 1206
+  confirmed: 1225
   recovered: 1
   deaths: 6
 - name: Djibouti
@@ -179,7 +183,7 @@ countries:
   recovered: 0
   deaths: 2
 - name: Ecuador
-  confirmed: 168
+  confirmed: 199
   recovered: 0
   deaths: 3
 - name: Egypt
@@ -235,11 +239,11 @@ countries:
   recovered: 1
   deaths: 0
 - name: Germany
-  confirmed: 13979
+  confirmed: 14481
   recovered: 113
-  deaths: 42
+  deaths: 43
 - name: Ghana
-  confirmed: 9
+  confirmed: 11
   recovered: 0
   deaths: 0
 - name: Greece
@@ -251,7 +255,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Guatemala
-  confirmed: 6
+  confirmed: 9
   recovered: 0
   deaths: 1
 - name: Guinea
@@ -399,7 +403,7 @@ countries:
   recovered: 4
   deaths: 1
 - name: Moldova
-  confirmed: 36
+  confirmed: 49
   recovered: 1
   deaths: 1
 - name: Monaco
@@ -443,13 +447,13 @@ countries:
   recovered: 1
   deaths: 0
 - name: North Macedonia
-  confirmed: 42
+  confirmed: 48
   recovered: 1
   deaths: 0
 - name: Norway
-  confirmed: 1720
+  confirmed: 1746
   recovered: 1
-  deaths: 11
+  deaths: 7
 - name: Oman
   confirmed: 39
   recovered: 12
@@ -547,7 +551,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: South Africa
-  confirmed: 116
+  confirmed: 150
   recovered: 0
   deaths: 0
 - name: Spain
@@ -599,9 +603,9 @@ countries:
   recovered: 0
   deaths: 0
 - name: Turkey
-  confirmed: 191
+  confirmed: 192
   recovered: 0
-  deaths: 2
+  deaths: 3
 - name: US
   confirmed: 10755
   recovered: 106
@@ -615,9 +619,9 @@ countries:
   recovered: 31
   deaths: 0
 - name: United Kingdom
-  confirmed: 2644
+  confirmed: 2707
   recovered: 67
-  deaths: 104
+  deaths: 138
 - name: Uruguay
   confirmed: 79
   recovered: 0
@@ -702,7 +706,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Ontario
-    confirmed: 214
+    confirmed: 257
     recovered: 5
     deaths: 1
   - name: Prince Edward Island
@@ -1083,5 +1087,5 @@ breakdowns:
     confirmed: 18
     recovered: 0
     deaths: 0
-updated: 2020-03-19 16:13:38
+updated: 2020-03-19 17:13:42
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

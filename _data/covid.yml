@@ -1,13 +1,13 @@
-confirmed: 221416
-recovered: 84179
-deaths: 8966
+confirmed: 222642
+recovered: 84506
+deaths: 9115
 countries:
 - name: Afghanistan
   confirmed: 22
   recovered: 1
   deaths: 0
 - name: Albania
-  confirmed: 59
+  confirmed: 64
   recovered: 0
   deaths: 2
 - name: Algeria
@@ -46,6 +46,10 @@ countries:
   confirmed: 34
   recovered: 6
   deaths: 1
+- name: Bahamas, The
+  confirmed: 3
+  recovered: 0
+  deaths: 0
 - name: Bahrain
   confirmed: 269
   recovered: 100
@@ -95,7 +99,7 @@ countries:
   recovered: 0
   deaths: 3
 - name: Burkina Faso
-  confirmed: 27
+  confirmed: 33
   recovered: 0
   deaths: 1
 - name: Cambodia
@@ -191,7 +195,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Estonia
-  confirmed: 258
+  confirmed: 267
   recovered: 1
   deaths: 0
 - name: Eswatini
@@ -211,7 +215,7 @@ countries:
   recovered: 10
   deaths: 0
 - name: France
-  confirmed: 9055
+  confirmed: 9058
   recovered: 12
   deaths: 243
 - name: French Guiana
@@ -235,7 +239,7 @@ countries:
   recovered: 113
   deaths: 31
 - name: Ghana
-  confirmed: 7
+  confirmed: 9
   recovered: 0
   deaths: 0
 - name: Greece
@@ -271,7 +275,7 @@ countries:
   recovered: 2
   deaths: 1
 - name: Iceland
-  confirmed: 250
+  confirmed: 330
   recovered: 5
   deaths: 1
 - name: India
@@ -283,9 +287,9 @@ countries:
   recovered: 11
   deaths: 25
 - name: Iran
-  confirmed: 17361
-  recovered: 5389
-  deaths: 1135
+  confirmed: 18407
+  recovered: 5710
+  deaths: 1284
 - name: Iraq
   confirmed: 164
   recovered: 43
@@ -371,7 +375,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Malta
-  confirmed: 48
+  confirmed: 53
   recovered: 2
   deaths: 0
 - name: Martinique
@@ -411,7 +415,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Morocco
-  confirmed: 54
+  confirmed: 58
   recovered: 1
   deaths: 2
 - name: Namibia
@@ -443,7 +447,7 @@ countries:
   recovered: 1
   deaths: 0
 - name: Norway
-  confirmed: 1601
+  confirmed: 1631
   recovered: 1
   deaths: 6
 - name: Oman
@@ -451,7 +455,7 @@ countries:
   recovered: 12
   deaths: 0
 - name: Pakistan
-  confirmed: 331
+  confirmed: 335
   recovered: 13
   deaths: 2
 - name: Panama
@@ -487,8 +491,8 @@ countries:
   recovered: 0
   deaths: 0
 - name: Romania
-  confirmed: 260
-  recovered: 19
+  confirmed: 277
+  recovered: 25
   deaths: 0
 - name: Russia
   confirmed: 147
@@ -575,17 +579,13 @@ countries:
   recovered: 26
   deaths: 1
 - name: Tanzania
-  confirmed: 3
+  confirmed: 6
   recovered: 0
   deaths: 0
 - name: Thailand
   confirmed: 272
   recovered: 42
   deaths: 1
-- name: The Bahamas
-  confirmed: 1
-  recovered: 0
-  deaths: 0
 - name: Togo
   confirmed: 1
   recovered: 0
@@ -595,7 +595,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Tunisia
-  confirmed: 29
+  confirmed: 39
   recovered: 0
   deaths: 0
 - name: Turkey
@@ -1083,5 +1083,5 @@ breakdowns:
     confirmed: 18
     recovered: 0
     deaths: 0
-updated: 2020-03-19 11:13:54
+updated: 2020-03-19 11:33:39
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

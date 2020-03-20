@@ -1,6 +1,6 @@
-confirmed: 266082
-recovered: 87363
-deaths: 11153
+confirmed: 258052
+recovered: 87370
+deaths: 11268
 countries:
 - name: Afghanistan
   confirmed: 24
@@ -87,9 +87,9 @@ countries:
   recovered: 2
   deaths: 0
 - name: Brazil
-  confirmed: 651
+  confirmed: 793
   recovered: 2
-  deaths: 7
+  deaths: 11
 - name: Brunei
   confirmed: 78
   recovered: 1
@@ -127,8 +127,8 @@ countries:
   recovered: 0
   deaths: 0
 - name: Chile
-  confirmed: 342
-  recovered: 0
+  confirmed: 434
+  recovered: 6
   deaths: 0
 - name: China
   confirmed: 81250
@@ -171,8 +171,8 @@ countries:
   recovered: 0
   deaths: 0
 - name: Czechia
-  confirmed: 774
-  recovered: 3
+  confirmed: 833
+  recovered: 4
   deaths: 0
 - name: Denmark
   confirmed: 1337
@@ -223,9 +223,9 @@ countries:
   recovered: 10
   deaths: 0
 - name: France
-  confirmed: 10891
+  confirmed: 1479
   recovered: 12
-  deaths: 371
+  deaths: 459
 - name: French Guiana
   confirmed: 15
   recovered: 0
@@ -243,9 +243,9 @@ countries:
   recovered: 1
   deaths: 0
 - name: Germany
-  confirmed: 19711
+  confirmed: 19848
   recovered: 180
-  deaths: 53
+  deaths: 67
 - name: Ghana
   confirmed: 16
   recovered: 0
@@ -307,7 +307,7 @@ countries:
   recovered: 49
   deaths: 13
 - name: Ireland
-  confirmed: 557
+  confirmed: 683
   recovered: 5
   deaths: 3
 - name: Israel
@@ -471,7 +471,7 @@ countries:
   recovered: 12
   deaths: 0
 - name: Pakistan
-  confirmed: 479
+  confirmed: 501
   recovered: 13
   deaths: 3
 - name: Panama
@@ -495,15 +495,15 @@ countries:
   recovered: 8
   deaths: 18
 - name: Poland
-  confirmed: 378
+  confirmed: 425
   recovered: 1
-  deaths: 6
+  deaths: 5
 - name: Portugal
   confirmed: 1020
   recovered: 5
   deaths: 6
 - name: Qatar
-  confirmed: 460
+  confirmed: 470
   recovered: 10
   deaths: 0
 - name: Reunion
@@ -623,7 +623,7 @@ countries:
   recovered: 0
   deaths: 4
 - name: US
-  confirmed: 16605
+  confirmed: 16638
   recovered: 121
   deaths: 216
 - name: Ukraine
@@ -635,9 +635,9 @@ countries:
   recovered: 31
   deaths: 0
 - name: United Kingdom
-  confirmed: 3297
+  confirmed: 4011
   recovered: 67
-  deaths: 168
+  deaths: 178
 - name: Uruguay
   confirmed: 94
   recovered: 0
@@ -900,11 +900,11 @@ breakdowns:
     recovered: 0
     deaths: 3
   - name: Delaware
-    confirmed: 30
+    confirmed: 38
     recovered: 0
     deaths: 0
   - name: Diamond Princess
-    confirmed: 47
+    confirmed: 49
     recovered: 0
     deaths: 0
   - name: District of Columbia
@@ -920,7 +920,7 @@ breakdowns:
     recovered: 0
     deaths: 13
   - name: Grand Princess
-    confirmed: 22
+    confirmed: 23
     recovered: 0
     deaths: 0
   - name: Guam
@@ -944,7 +944,7 @@ breakdowns:
     recovered: 0
     deaths: 2
   - name: Iowa
-    confirmed: 44
+    confirmed: 45
     recovered: 0
     deaths: 0
   - name: Kansas
@@ -984,7 +984,7 @@ breakdowns:
     recovered: 0
     deaths: 1
   - name: Missouri
-    confirmed: 47
+    confirmed: 48
     recovered: 0
     deaths: 1
   - name: Montana
@@ -1028,7 +1028,7 @@ breakdowns:
     recovered: 0
     deaths: 1
   - name: Oklahoma
-    confirmed: 44
+    confirmed: 49
     recovered: 0
     deaths: 1
   - name: Oregon
@@ -1044,7 +1044,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Rhode Island
-    confirmed: 44
+    confirmed: 54
     recovered: 0
     deaths: 0
   - name: South Carolina
@@ -1088,7 +1088,7 @@ breakdowns:
     recovered: 0
     deaths: 74
   - name: West Virginia
-    confirmed: 2
+    confirmed: 7
     recovered: 0
     deaths: 0
   - name: Wisconsin
@@ -1099,5 +1099,5 @@ breakdowns:
     confirmed: 18
     recovered: 0
     deaths: 0
-updated: 2020-03-20 19:13:30
+updated: 2020-03-20 20:13:18
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

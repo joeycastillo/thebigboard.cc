@@ -1,6 +1,6 @@
-confirmed: 255305
-recovered: 87351
-deaths: 10444
+confirmed: 265495
+recovered: 87363
+deaths: 11147
 countries:
 - name: Afghanistan
   confirmed: 24
@@ -175,7 +175,7 @@ countries:
   recovered: 3
   deaths: 0
 - name: Denmark
-  confirmed: 1308
+  confirmed: 1337
   recovered: 1
   deaths: 9
 - name: Djibouti
@@ -243,9 +243,9 @@ countries:
   recovered: 1
   deaths: 0
 - name: Germany
-  confirmed: 18361
+  confirmed: 19711
   recovered: 180
-  deaths: 52
+  deaths: 53
 - name: Ghana
   confirmed: 16
   recovered: 0
@@ -315,9 +315,9 @@ countries:
   recovered: 14
   deaths: 0
 - name: Italy
-  confirmed: 41035
+  confirmed: 47021
   recovered: 4440
-  deaths: 3405
+  deaths: 4032
 - name: Jamaica
   confirmed: 16
   recovered: 2
@@ -380,8 +380,8 @@ countries:
   deaths: 4
 - name: Malaysia
   confirmed: 1030
-  recovered: 75
-  deaths: 2
+  recovered: 87
+  deaths: 3
 - name: Maldives
   confirmed: 13
   recovered: 0
@@ -439,9 +439,9 @@ countries:
   recovered: 1
   deaths: 0
 - name: Netherlands
-  confirmed: 2468
+  confirmed: 3002
   recovered: 2
-  deaths: 77
+  deaths: 107
 - name: New Zealand
   confirmed: 39
   recovered: 0
@@ -463,7 +463,7 @@ countries:
   recovered: 1
   deaths: 0
 - name: Norway
-  confirmed: 1895
+  confirmed: 1914
   recovered: 1
   deaths: 7
 - name: Oman
@@ -478,6 +478,10 @@ countries:
   confirmed: 137
   recovered: 0
   deaths: 1
+- name: Papua New Guinea
+  confirmed: 1
+  recovered: 0
+  deaths: 0
 - name: Paraguay
   confirmed: 13
   recovered: 0
@@ -567,9 +571,9 @@ countries:
   recovered: 0
   deaths: 0
 - name: Spain
-  confirmed: 19980
+  confirmed: 20410
   recovered: 1588
-  deaths: 1002
+  deaths: 1043
 - name: Sri Lanka
   confirmed: 73
   recovered: 3
@@ -587,9 +591,9 @@ countries:
   recovered: 16
   deaths: 16
 - name: Switzerland
-  confirmed: 4840
+  confirmed: 5294
   recovered: 15
-  deaths: 51
+  deaths: 54
 - name: Taiwan*
   confirmed: 135
   recovered: 26
@@ -619,7 +623,7 @@ countries:
   recovered: 0
   deaths: 4
 - name: US
-  confirmed: 14631
+  confirmed: 16018
   recovered: 121
   deaths: 210
 - name: Ukraine
@@ -1008,7 +1012,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: New York
-    confirmed: 5715
+    confirmed: 7102
     recovered: 0
     deaths: 38
   - name: North Carolina
@@ -1095,5 +1099,5 @@ breakdowns:
     confirmed: 18
     recovered: 0
     deaths: 0
-updated: 2020-03-20 16:43:10
+updated: 2020-03-20 18:13:12
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

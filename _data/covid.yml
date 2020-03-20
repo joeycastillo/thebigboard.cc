@@ -1,6 +1,6 @@
-confirmed: 242714
-recovered: 84972
-deaths: 9867
+confirmed: 242726
+recovered: 85676
+deaths: 9870
 countries:
 - name: Afghanistan
   confirmed: 22
@@ -29,10 +29,6 @@ countries:
 - name: Armenia
   confirmed: 115
   recovered: 1
-  deaths: 0
-- name: Aruba
-  confirmed: 4
-  recovered: 0
   deaths: 0
 - name: Australia
   confirmed: 681
@@ -127,9 +123,9 @@ countries:
   recovered: 0
   deaths: 0
 - name: China
-  confirmed: 81156
-  recovered: 70545
-  deaths: 3249
+  confirmed: 81172
+  recovered: 71249
+  deaths: 3251
 - name: Colombia
   confirmed: 102
   recovered: 1
@@ -431,7 +427,7 @@ countries:
   recovered: 1
   deaths: 0
 - name: Netherlands
-  confirmed: 2465
+  confirmed: 2467
   recovered: 2
   deaths: 77
 - name: New Zealand
@@ -477,7 +473,7 @@ countries:
 - name: Peru
   confirmed: 234
   recovered: 1
-  deaths: 0
+  deaths: 1
 - name: Philippines
   confirmed: 217
   recovered: 8
@@ -611,7 +607,7 @@ countries:
   recovered: 0
   deaths: 3
 - name: US
-  confirmed: 13680
+  confirmed: 13678
   recovered: 108
   deaths: 200
 - name: Ukraine
@@ -731,8 +727,8 @@ breakdowns:
     recovered: 984
     deaths: 6
   - name: Beijing
-    confirmed: 480
-    recovered: 380
+    confirmed: 485
+    recovered: 384
     deaths: 8
   - name: Chongqing
     confirmed: 576
@@ -751,7 +747,7 @@ breakdowns:
     recovered: 1318
     deaths: 8
   - name: Guangxi
-    confirmed: 253
+    confirmed: 254
     recovered: 250
     deaths: 2
   - name: Guizhou
@@ -780,8 +776,8 @@ breakdowns:
     deaths: 4
   - name: Hubei
     confirmed: 67800
-    recovered: 57682
-    deaths: 3130
+    recovered: 58381
+    deaths: 3132
   - name: Hunan
     confirmed: 1018
     recovered: 1014
@@ -819,15 +815,15 @@ breakdowns:
     recovered: 18
     deaths: 0
   - name: Shaanxi
-    confirmed: 246
+    confirmed: 247
     recovered: 237
     deaths: 3
   - name: Shandong
-    confirmed: 761
-    recovered: 747
+    confirmed: 762
+    recovered: 748
     deaths: 7
   - name: Shanghai
-    confirmed: 363
+    confirmed: 371
     recovered: 326
     deaths: 3
   - name: Shanxi
@@ -1056,7 +1052,7 @@ breakdowns:
     recovered: 108
     deaths: 0
   - name: United States Virgin Islands
-    confirmed: 2
+    confirmed: 3
     recovered: 0
     deaths: 0
   - name: Utah
@@ -1065,10 +1061,6 @@ breakdowns:
     deaths: 0
   - name: Vermont
     confirmed: 22
-    recovered: 0
-    deaths: 0
-  - name: Virgin Islands
-    confirmed: 3
     recovered: 0
     deaths: 0
   - name: Virginia
@@ -1091,5 +1083,5 @@ breakdowns:
     confirmed: 18
     recovered: 0
     deaths: 0
-updated: 2020-03-20 00:14:14
+updated: 2020-03-20 01:13:17
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

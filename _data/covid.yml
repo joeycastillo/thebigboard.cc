@@ -1,5 +1,5 @@
-confirmed: 244602
-recovered: 86033
+confirmed: 245484
+recovered: 86035
 deaths: 10031
 countries:
 - name: Afghanistan
@@ -17,6 +17,10 @@ countries:
 - name: Andorra
   confirmed: 74
   recovered: 1
+  deaths: 0
+- name: Angola
+  confirmed: 1
+  recovered: 0
   deaths: 0
 - name: Antigua and Barbuda
   confirmed: 1
@@ -98,6 +102,10 @@ countries:
   confirmed: 33
   recovered: 0
   deaths: 1
+- name: Cabo Verde
+  confirmed: 1
+  recovered: 0
+  deaths: 0
 - name: Cambodia
   confirmed: 37
   recovered: 1
@@ -123,7 +131,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: China
-  confirmed: 81251
+  confirmed: 81250
   recovered: 71266
   deaths: 3253
 - name: Colombia
@@ -215,11 +223,11 @@ countries:
   recovered: 10
   deaths: 0
 - name: France
-  confirmed: 11010
+  confirmed: 10891
   recovered: 12
-  deaths: 372
+  deaths: 371
 - name: French Guiana
-  confirmed: 11
+  confirmed: 15
   recovered: 0
   deaths: 0
 - name: Gabon
@@ -235,8 +243,8 @@ countries:
   recovered: 1
   deaths: 0
 - name: Germany
-  confirmed: 15320
-  recovered: 113
+  confirmed: 16290
+  recovered: 115
   deaths: 44
 - name: Ghana
   confirmed: 11
@@ -247,7 +255,7 @@ countries:
   recovered: 19
   deaths: 6
 - name: Guadeloupe
-  confirmed: 33
+  confirmed: 45
   recovered: 0
   deaths: 0
 - name: Guatemala
@@ -262,6 +270,10 @@ countries:
   confirmed: 7
   recovered: 0
   deaths: 1
+- name: Haiti
+  confirmed: 2
+  recovered: 0
+  deaths: 0
 - name: Holy See
   confirmed: 1
   recovered: 0
@@ -379,7 +391,7 @@ countries:
   recovered: 2
   deaths: 0
 - name: Martinique
-  confirmed: 23
+  confirmed: 32
   recovered: 0
   deaths: 1
 - name: Mauritania
@@ -391,7 +403,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Mayotte
-  confirmed: 4
+  confirmed: 6
   recovered: 0
   deaths: 0
 - name: Mexico
@@ -581,7 +593,7 @@ countries:
 - name: Taiwan*
   confirmed: 135
   recovered: 26
-  deaths: 1
+  deaths: 2
 - name: Tanzania
   confirmed: 6
   recovered: 0
@@ -619,7 +631,7 @@ countries:
   recovered: 31
   deaths: 0
 - name: United Kingdom
-  confirmed: 2716
+  confirmed: 2717
   recovered: 67
   deaths: 138
 - name: Uruguay
@@ -771,7 +783,7 @@ breakdowns:
     recovered: 1250
     deaths: 22
   - name: Hong Kong
-    confirmed: 257
+    confirmed: 256
     recovered: 98
     deaths: 4
   - name: Hubei
@@ -1083,5 +1095,5 @@ breakdowns:
     confirmed: 18
     recovered: 0
     deaths: 0
-updated: 2020-03-20 09:13:30
+updated: 2020-03-20 10:13:39
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

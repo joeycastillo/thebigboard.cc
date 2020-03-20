@@ -106,10 +106,29 @@ with open(script_path + '/../_data/covid.yml', 'r') as f:
 if new_yaml is not None:
     repo = Repo(script_path + '/..')
     repo.remote(name='origin').pull()
+    # write data file for website
     with open(script_path + '/../_data/covid.yml', 'w') as f:
         f.write(new_yaml)
+    # write global history
     with open(script_path + '/../_data/history.csv', 'a') as f:
         f.write(str(last_update) + ',' + str(confirmed) + ',' + str(recovered) + ',' + str(deaths) + '\n')
+    # write country-level history
+    for country in countries:
+        filename = country.lower().replace(' ', '-').replace('(', '').replace(')', '').replace('*', '').replace(',', '') + '.csv'
+        with open(script_path + '/../_data/details/' + filename, 'a') as f:
+            if os.stat(script_path + '/../_data/details/' + filename).st_size == 0:
+                f.write('timestamp,confirmed,recovered,deaths\n')
+            f.write(str(last_update) + ',' + str(countries[country]['confirmed']) + ',' + str(countries[country]['recovered']) + ',' + str(countries[country]['deaths']) + '\n')
+    # write state and province level history
+    for country in breakdowns:
+        folder_name = country.lower().replace(' ', '-').replace('(', '').replace(')', '').replace('*', '').replace(',', '')
+        state_list = breakdowns[country]
+        for state_data in state_list:
+            filename = state_data['name'].lower().replace(' ', '-').replace('(', '').replace(')', '').replace('*', '').replace(',', '') + '.csv'
+            with open(script_path + '/../_data/details/' + folder_name + '/' + filename, 'a') as f:
+                if os.stat(script_path + '/../_data/details/' + folder_name + '/' + filename).st_size == 0:
+                    f.write('timestamp,confirmed,recovered,deaths\n')
+                f.write(str(last_update) + ',' + str(state_data['confirmed']) + ',' + str(state_data['recovered']) + ',' + str(state_data['deaths']) + '\n')
     repo.git.add('_data')
     repo.git.commit('-m', 'automatic data update', author='commit robot <noreply@thebigboard.cc>')
     repo.remote(name='origin').push()

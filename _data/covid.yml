@@ -1,6 +1,6 @@
-confirmed: 242191
-recovered: 84962
-deaths: 9843
+confirmed: 242714
+recovered: 84972
+deaths: 9867
 countries:
 - name: Afghanistan
   confirmed: 22
@@ -127,8 +127,8 @@ countries:
   recovered: 0
   deaths: 0
 - name: China
-  confirmed: 81155
-  recovered: 70535
+  confirmed: 81156
+  recovered: 70545
   deaths: 3249
 - name: Colombia
   confirmed: 102
@@ -442,6 +442,10 @@ countries:
   confirmed: 1
   recovered: 0
   deaths: 0
+- name: Niger
+  confirmed: 1
+  recovered: 0
+  deaths: 0
 - name: Nigeria
   confirmed: 8
   recovered: 1
@@ -607,9 +611,9 @@ countries:
   recovered: 0
   deaths: 3
 - name: US
-  confirmed: 13159
+  confirmed: 13680
   recovered: 108
-  deaths: 176
+  deaths: 200
 - name: Ukraine
   confirmed: 16
   recovered: 0
@@ -740,7 +744,7 @@ breakdowns:
     deaths: 1
   - name: Gansu
     confirmed: 134
-    recovered: 91
+    recovered: 98
     deaths: 2
   - name: Guangdong
     confirmed: 1378
@@ -772,7 +776,7 @@ breakdowns:
     deaths: 22
   - name: Hong Kong
     confirmed: 208
-    recovered: 95
+    recovered: 98
     deaths: 4
   - name: Hubei
     confirmed: 67800
@@ -835,7 +839,7 @@ breakdowns:
     recovered: 536
     deaths: 3
   - name: Tianjin
-    confirmed: 136
+    confirmed: 137
     recovered: 133
     deaths: 3
   - name: Tibet
@@ -856,7 +860,7 @@ breakdowns:
     deaths: 1
   US:
   - name: Alabama
-    confirmed: 69
+    confirmed: 78
     recovered: 0
     deaths: 0
   - name: Alaska
@@ -864,7 +868,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Arizona
-    confirmed: 44
+    confirmed: 45
     recovered: 0
     deaths: 0
   - name: Arkansas
@@ -876,15 +880,15 @@ breakdowns:
     recovered: 0
     deaths: 18
   - name: Colorado
-    confirmed: 221
+    confirmed: 277
     recovered: 0
-    deaths: 2
+    deaths: 4
   - name: Connecticut
-    confirmed: 97
+    confirmed: 159
     recovered: 0
     deaths: 2
   - name: Delaware
-    confirmed: 26
+    confirmed: 30
     recovered: 0
     deaths: 0
   - name: Diamond Princess
@@ -896,7 +900,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Florida
-    confirmed: 390
+    confirmed: 417
     recovered: 0
     deaths: 9
   - name: Georgia
@@ -924,11 +928,11 @@ breakdowns:
     recovered: 0
     deaths: 4
   - name: Indiana
-    confirmed: 57
+    confirmed: 60
     recovered: 0
     deaths: 2
   - name: Iowa
-    confirmed: 39
+    confirmed: 44
     recovered: 0
     deaths: 0
   - name: Kansas
@@ -938,11 +942,11 @@ breakdowns:
   - name: Kentucky
     confirmed: 37
     recovered: 0
-    deaths: 1
+    deaths: 2
   - name: Louisiana
-    confirmed: 347
+    confirmed: 392
     recovered: 0
-    deaths: 8
+    deaths: 10
   - name: Maine
     confirmed: 52
     recovered: 0
@@ -956,7 +960,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Michigan
-    confirmed: 336
+    confirmed: 334
     recovered: 0
     deaths: 3
   - name: Minnesota
@@ -964,11 +968,11 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Mississippi
-    confirmed: 51
+    confirmed: 50
     recovered: 0
-    deaths: 0
+    deaths: 1
   - name: Missouri
-    confirmed: 30
+    confirmed: 31
     recovered: 0
     deaths: 1
   - name: Montana
@@ -984,11 +988,11 @@ breakdowns:
     recovered: 0
     deaths: 1
   - name: New Hampshire
-    confirmed: 39
+    confirmed: 44
     recovered: 0
     deaths: 0
   - name: New Jersey
-    confirmed: 743
+    confirmed: 742
     recovered: 0
     deaths: 9
   - name: New Mexico
@@ -996,15 +1000,15 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: New York
-    confirmed: 5306
+    confirmed: 5365
     recovered: 0
-    deaths: 22
+    deaths: 34
   - name: North Carolina
-    confirmed: 121
+    confirmed: 123
     recovered: 0
     deaths: 0
   - name: North Dakota
-    confirmed: 15
+    confirmed: 18
     recovered: 0
     deaths: 0
   - name: Ohio
@@ -1012,7 +1016,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Oklahoma
-    confirmed: 46
+    confirmed: 44
     recovered: 0
     deaths: 1
   - name: Oregon
@@ -1028,11 +1032,11 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Rhode Island
-    confirmed: 33
+    confirmed: 44
     recovered: 0
     deaths: 0
   - name: South Carolina
-    confirmed: 63
+    confirmed: 81
     recovered: 0
     deaths: 1
   - name: South Dakota
@@ -1056,7 +1060,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Utah
-    confirmed: 66
+    confirmed: 80
     recovered: 0
     deaths: 0
   - name: Vermont
@@ -1068,24 +1072,24 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Virginia
-    confirmed: 96
+    confirmed: 99
     recovered: 0
     deaths: 2
   - name: Washington
-    confirmed: 1187
+    confirmed: 1376
     recovered: 0
-    deaths: 68
+    deaths: 74
   - name: West Virginia
     confirmed: 2
     recovered: 0
     deaths: 0
   - name: Wisconsin
-    confirmed: 149
+    confirmed: 159
     recovered: 0
     deaths: 0
   - name: Wyoming
     confirmed: 18
     recovered: 0
     deaths: 0
-updated: 2020-03-19 21:43:03
+updated: 2020-03-20 00:14:14
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

@@ -1,6 +1,6 @@
-confirmed: 277449
-recovered: 89211
-deaths: 11561
+confirmed: 278655
+recovered: 89276
+deaths: 11572
 countries:
 - name: Afghanistan
   confirmed: 24
@@ -31,7 +31,7 @@ countries:
   recovered: 3
   deaths: 3
 - name: Armenia
-  confirmed: 136
+  confirmed: 160
   recovered: 1
   deaths: 0
 - name: Australia
@@ -95,8 +95,8 @@ countries:
   recovered: 2
   deaths: 0
 - name: Bulgaria
-  confirmed: 127
-  recovered: 0
+  confirmed: 142
+  recovered: 3
   deaths: 3
 - name: Burkina Faso
   confirmed: 40
@@ -135,7 +135,7 @@ countries:
   recovered: 71857
   deaths: 3259
 - name: Colombia
-  confirmed: 128
+  confirmed: 158
   recovered: 1
   deaths: 0
 - name: Congo (Brazzaville)
@@ -155,7 +155,7 @@ countries:
   recovered: 1
   deaths: 0
 - name: Croatia
-  confirmed: 130
+  confirmed: 168
   recovered: 5
   deaths: 1
 - name: Cruise Ship
@@ -171,7 +171,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Czechia
-  confirmed: 833
+  confirmed: 925
   recovered: 4
   deaths: 0
 - name: Denmark
@@ -203,7 +203,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Estonia
-  confirmed: 283
+  confirmed: 306
   recovered: 1
   deaths: 0
 - name: Eswatini
@@ -219,7 +219,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Finland
-  confirmed: 450
+  confirmed: 503
   recovered: 10
   deaths: 0
 - name: France
@@ -283,7 +283,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Hungary
-  confirmed: 85
+  confirmed: 103
   recovered: 7
   deaths: 4
 - name: Iceland
@@ -291,13 +291,13 @@ countries:
   recovered: 5
   deaths: 0
 - name: India
-  confirmed: 250
+  confirmed: 294
   recovered: 23
-  deaths: 5
+  deaths: 4
 - name: Indonesia
-  confirmed: 369
+  confirmed: 450
   recovered: 15
-  deaths: 32
+  deaths: 38
 - name: Iran
   confirmed: 20610
   recovered: 7635
@@ -311,8 +311,8 @@ countries:
   recovered: 5
   deaths: 3
 - name: Israel
-  confirmed: 705
-  recovered: 15
+  confirmed: 883
+  recovered: 36
   deaths: 1
 - name: Italy
   confirmed: 47021
@@ -323,9 +323,9 @@ countries:
   recovered: 2
   deaths: 1
 - name: Japan
-  confirmed: 963
+  confirmed: 1007
   recovered: 191
-  deaths: 33
+  deaths: 35
 - name: Jordan
   confirmed: 85
   recovered: 1
@@ -347,19 +347,19 @@ countries:
   recovered: 0
   deaths: 0
 - name: Kuwait
-  confirmed: 159
-  recovered: 18
+  confirmed: 176
+  recovered: 27
   deaths: 0
 - name: Kyrgyzstan
   confirmed: 6
   recovered: 0
   deaths: 0
 - name: Latvia
-  confirmed: 111
+  confirmed: 124
   recovered: 1
   deaths: 0
 - name: Lebanon
-  confirmed: 177
+  confirmed: 187
   recovered: 4
   deaths: 4
 - name: Liberia
@@ -383,9 +383,9 @@ countries:
   recovered: 0
   deaths: 0
 - name: Malaysia
-  confirmed: 1030
-  recovered: 87
-  deaths: 3
+  confirmed: 1183
+  recovered: 114
+  deaths: 4
 - name: Maldives
   confirmed: 13
   recovered: 0
@@ -411,9 +411,9 @@ countries:
   recovered: 0
   deaths: 0
 - name: Mexico
-  confirmed: 164
+  confirmed: 203
   recovered: 4
-  deaths: 1
+  deaths: 2
 - name: Moldova
   confirmed: 66
   recovered: 1
@@ -467,7 +467,7 @@ countries:
   recovered: 1
   deaths: 0
 - name: Norway
-  confirmed: 1959
+  confirmed: 1994
   recovered: 1
   deaths: 7
 - name: Oman
@@ -475,7 +475,7 @@ countries:
   recovered: 12
   deaths: 0
 - name: Pakistan
-  confirmed: 501
+  confirmed: 534
   recovered: 13
   deaths: 3
 - name: Panama
@@ -495,17 +495,17 @@ countries:
   recovered: 1
   deaths: 4
 - name: Philippines
-  confirmed: 230
-  recovered: 8
-  deaths: 18
+  confirmed: 307
+  recovered: 13
+  deaths: 19
 - name: Poland
-  confirmed: 425
+  confirmed: 439
   recovered: 1
   deaths: 5
 - name: Portugal
   confirmed: 1020
   recovered: 5
-  deaths: 6
+  deaths: 7
 - name: Qatar
   confirmed: 470
   recovered: 10
@@ -547,7 +547,7 @@ countries:
   recovered: 5
   deaths: 0
 - name: Serbia
-  confirmed: 135
+  confirmed: 149
   recovered: 1
   deaths: 1
 - name: Seychelles
@@ -571,7 +571,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: South Africa
-  confirmed: 202
+  confirmed: 240
   recovered: 0
   deaths: 0
 - name: Spain
@@ -591,7 +591,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Sweden
-  confirmed: 1639
+  confirmed: 1657
   recovered: 16
   deaths: 16
 - name: Switzerland
@@ -607,7 +607,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Thailand
-  confirmed: 322
+  confirmed: 411
   recovered: 42
   deaths: 1
 - name: Togo
@@ -643,7 +643,7 @@ countries:
   recovered: 67
   deaths: 178
 - name: Uruguay
-  confirmed: 94
+  confirmed: 110
   recovered: 0
   deaths: 0
 - name: Uzbekistan
@@ -1107,5 +1107,5 @@ breakdowns:
     confirmed: 21
     recovered: 0
     deaths: 0
-updated: 2020-03-21 11:13:12
+updated: 2020-03-21 12:13:19
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

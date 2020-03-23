@@ -52,6 +52,8 @@ with closing(requests.get(source_url, stream=True)) as r:
         confirmed += int(row[confirmed_col])
         recovered += int(row[recovered_col])
         deaths += int(row[deaths_col])
+        if not len(row[update_col]):
+            continue
         row_update = datetime.strptime(row[update_col], '%Y-%m-%dT%H:%M:%S.000Z')
         if row_update > last_update:
             last_update = row_update

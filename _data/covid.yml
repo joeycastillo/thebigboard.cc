@@ -1,6 +1,6 @@
-confirmed: 339645
-recovered: 98840
-deaths: 14717
+confirmed: 341365
+recovered: 98866
+deaths: 14759
 countries:
 - name: Afghanistan
   confirmed: 40
@@ -35,11 +35,11 @@ countries:
   recovered: 2
   deaths: 0
 - name: Australia
-  confirmed: 1562
+  confirmed: 1676
   recovered: 119
   deaths: 7
 - name: Austria
-  confirmed: 3582
+  confirmed: 3627
   recovered: 9
   deaths: 16
 - name: Azerbaijan
@@ -51,8 +51,8 @@ countries:
   recovered: 0
   deaths: 0
 - name: Bahrain
-  confirmed: 334
-  recovered: 149
+  confirmed: 335
+  recovered: 160
   deaths: 2
 - name: Bangladesh
   confirmed: 27
@@ -79,7 +79,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Bolivia
-  confirmed: 24
+  confirmed: 27
   recovered: 0
   deaths: 0
 - name: Bosnia and Herzegovina
@@ -95,7 +95,7 @@ countries:
   recovered: 2
   deaths: 0
 - name: Bulgaria
-  confirmed: 187
+  confirmed: 190
   recovered: 3
   deaths: 3
 - name: Burkina Faso
@@ -111,7 +111,7 @@ countries:
   recovered: 2
   deaths: 0
 - name: Cameroon
-  confirmed: 40
+  confirmed: 56
   recovered: 2
   deaths: 0
 - name: Canada
@@ -132,10 +132,10 @@ countries:
   deaths: 1
 - name: China
   confirmed: 81454
-  recovered: 72817
+  recovered: 72818
   deaths: 3274
 - name: Colombia
-  confirmed: 231
+  confirmed: 235
   recovered: 3
   deaths: 2
 - name: Congo (Brazzaville)
@@ -151,8 +151,8 @@ countries:
   recovered: 2
   deaths: 2
 - name: Cote d'Ivoire
-  confirmed: 14
-  recovered: 1
+  confirmed: 25
+  recovered: 2
   deaths: 0
 - name: Croatia
   confirmed: 254
@@ -171,12 +171,12 @@ countries:
   recovered: 3
   deaths: 1
 - name: Czechia
-  confirmed: 1120
+  confirmed: 1165
   recovered: 6
   deaths: 1
 - name: Denmark
-  confirmed: 1514
-  recovered: 4
+  confirmed: 1517
+  recovered: 15
   deaths: 13
 - name: Djibouti
   confirmed: 1
@@ -231,7 +231,7 @@ countries:
   recovered: 10
   deaths: 1
 - name: France
-  confirmed: 16243
+  confirmed: 16246
   recovered: 2201
   deaths: 676
 - name: Gabon
@@ -244,7 +244,7 @@ countries:
   deaths: 0
 - name: Georgia
   confirmed: 54
-  recovered: 1
+  recovered: 3
   deaths: 0
 - name: Germany
   confirmed: 24873
@@ -355,7 +355,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Latvia
-  confirmed: 139
+  confirmed: 180
   recovered: 1
   deaths: 0
 - name: Lebanon
@@ -367,7 +367,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Liechtenstein
-  confirmed: 37
+  confirmed: 46
   recovered: 0
   deaths: 0
 - name: Lithuania
@@ -379,13 +379,13 @@ countries:
   recovered: 6
   deaths: 8
 - name: Madagascar
-  confirmed: 3
+  confirmed: 12
   recovered: 0
   deaths: 0
 - name: Malaysia
   confirmed: 1306
   recovered: 139
-  deaths: 10
+  deaths: 11
 - name: Maldives
   confirmed: 13
   recovered: 3
@@ -435,7 +435,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Nepal
-  confirmed: 1
+  confirmed: 2
   recovered: 1
   deaths: 0
 - name: Netherlands
@@ -471,7 +471,7 @@ countries:
   recovered: 17
   deaths: 0
 - name: Pakistan
-  confirmed: 799
+  confirmed: 803
   recovered: 13
   deaths: 6
 - name: Panama
@@ -495,7 +495,7 @@ countries:
   recovered: 18
   deaths: 33
 - name: Poland
-  confirmed: 634
+  confirmed: 649
   recovered: 13
   deaths: 7
 - name: Portugal
@@ -567,9 +567,9 @@ countries:
   recovered: 2
   deaths: 0
 - name: Spain
-  confirmed: 28768
+  confirmed: 29909
   recovered: 2575
-  deaths: 1772
+  deaths: 1813
 - name: Sri Lanka
   confirmed: 86
   recovered: 3
@@ -587,7 +587,7 @@ countries:
   recovered: 16
   deaths: 21
 - name: Switzerland
-  confirmed: 7474
+  confirmed: 7724
   recovered: 131
   deaths: 98
 - name: Syria
@@ -659,7 +659,7 @@ countries:
   recovered: 15
   deaths: 0
 - name: Vietnam
-  confirmed: 116
+  confirmed: 118
   recovered: 17
   deaths: 0
 - name: Zambia
@@ -685,11 +685,11 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Queensland
-    confirmed: 259
+    confirmed: 319
     recovered: 8
     deaths: 0
   - name: South Australia
-    confirmed: 100
+    confirmed: 134
     recovered: 6
     deaths: 0
   - name: Tasmania
@@ -701,7 +701,7 @@ breakdowns:
     recovered: 97
     deaths: 0
   - name: Western Australia
-    confirmed: 120
+    confirmed: 140
     recovered: 1
     deaths: 1
   Canada:
@@ -760,7 +760,7 @@ breakdowns:
     deaths: 6
   - name: Beijing
     confirmed: 537
-    recovered: 400
+    recovered: 401
     deaths: 8
   - name: Chongqing
     confirmed: 577
@@ -1123,5 +1123,5 @@ breakdowns:
     confirmed: 26
     recovered: 0
     deaths: 0
-updated: 2020-03-23 06:55:28
+updated: 2020-03-23 08:01:23
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

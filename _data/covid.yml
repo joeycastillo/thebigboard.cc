@@ -1,6 +1,6 @@
-confirmed: 378287
-recovered: 100958
-deaths: 16497
+confirmed: 378601
+recovered: 100982
+deaths: 16505
 countries:
 - name: Afghanistan
   confirmed: 40
@@ -27,8 +27,8 @@ countries:
   recovered: 0
   deaths: 0
 - name: Argentina
-  confirmed: 266
-  recovered: 27
+  confirmed: 301
+  recovered: 51
   deaths: 4
 - name: Armenia
   confirmed: 235
@@ -87,7 +87,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Bosnia and Herzegovina
-  confirmed: 132
+  confirmed: 136
   recovered: 2
   deaths: 1
 - name: Brazil
@@ -135,7 +135,7 @@ countries:
   recovered: 11
   deaths: 2
 - name: China
-  confirmed: 81496
+  confirmed: 81498
   recovered: 72819
   deaths: 3274
 - name: Colombia
@@ -287,7 +287,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Honduras
-  confirmed: 27
+  confirmed: 30
   recovered: 0
   deaths: 0
 - name: Hungary
@@ -479,9 +479,9 @@ countries:
   recovered: 13
   deaths: 6
 - name: Panama
-  confirmed: 313
+  confirmed: 345
   recovered: 1
-  deaths: 3
+  deaths: 6
 - name: Papua New Guinea
   confirmed: 1
   recovered: 0
@@ -631,9 +631,9 @@ countries:
   recovered: 0
   deaths: 37
 - name: US
-  confirmed: 43667
+  confirmed: 43901
   recovered: 0
-  deaths: 552
+  deaths: 557
 - name: Uganda
   confirmed: 9
   recovered: 0
@@ -651,7 +651,7 @@ countries:
   recovered: 140
   deaths: 336
 - name: Uruguay
-  confirmed: 158
+  confirmed: 162
   recovered: 0
   deaths: 0
 - name: Uzbekistan
@@ -767,7 +767,7 @@ breakdowns:
     recovered: 401
     deaths: 8
   - name: Chongqing
-    confirmed: 577
+    confirmed: 578
     recovered: 570
     deaths: 6
   - name: Fujian
@@ -863,7 +863,7 @@ breakdowns:
     recovered: 329
     deaths: 4
   - name: Shanxi
-    confirmed: 133
+    confirmed: 134
     recovered: 133
     deaths: 0
   - name: Sichuan
@@ -908,15 +908,15 @@ breakdowns:
     recovered: 0
     deaths: 2
   - name: Arkansas
-    confirmed: 192
+    confirmed: 197
     recovered: 0
     deaths: 0
   - name: California
-    confirmed: 2108
+    confirmed: 2176
     recovered: 0
-    deaths: 39
+    deaths: 40
   - name: Colorado
-    confirmed: 704
+    confirmed: 723
     recovered: 0
     deaths: 7
   - name: Connecticut
@@ -940,9 +940,9 @@ breakdowns:
     recovered: 0
     deaths: 18
   - name: Georgia
-    confirmed: 772
+    confirmed: 803
     recovered: 0
-    deaths: 25
+    deaths: 26
   - name: Grand Princess
     confirmed: 28
     recovered: 0
@@ -952,7 +952,7 @@ breakdowns:
     recovered: 0
     deaths: 1
   - name: Hawaii
-    confirmed: 56
+    confirmed: 77
     recovered: 0
     deaths: 0
   - name: Idaho
@@ -1008,15 +1008,15 @@ breakdowns:
     recovered: 0
     deaths: 1
   - name: Missouri
-    confirmed: 187
+    confirmed: 195
     recovered: 0
     deaths: 4
   - name: Montana
-    confirmed: 34
+    confirmed: 46
     recovered: 0
     deaths: 0
   - name: Nebraska
-    confirmed: 51
+    confirmed: 52
     recovered: 0
     deaths: 0
   - name: Nevada
@@ -1036,11 +1036,11 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: New York
-    confirmed: 20884
+    confirmed: 20885
     recovered: 0
     deaths: 158
   - name: North Carolina
-    confirmed: 353
+    confirmed: 404
     recovered: 0
     deaths: 0
   - name: North Dakota
@@ -1088,7 +1088,7 @@ breakdowns:
     recovered: 0
     deaths: 2
   - name: Texas
-    confirmed: 758
+    confirmed: 765
     recovered: 0
     deaths: 9
   - name: Utah
@@ -1100,17 +1100,17 @@ breakdowns:
     recovered: 0
     deaths: 5
   - name: Virgin Islands
-    confirmed: 7
+    confirmed: 17
     recovered: 0
     deaths: 0
   - name: Virginia
     confirmed: 254
     recovered: 0
-    deaths: 6
+    deaths: 7
   - name: Washington
     confirmed: 2221
     recovered: 0
-    deaths: 109
+    deaths: 111
   - name: West Virginia
     confirmed: 16
     recovered: 0
@@ -1127,5 +1127,5 @@ breakdowns:
     confirmed: 26
     recovered: 0
     deaths: 0
-updated: 2020-03-23 23:23:20
+updated: 2020-03-24 00:36:33
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

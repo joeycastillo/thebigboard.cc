@@ -1,6 +1,6 @@
-confirmed: 382644
-recovered: 101898
-deaths: 16587
+confirmed: 383944
+recovered: 101911
+deaths: 16595
 countries:
 - name: Afghanistan
   confirmed: 42
@@ -39,7 +39,7 @@ countries:
   recovered: 119
   deaths: 8
 - name: Austria
-  confirmed: 4517
+  confirmed: 4668
   recovered: 9
   deaths: 25
 - name: Azerbaijan
@@ -55,9 +55,9 @@ countries:
   recovered: 164
   deaths: 2
 - name: Bangladesh
-  confirmed: 33
+  confirmed: 39
   recovered: 5
-  deaths: 3
+  deaths: 4
 - name: Barbados
   confirmed: 17
   recovered: 0
@@ -87,11 +87,11 @@ countries:
   recovered: 0
   deaths: 0
 - name: Bosnia and Herzegovina
-  confirmed: 137
+  confirmed: 150
   recovered: 2
   deaths: 1
 - name: Brazil
-  confirmed: 1924
+  confirmed: 1960
   recovered: 2
   deaths: 34
 - name: Brunei
@@ -127,7 +127,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Chad
-  confirmed: 2
+  confirmed: 3
   recovered: 0
   deaths: 0
 - name: Chile
@@ -136,7 +136,7 @@ countries:
   deaths: 2
 - name: China
   confirmed: 81558
-  recovered: 73277
+  recovered: 73278
   deaths: 3281
 - name: Colombia
   confirmed: 306
@@ -147,7 +147,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Congo (Kinshasa)
-  confirmed: 36
+  confirmed: 45
   recovered: 0
   deaths: 2
 - name: Costa Rica
@@ -179,7 +179,7 @@ countries:
   recovered: 7
   deaths: 1
 - name: Denmark
-  confirmed: 1582
+  confirmed: 1699
   recovered: 24
   deaths: 24
 - name: Djibouti
@@ -215,7 +215,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Estonia
-  confirmed: 352
+  confirmed: 369
   recovered: 4
   deaths: 0
 - name: Eswatini
@@ -235,7 +235,7 @@ countries:
   recovered: 10
   deaths: 1
 - name: France
-  confirmed: 20142
+  confirmed: 20149
   recovered: 2207
   deaths: 862
 - name: Gabon
@@ -247,13 +247,13 @@ countries:
   recovered: 0
   deaths: 1
 - name: Georgia
-  confirmed: 66
+  confirmed: 67
   recovered: 9
   deaths: 0
 - name: Germany
-  confirmed: 29056
+  confirmed: 29560
   recovered: 453
-  deaths: 123
+  deaths: 126
 - name: Ghana
   confirmed: 27
   recovered: 0
@@ -297,15 +297,15 @@ countries:
 - name: Iceland
   confirmed: 588
   recovered: 51
-  deaths: 1
+  deaths: 2
 - name: India
   confirmed: 511
   recovered: 37
   deaths: 10
 - name: Indonesia
-  confirmed: 579
+  confirmed: 686
   recovered: 30
-  deaths: 49
+  deaths: 55
 - name: Iran
   confirmed: 23049
   recovered: 8376
@@ -358,6 +358,10 @@ countries:
   confirmed: 42
   recovered: 0
   deaths: 0
+- name: Laos
+  confirmed: 2
+  recovered: 0
+  deaths: 0
 - name: Latvia
   confirmed: 197
   recovered: 1
@@ -387,8 +391,8 @@ countries:
   recovered: 0
   deaths: 0
 - name: Malaysia
-  confirmed: 1518
-  recovered: 159
+  confirmed: 1624
+  recovered: 183
   deaths: 15
 - name: Maldives
   confirmed: 13
@@ -423,7 +427,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Montenegro
-  confirmed: 27
+  confirmed: 29
   recovered: 0
   deaths: 1
 - name: Morocco
@@ -495,12 +499,12 @@ countries:
   recovered: 1
   deaths: 5
 - name: Philippines
-  confirmed: 501
+  confirmed: 552
   recovered: 19
   deaths: 33
 - name: Poland
   confirmed: 766
-  recovered: 13
+  recovered: 1
   deaths: 8
 - name: Portugal
   confirmed: 2060
@@ -555,7 +559,7 @@ countries:
   recovered: 152
   deaths: 2
 - name: Slovakia
-  confirmed: 186
+  confirmed: 204
   recovered: 7
   deaths: 0
 - name: Slovenia
@@ -567,7 +571,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: South Africa
-  confirmed: 402
+  confirmed: 554
   recovered: 4
   deaths: 0
 - name: Spain
@@ -593,7 +597,7 @@ countries:
 - name: Switzerland
   confirmed: 8795
   recovered: 131
-  deaths: 120
+  deaths: 117
 - name: Syria
   confirmed: 1
   recovered: 0
@@ -860,7 +864,7 @@ breakdowns:
     deaths: 7
   - name: Shanghai
     confirmed: 414
-    recovered: 329
+    recovered: 330
     deaths: 4
   - name: Shanxi
     confirmed: 134
@@ -1127,5 +1131,5 @@ breakdowns:
     confirmed: 28
     recovered: 0
     deaths: 0
-updated: 2020-03-24 08:22:03
+updated: 2020-03-24 09:28:37
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

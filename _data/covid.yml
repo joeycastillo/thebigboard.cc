@@ -1,6 +1,6 @@
-confirmed: 421792
-recovered: 107762
-deaths: 18883
+confirmed: 422652
+recovered: 108349
+deaths: 18901
 countries:
 - name: Afghanistan
   confirmed: 74
@@ -117,7 +117,7 @@ countries:
 - name: Cameroon
   confirmed: 66
   recovered: 2
-  deaths: 0
+  deaths: 1
 - name: Canada
   confirmed: 2792
   recovered: 110
@@ -178,6 +178,10 @@ countries:
   confirmed: 1718
   recovered: 36
   deaths: 32
+- name: Diamond Princess
+  confirmed: 712
+  recovered: 587
+  deaths: 10
 - name: Djibouti
   confirmed: 3
   recovered: 0
@@ -635,9 +639,9 @@ countries:
   recovered: 0
   deaths: 44
 - name: US
-  confirmed: 54893
+  confirmed: 55041
   recovered: 348
-  deaths: 783
+  deaths: 790
 - name: Uganda
   confirmed: 9
   recovered: 0
@@ -916,15 +920,15 @@ breakdowns:
     recovered: 0
     deaths: 5
   - name: Arkansas
-    confirmed: 220
+    confirmed: 232
     recovered: 0
     deaths: 2
   - name: California
-    confirmed: 2539
+    confirmed: 2562
     recovered: 0
     deaths: 51
   - name: Colorado
-    confirmed: 824
+    confirmed: 870
     recovered: 0
     deaths: 8
   - name: Connecticut
@@ -940,7 +944,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: District of Columbia
-    confirmed: 141
+    confirmed: 187
     recovered: 0
     deaths: 2
   - name: Florida
@@ -948,9 +952,9 @@ breakdowns:
     recovered: 0
     deaths: 23
   - name: Georgia
-    confirmed: 1091
+    confirmed: 1097
     recovered: 0
-    deaths: 32
+    deaths: 38
   - name: Grand Princess
     confirmed: 28
     recovered: 0
@@ -1090,7 +1094,7 @@ breakdowns:
   - name: South Carolina
     confirmed: 342
     recovered: 0
-    deaths: 5
+    deaths: 6
   - name: South Dakota
     confirmed: 30
     recovered: 0
@@ -1100,7 +1104,7 @@ breakdowns:
     recovered: 0
     deaths: 2
   - name: Texas
-    confirmed: 986
+    confirmed: 999
     recovered: 0
     deaths: 12
   - name: Utah
@@ -1132,8 +1136,8 @@ breakdowns:
     recovered: 0
     deaths: 5
   - name: Wyoming
-    confirmed: 31
+    confirmed: 33
     recovered: 0
     deaths: 0
-updated: 2020-03-25 01:57:33
+updated: 2020-03-25 02:49:13
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

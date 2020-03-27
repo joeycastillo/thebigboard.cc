@@ -1,0 +1,9 @@
+---
+---
+{
+    "all_global" : {"confirmed":{{site.data.covid.confirmed}},"deaths":{{site.data.covid.deaths}},"recovered":{{site.data.covid.recovered}}},
+    {% for country in site.data.covid.countries %}{% if country.name == "Canada" %}"all_country" : {"confirmed":{{country.confirmed}},"recovered":{{country.recovered}},"deaths":{{country.deaths}}}{% endif %}{% endfor %},
+{% for state in site.data.covid.breakdowns.Canada %}    "{{state.name}}" : {"confirmed":{{state.confirmed}},"recovered":{{state.recovered}},"deaths":{{state.deaths}}}{% if forloop.last == false %},
+{% endif %}{% endfor %},
+    "updated":"{{site.data.covid.updated}}"
+}

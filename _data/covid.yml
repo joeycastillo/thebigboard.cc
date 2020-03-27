@@ -1,6 +1,6 @@
-confirmed: 532253
-recovered: 122627
-deaths: 24072
+confirmed: 532692
+recovered: 122672
+deaths: 24075
 countries:
 - name: Afghanistan
   confirmed: 94
@@ -35,8 +35,8 @@ countries:
   recovered: 18
   deaths: 1
 - name: Australia
-  confirmed: 2810
-  recovered: 172
+  confirmed: 3059
+  recovered: 194
   deaths: 13
 - name: Austria
   confirmed: 6909
@@ -79,7 +79,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Bhutan
-  confirmed: 2
+  confirmed: 3
   recovered: 0
   deaths: 0
 - name: Bolivia
@@ -116,10 +116,10 @@ countries:
   deaths: 1
 - name: Cambodia
   confirmed: 98
-  recovered: 10
+  recovered: 11
   deaths: 0
 - name: Cameroon
-  confirmed: 75
+  confirmed: 88
   recovered: 2
   deaths: 1
 - name: Canada
@@ -307,8 +307,8 @@ countries:
   recovered: 82
   deaths: 2
 - name: India
-  confirmed: 727
-  recovered: 45
+  confirmed: 733
+  recovered: 66
   deaths: 20
 - name: Indonesia
   confirmed: 893
@@ -347,7 +347,7 @@ countries:
   recovered: 1
   deaths: 0
 - name: Kazakhstan
-  confirmed: 113
+  confirmed: 121
   recovered: 2
   deaths: 1
 - name: Kenya
@@ -409,7 +409,7 @@ countries:
 - name: Malaysia
   confirmed: 2031
   recovered: 215
-  deaths: 23
+  deaths: 24
 - name: Maldives
   confirmed: 13
   recovered: 8
@@ -433,7 +433,7 @@ countries:
 - name: Mexico
   confirmed: 585
   recovered: 4
-  deaths: 6
+  deaths: 8
 - name: Moldova
   confirmed: 177
   recovered: 2
@@ -511,8 +511,8 @@ countries:
   recovered: 0
   deaths: 0
 - name: Paraguay
-  confirmed: 41
-  recovered: 0
+  confirmed: 52
+  recovered: 1
   deaths: 3
 - name: Peru
   confirmed: 580
@@ -659,7 +659,7 @@ countries:
   recovered: 26
   deaths: 75
 - name: US
-  confirmed: 85840
+  confirmed: 85991
   recovered: 753
   deaths: 1296
 - name: Uganda
@@ -709,11 +709,11 @@ countries:
 breakdowns:
   Australia:
   - name: Australian Capital Territory
-    confirmed: 53
+    confirmed: 62
     recovered: 1
     deaths: 0
   - name: New South Wales
-    confirmed: 1219
+    confirmed: 1405
     recovered: 4
     deaths: 7
   - name: Northern Territory
@@ -733,8 +733,8 @@ breakdowns:
     recovered: 3
     deaths: 0
   - name: Victoria
-    confirmed: 520
-    recovered: 149
+    confirmed: 574
+    recovered: 171
     deaths: 3
   - name: Western Australia
     confirmed: 231
@@ -956,7 +956,7 @@ breakdowns:
     recovered: 0
     deaths: 2
   - name: California
-    confirmed: 4032
+    confirmed: 4040
     recovered: 0
     deaths: 82
   - name: Colorado
@@ -1000,7 +1000,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Idaho
-    confirmed: 190
+    confirmed: 191
     recovered: 0
     deaths: 3
   - name: Illinois
@@ -1008,7 +1008,7 @@ breakdowns:
     recovered: 0
     deaths: 26
   - name: Indiana
-    confirmed: 656
+    confirmed: 657
     recovered: 0
     deaths: 17
   - name: Iowa
@@ -1060,11 +1060,11 @@ breakdowns:
     recovered: 0
     deaths: 1
   - name: Nebraska
-    confirmed: 74
+    confirmed: 82
     recovered: 0
     deaths: 0
   - name: Nevada
-    confirmed: 430
+    confirmed: 535
     recovered: 0
     deaths: 10
   - name: New Hampshire
@@ -1084,7 +1084,7 @@ breakdowns:
     recovered: 0
     deaths: 457
   - name: North Carolina
-    confirmed: 749
+    confirmed: 755
     recovered: 0
     deaths: 3
   - name: North Dakota
@@ -1104,11 +1104,11 @@ breakdowns:
     recovered: 0
     deaths: 7
   - name: Oregon
-    confirmed: 316
+    confirmed: 317
     recovered: 0
     deaths: 11
   - name: Pennsylvania
-    confirmed: 1795
+    confirmed: 1813
     recovered: 0
     deaths: 18
   - name: Puerto Rico
@@ -1136,7 +1136,7 @@ breakdowns:
     recovered: 0
     deaths: 3
   - name: Texas
-    confirmed: 1651
+    confirmed: 1654
     recovered: 0
     deaths: 24
   - name: Utah
@@ -1171,5 +1171,5 @@ breakdowns:
     confirmed: 56
     recovered: 0
     deaths: 0
-updated: 2020-03-27 03:47:54
+updated: 2020-03-27 04:55:53
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

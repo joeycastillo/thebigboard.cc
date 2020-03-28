@@ -21,6 +21,10 @@ breakdowns = dict()
 for country in countries_to_break_down:
     breakdowns[country] = list()
 
+script_path = os.path.dirname(os.path.realpath(__file__))
+repo = Repo(script_path + '/..')
+repo.remote(name='origin').pull()
+
 with closing(requests.get(source_url, stream=True)) as r:
     reader = csv.reader(codecs.iterdecode(r.iter_lines(), 'utf-8') , delimiter=',', quotechar='"')
 
@@ -88,8 +92,6 @@ countries_list = sorted(countries_list, key=lambda k: k['name'])
 
 new_yaml = None
 
-script_path = os.path.dirname(os.path.realpath(__file__))
-
 with open(script_path + '/../_data/covid.yml', 'r') as f:
     s = f.read()
     dict = yaml.safe_load(s)
@@ -106,8 +108,6 @@ with open(script_path + '/../_data/covid.yml', 'r') as f:
         new_yaml = yaml.dump(dict, default_flow_style=False, sort_keys=False)
 
 if new_yaml is not None:
-    repo = Repo(script_path + '/..')
-    repo.remote(name='origin').pull()
     # write data file for website
     with open(script_path + '/../_data/covid.yml', 'w') as f:
         f.write(new_yaml)

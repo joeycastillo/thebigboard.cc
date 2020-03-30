@@ -1,6 +1,6 @@
-confirmed: 721817
-recovered: 151204
-deaths: 33968
+confirmed: 722289
+recovered: 151901
+deaths: 33984
 countries:
 - name: Afghanistan
   confirmed: 120
@@ -139,9 +139,9 @@ countries:
   recovered: 75
   deaths: 7
 - name: China
-  confirmed: 82133
-  recovered: 75583
-  deaths: 3304
+  confirmed: 82149
+  recovered: 75903
+  deaths: 3308
 - name: Colombia
   confirmed: 702
   recovered: 10
@@ -164,7 +164,7 @@ countries:
   deaths: 1
 - name: Croatia
   confirmed: 713
-  recovered: 52
+  recovered: 55
   deaths: 6
 - name: Cuba
   confirmed: 139
@@ -255,7 +255,7 @@ countries:
   recovered: 18
   deaths: 0
 - name: Germany
-  confirmed: 62095
+  confirmed: 62435
   recovered: 9211
   deaths: 541
 - name: Ghana
@@ -355,9 +355,9 @@ countries:
   recovered: 1
   deaths: 1
 - name: Korea, South
-  confirmed: 9583
-  recovered: 5033
-  deaths: 152
+  confirmed: 9661
+  recovered: 5228
+  deaths: 158
 - name: Kosovo
   confirmed: 94
   recovered: 1
@@ -436,7 +436,7 @@ countries:
   deaths: 3
 - name: Mexico
   confirmed: 848
-  recovered: 4
+  recovered: 35
   deaths: 16
 - name: Moldova
   confirmed: 263
@@ -476,7 +476,7 @@ countries:
   deaths: 772
 - name: New Zealand
   confirmed: 514
-  recovered: 56
+  recovered: 63
   deaths: 1
 - name: Nicaragua
   confirmed: 4
@@ -497,7 +497,7 @@ countries:
 - name: Norway
   confirmed: 4284
   recovered: 7
-  deaths: 25
+  deaths: 26
 - name: Oman
   confirmed: 167
   recovered: 23
@@ -515,7 +515,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Paraguay
-  confirmed: 59
+  confirmed: 64
   recovered: 1
   deaths: 3
 - name: Peru
@@ -632,22 +632,22 @@ countries:
   deaths: 1
 - name: Taiwan*
   confirmed: 298
-  recovered: 30
-  deaths: 2
+  recovered: 39
+  deaths: 3
 - name: Tanzania
   confirmed: 14
   recovered: 1
   deaths: 0
 - name: Thailand
   confirmed: 1388
-  recovered: 97
+  recovered: 229
   deaths: 7
 - name: Timor-Leste
   confirmed: 1
   recovered: 0
   deaths: 0
 - name: Togo
-  confirmed: 25
+  confirmed: 30
   recovered: 1
   deaths: 1
 - name: Trinidad and Tobago
@@ -663,9 +663,9 @@ countries:
   recovered: 105
   deaths: 131
 - name: US
-  confirmed: 142328
+  confirmed: 142356
   recovered: 4767
-  deaths: 2489
+  deaths: 2493
 - name: Uganda
   confirmed: 33
   recovered: 0
@@ -819,7 +819,7 @@ breakdowns:
     recovered: 570
     deaths: 6
   - name: Fujian
-    confirmed: 338
+    confirmed: 340
     recovered: 295
     deaths: 1
   - name: Gansu
@@ -827,8 +827,8 @@ breakdowns:
     recovered: 125
     deaths: 2
   - name: Guangdong
-    confirmed: 1475
-    recovered: 1349
+    confirmed: 1484
+    recovered: 1351
     deaths: 8
   - name: Guangxi
     confirmed: 254
@@ -843,7 +843,7 @@ breakdowns:
     recovered: 168
     deaths: 6
   - name: Hebei
-    confirmed: 319
+    confirmed: 321
     recovered: 310
     deaths: 6
   - name: Heilongjiang
@@ -856,12 +856,12 @@ breakdowns:
     deaths: 22
   - name: Hong Kong
     confirmed: 641
-    recovered: 112
+    recovered: 118
     deaths: 4
   - name: Hubei
     confirmed: 67801
-    recovered: 62570
-    deaths: 3182
+    recovered: 62882
+    deaths: 3186
   - name: Hunan
     confirmed: 1018
     recovered: 1014
@@ -871,7 +871,7 @@ breakdowns:
     recovered: 74
     deaths: 1
   - name: Jiangsu
-    confirmed: 644
+    confirmed: 645
     recovered: 631
     deaths: 0
   - name: Jiangxi
@@ -887,7 +887,7 @@ breakdowns:
     recovered: 124
     deaths: 2
   - name: Macau
-    confirmed: 37
+    confirmed: 38
     recovered: 10
     deaths: 0
   - name: Ningxia
@@ -935,7 +935,7 @@ breakdowns:
     recovered: 172
     deaths: 2
   - name: Zhejiang
-    confirmed: 1254
+    confirmed: 1255
     recovered: 1225
     deaths: 1
   US:
@@ -944,7 +944,7 @@ breakdowns:
     recovered: 0
     deaths: 10
   - name: Alaska
-    confirmed: 102
+    confirmed: 111
     recovered: 0
     deaths: 2
   - name: American Samoa
@@ -988,9 +988,9 @@ breakdowns:
     recovered: 0
     deaths: 60
   - name: Georgia
-    confirmed: 2671
+    confirmed: 2683
     recovered: 0
-    deaths: 80
+    deaths: 84
   - name: Grand Princess
     confirmed: 103
     recovered: 0
@@ -1140,11 +1140,11 @@ breakdowns:
     recovered: 0
     deaths: 8
   - name: Texas
-    confirmed: 2813
+    confirmed: 2818
     recovered: 0
     deaths: 37
   - name: Utah
-    confirmed: 720
+    confirmed: 722
     recovered: 0
     deaths: 2
   - name: Vermont
@@ -1175,5 +1175,5 @@ breakdowns:
     confirmed: 87
     recovered: 0
     deaths: 0
-updated: 2020-03-30 01:32:03
+updated: 2020-03-30 02:41:06
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

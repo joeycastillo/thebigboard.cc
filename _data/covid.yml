@@ -1,6 +1,6 @@
-confirmed: 858785
-recovered: 178119
-deaths: 42151
+confirmed: 859556
+recovered: 178300
+deaths: 42332
 countries:
 - name: Afghanistan
   confirmed: 174
@@ -83,9 +83,9 @@ countries:
   recovered: 0
   deaths: 0
 - name: Bolivia
-  confirmed: 107
+  confirmed: 115
   recovered: 0
-  deaths: 6
+  deaths: 7
 - name: Bosnia and Herzegovina
   confirmed: 420
   recovered: 17
@@ -147,7 +147,7 @@ countries:
   recovered: 156
   deaths: 12
 - name: China
-  confirmed: 82290
+  confirmed: 82294
   recovered: 76206
   deaths: 3310
 - name: Colombia
@@ -363,9 +363,9 @@ countries:
   recovered: 1
   deaths: 1
 - name: Korea, South
-  confirmed: 9786
-  recovered: 5408
-  deaths: 162
+  confirmed: 9887
+  recovered: 5567
+  deaths: 165
 - name: Kosovo
   confirmed: 112
   recovered: 6
@@ -443,9 +443,9 @@ countries:
   recovered: 0
   deaths: 5
 - name: Mexico
-  confirmed: 1094
+  confirmed: 1215
   recovered: 35
-  deaths: 28
+  deaths: 29
 - name: Moldova
   confirmed: 353
   recovered: 18
@@ -483,8 +483,8 @@ countries:
   recovered: 253
   deaths: 1040
 - name: New Zealand
-  confirmed: 647
-  recovered: 74
+  confirmed: 708
+  recovered: 83
   deaths: 1
 - name: Nicaragua
   confirmed: 5
@@ -627,7 +627,7 @@ countries:
   recovered: 1
   deaths: 2
 - name: Suriname
-  confirmed: 9
+  confirmed: 10
   recovered: 0
   deaths: 0
 - name: Sweden
@@ -675,9 +675,9 @@ countries:
   recovered: 243
   deaths: 214
 - name: US
-  confirmed: 189035
-  recovered: 7096
-  deaths: 3900
+  confirmed: 189510
+  recovered: 7109
+  deaths: 4076
 - name: Uganda
   confirmed: 44
   recovered: 0
@@ -911,7 +911,7 @@ breakdowns:
     recovered: 18
     deaths: 0
   - name: Shaanxi
-    confirmed: 253
+    confirmed: 255
     recovered: 242
     deaths: 3
   - name: Shandong
@@ -927,7 +927,7 @@ breakdowns:
     recovered: 133
     deaths: 0
   - name: Sichuan
-    confirmed: 550
+    confirmed: 552
     recovered: 536
     deaths: 3
   - name: Tianjin
@@ -964,13 +964,13 @@ breakdowns:
     recovered: 0
     deaths: 24
   - name: Arkansas
-    confirmed: 524
+    confirmed: 564
     recovered: 0
     deaths: 8
   - name: California
-    confirmed: 8460
+    confirmed: 8548
     recovered: 0
-    deaths: 175
+    deaths: 182
   - name: Colorado
     confirmed: 2966
     recovered: 0
@@ -1028,13 +1028,13 @@ breakdowns:
     recovered: 0
     deaths: 7
   - name: Kansas
-    confirmed: 437
+    confirmed: 440
     recovered: 0
     deaths: 9
   - name: Kentucky
-    confirmed: 628
+    confirmed: 632
     recovered: 0
-    deaths: 17
+    deaths: 18
   - name: Louisiana
     confirmed: 5237
     recovered: 0
@@ -1076,7 +1076,7 @@ breakdowns:
     recovered: 0
     deaths: 4
   - name: Nevada
-    confirmed: 1137
+    confirmed: 1138
     recovered: 0
     deaths: 26
   - name: New Hampshire
@@ -1084,19 +1084,19 @@ breakdowns:
     recovered: 0
     deaths: 3
   - name: New Jersey
-    confirmed: 18699
+    confirmed: 18992
     recovered: 0
     deaths: 267
   - name: New Mexico
     confirmed: 315
     recovered: 0
-    deaths: 4
+    deaths: 5
   - name: New York
     confirmed: 76049
     recovered: 0
-    deaths: 1550
+    deaths: 1714
   - name: North Carolina
-    confirmed: 1542
+    confirmed: 1545
     recovered: 0
     deaths: 12
   - name: North Dakota
@@ -1120,16 +1120,16 @@ breakdowns:
     recovered: 0
     deaths: 18
   - name: Pennsylvania
-    confirmed: 4963
+    confirmed: 4994
     recovered: 0
-    deaths: 63
+    deaths: 66
   - name: Puerto Rico
     confirmed: 239
     recovered: 0
     deaths: 8
   - name: Recovered
     confirmed: 0
-    recovered: 7096
+    recovered: 7109
     deaths: 0
   - name: Rhode Island
     confirmed: 488
@@ -1148,7 +1148,7 @@ breakdowns:
     recovered: 0
     deaths: 23
   - name: Texas
-    confirmed: 3901
+    confirmed: 3913
     recovered: 0
     deaths: 57
   - name: Utah
@@ -1183,5 +1183,5 @@ breakdowns:
     confirmed: 120
     recovered: 0
     deaths: 0
-updated: 2020-04-01 02:08:08
+updated: 2020-04-01 03:17:43
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

@@ -1,6 +1,6 @@
-confirmed: 1016534
-recovered: 211856
-deaths: 53164
+confirmed: 1017693
+recovered: 212072
+deaths: 53179
 countries:
 - name: Afghanistan
   confirmed: 273
@@ -31,15 +31,15 @@ countries:
   recovered: 256
   deaths: 37
 - name: Armenia
-  confirmed: 663
-  recovered: 33
+  confirmed: 736
+  recovered: 43
   deaths: 7
 - name: Australia
-  confirmed: 5116
-  recovered: 520
-  deaths: 24
+  confirmed: 5330
+  recovered: 649
+  deaths: 28
 - name: Austria
-  confirmed: 11171
+  confirmed: 11199
   recovered: 1749
   deaths: 158
 - name: Azerbaijan
@@ -80,15 +80,15 @@ countries:
   deaths: 0
 - name: Bhutan
   confirmed: 5
-  recovered: 1
+  recovered: 2
   deaths: 0
 - name: Bolivia
   confirmed: 132
   recovered: 1
   deaths: 9
 - name: Bosnia and Herzegovina
-  confirmed: 533
-  recovered: 20
+  confirmed: 543
+  recovered: 27
   deaths: 16
 - name: Botswana
   confirmed: 4
@@ -148,7 +148,7 @@ countries:
   deaths: 18
 - name: China
   confirmed: 82464
-  recovered: 76736
+  recovered: 76741
   deaths: 3326
 - name: Colombia
   confirmed: 1161
@@ -183,12 +183,12 @@ countries:
   recovered: 28
   deaths: 10
 - name: Czechia
-  confirmed: 3858
-  recovered: 67
-  deaths: 44
+  confirmed: 3869
+  recovered: 71
+  deaths: 46
 - name: Denmark
-  confirmed: 3573
-  recovered: 1172
+  confirmed: 3575
+  recovered: 1182
   deaths: 123
 - name: Diamond Princess
   confirmed: 712
@@ -243,7 +243,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Finland
-  confirmed: 1518
+  confirmed: 1615
   recovered: 300
   deaths: 19
 - name: France
@@ -383,7 +383,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Latvia
-  confirmed: 458
+  confirmed: 493
   recovered: 31
   deaths: 0
 - name: Lebanon
@@ -463,13 +463,13 @@ countries:
   recovered: 2
   deaths: 0
 - name: Montenegro
-  confirmed: 144
+  confirmed: 160
   recovered: 0
   deaths: 2
 - name: Morocco
-  confirmed: 708
-  recovered: 31
-  deaths: 44
+  confirmed: 735
+  recovered: 34
+  deaths: 47
 - name: Mozambique
   confirmed: 10
   recovered: 0
@@ -553,11 +553,11 @@ countries:
 - name: Romania
   confirmed: 2738
   recovered: 267
-  deaths: 115
+  deaths: 116
 - name: Russia
-  confirmed: 3548
-  recovered: 235
-  deaths: 30
+  confirmed: 4149
+  recovered: 281
+  deaths: 34
 - name: Rwanda
   confirmed: 84
   recovered: 0
@@ -624,7 +624,7 @@ countries:
   deaths: 10348
 - name: Sri Lanka
   confirmed: 151
-  recovered: 21
+  recovered: 22
   deaths: 4
 - name: Sudan
   confirmed: 8
@@ -687,9 +687,9 @@ countries:
   recovered: 0
   deaths: 0
 - name: Ukraine
-  confirmed: 897
+  confirmed: 942
   recovered: 19
-  deaths: 22
+  deaths: 23
 - name: United Arab Emirates
   confirmed: 1024
   recovered: 96
@@ -729,36 +729,36 @@ countries:
 breakdowns:
   Australia:
   - name: Australian Capital Territory
-    confirmed: 87
-    recovered: 11
+    confirmed: 91
+    recovered: 18
     deaths: 1
   - name: New South Wales
-    confirmed: 2298
+    confirmed: 2389
     recovered: 4
-    deaths: 10
+    deaths: 12
   - name: Northern Territory
-    confirmed: 21
+    confirmed: 22
     recovered: 0
     deaths: 0
   - name: Queensland
-    confirmed: 835
+    confirmed: 873
     recovered: 8
     deaths: 4
   - name: South Australia
-    confirmed: 367
-    recovered: 6
+    confirmed: 396
+    recovered: 46
     deaths: 0
   - name: Tasmania
-    confirmed: 72
+    confirmed: 74
     recovered: 5
     deaths: 2
   - name: Victoria
-    confirmed: 1036
-    recovered: 422
-    deaths: 5
+    confirmed: 1085
+    recovered: 476
+    deaths: 7
   - name: Western Australia
     confirmed: 400
-    recovered: 64
+    recovered: 92
     deaths: 2
   Canada:
   - name: Alberta
@@ -924,7 +924,7 @@ breakdowns:
     deaths: 7
   - name: Shanghai
     confirmed: 526
-    recovered: 343
+    recovered: 348
     deaths: 6
   - name: Shanxi
     confirmed: 137
@@ -1187,5 +1187,5 @@ breakdowns:
     confirmed: 153
     recovered: 0
     deaths: 0
-updated: 2020-04-03 06:32:23
+updated: 2020-04-03 07:41:33
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

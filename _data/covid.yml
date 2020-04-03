@@ -1,9 +1,9 @@
-confirmed: 1066706
-recovered: 223697
-deaths: 56767
+confirmed: 1076017
+recovered: 225335
+deaths: 58004
 countries:
 - name: Afghanistan
-  confirmed: 273
+  confirmed: 281
   recovered: 10
   deaths: 6
 - name: Albania
@@ -39,7 +39,7 @@ countries:
   recovered: 649
   deaths: 28
 - name: Austria
-  confirmed: 11464
+  confirmed: 11506
   recovered: 2022
   deaths: 168
 - name: Azerbaijan
@@ -59,7 +59,7 @@ countries:
   recovered: 26
   deaths: 6
 - name: Barbados
-  confirmed: 46
+  confirmed: 51
   recovered: 0
   deaths: 0
 - name: Belarus
@@ -87,7 +87,7 @@ countries:
   recovered: 1
   deaths: 9
 - name: Bosnia and Herzegovina
-  confirmed: 574
+  confirmed: 575
   recovered: 27
   deaths: 17
 - name: Botswana
@@ -247,9 +247,9 @@ countries:
   recovered: 300
   deaths: 20
 - name: France
-  confirmed: 59948
-  recovered: 12555
-  deaths: 5398
+  confirmed: 65181
+  recovered: 14135
+  deaths: 6518
 - name: Gabon
   confirmed: 21
   recovered: 1
@@ -267,7 +267,7 @@ countries:
   recovered: 24575
   deaths: 1230
 - name: Ghana
-  confirmed: 204
+  confirmed: 205
   recovered: 31
   deaths: 5
 - name: Greece
@@ -283,8 +283,8 @@ countries:
   recovered: 12
   deaths: 1
 - name: Guinea
-  confirmed: 52
-  recovered: 0
+  confirmed: 73
+  recovered: 2
   deaths: 0
 - name: Guinea-Bissau
   confirmed: 9
@@ -351,8 +351,8 @@ countries:
   recovered: 514
   deaths: 63
 - name: Jordan
-  confirmed: 299
-  recovered: 45
+  confirmed: 310
+  recovered: 58
   deaths: 5
 - name: Kazakhstan
   confirmed: 460
@@ -455,8 +455,8 @@ countries:
   recovered: 26
   deaths: 8
 - name: Monaco
-  confirmed: 60
-  recovered: 2
+  confirmed: 64
+  recovered: 3
   deaths: 1
 - name: Mongolia
   confirmed: 14
@@ -467,8 +467,8 @@ countries:
   recovered: 1
   deaths: 2
 - name: Morocco
-  confirmed: 735
-  recovered: 49
+  confirmed: 761
+  recovered: 56
   deaths: 47
 - name: Mozambique
   confirmed: 10
@@ -515,12 +515,12 @@ countries:
   recovered: 57
   deaths: 1
 - name: Pakistan
-  confirmed: 2631
+  confirmed: 2637
   recovered: 126
-  deaths: 39
+  deaths: 40
 - name: Panama
   confirmed: 1475
-  recovered: 9
+  recovered: 10
   deaths: 37
 - name: Papua New Guinea
   confirmed: 1
@@ -528,10 +528,10 @@ countries:
   deaths: 0
 - name: Paraguay
   confirmed: 92
-  recovered: 4
+  recovered: 6
   deaths: 3
 - name: Peru
-  confirmed: 1414
+  confirmed: 1595
   recovered: 537
   deaths: 55
 - name: Philippines
@@ -553,7 +553,7 @@ countries:
 - name: Romania
   confirmed: 3183
   recovered: 283
-  deaths: 122
+  deaths: 133
 - name: Russia
   confirmed: 4149
   recovered: 281
@@ -587,9 +587,9 @@ countries:
   recovered: 66
   deaths: 1
 - name: Serbia
-  confirmed: 1171
+  confirmed: 1476
   recovered: 0
-  deaths: 31
+  deaths: 39
 - name: Seychelles
   confirmed: 10
   recovered: 0
@@ -617,13 +617,13 @@ countries:
 - name: South Africa
   confirmed: 1505
   recovered: 95
-  deaths: 7
+  deaths: 9
 - name: Spain
   confirmed: 117710
   recovered: 30513
   deaths: 10935
 - name: Sri Lanka
-  confirmed: 156
+  confirmed: 159
   recovered: 24
   deaths: 4
 - name: Sudan
@@ -679,9 +679,9 @@ countries:
   recovered: 484
   deaths: 425
 - name: US
-  confirmed: 258214
-  recovered: 9408
-  deaths: 6605
+  confirmed: 261438
+  recovered: 9428
+  deaths: 6699
 - name: Uganda
   confirmed: 45
   recovered: 0
@@ -691,9 +691,9 @@ countries:
   recovered: 19
   deaths: 23
 - name: United Arab Emirates
-  confirmed: 1024
-  recovered: 96
-  deaths: 8
+  confirmed: 1264
+  recovered: 108
+  deaths: 9
 - name: United Kingdom
   confirmed: 38688
   recovered: 205
@@ -964,15 +964,15 @@ breakdowns:
     recovered: 0
     deaths: 3
   - name: Arizona
-    confirmed: 1766
+    confirmed: 1937
     recovered: 0
-    deaths: 32
+    deaths: 41
   - name: Arkansas
     confirmed: 683
     recovered: 0
     deaths: 12
   - name: California
-    confirmed: 11159
+    confirmed: 11206
     recovered: 0
     deaths: 249
   - name: Colorado
@@ -1000,9 +1000,9 @@ breakdowns:
     recovered: 0
     deaths: 163
   - name: Georgia
-    confirmed: 5444
+    confirmed: 5831
     recovered: 0
-    deaths: 176
+    deaths: 183
   - name: Grand Princess
     confirmed: 103
     recovered: 0
@@ -1032,7 +1032,7 @@ breakdowns:
     recovered: 0
     deaths: 11
   - name: Kansas
-    confirmed: 558
+    confirmed: 620
     recovered: 0
     deaths: 13
   - name: Kentucky
@@ -1040,13 +1040,13 @@ breakdowns:
     recovered: 0
     deaths: 31
   - name: Louisiana
-    confirmed: 9159
+    confirmed: 10297
     recovered: 0
-    deaths: 310
+    deaths: 370
   - name: Maine
-    confirmed: 376
+    confirmed: 432
     recovered: 0
-    deaths: 7
+    deaths: 9
   - name: Maryland
     confirmed: 2758
     recovered: 0
@@ -1068,15 +1068,15 @@ breakdowns:
     recovered: 0
     deaths: 29
   - name: Missouri
-    confirmed: 1862
+    confirmed: 1863
     recovered: 0
     deaths: 22
   - name: Montana
-    confirmed: 241
+    confirmed: 243
     recovered: 0
     deaths: 5
   - name: Nebraska
-    confirmed: 255
+    confirmed: 278
     recovered: 0
     deaths: 6
   - name: Nevada
@@ -1124,16 +1124,16 @@ breakdowns:
     recovered: 0
     deaths: 21
   - name: Pennsylvania
-    confirmed: 7345
+    confirmed: 8570
     recovered: 0
-    deaths: 92
+    deaths: 102
   - name: Puerto Rico
     confirmed: 316
     recovered: 0
     deaths: 15
   - name: Recovered
     confirmed: 0
-    recovered: 9408
+    recovered: 9428
     deaths: 0
   - name: Rhode Island
     confirmed: 657
@@ -1144,7 +1144,7 @@ breakdowns:
     recovered: 0
     deaths: 31
   - name: South Dakota
-    confirmed: 188
+    confirmed: 187
     recovered: 0
     deaths: 2
   - name: Tennessee
@@ -1152,9 +1152,9 @@ breakdowns:
     recovered: 0
     deaths: 36
   - name: Texas
-    confirmed: 5255
+    confirmed: 5368
     recovered: 0
-    deaths: 86
+    deaths: 92
   - name: Utah
     confirmed: 1095
     recovered: 0
@@ -1187,5 +1187,5 @@ breakdowns:
     confirmed: 162
     recovered: 0
     deaths: 0
-updated: 2020-04-03 17:01:32
+updated: 2020-04-03 18:11:29
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

@@ -1,6 +1,6 @@
-confirmed: 1603330
-recovered: 355983
-deaths: 95758
+confirmed: 1605548
+recovered: 356161
+deaths: 95808
 countries:
 - name: Afghanistan
   confirmed: 521
@@ -31,15 +31,15 @@ countries:
   recovered: 365
   deaths: 79
 - name: Armenia
-  confirmed: 921
-  recovered: 138
-  deaths: 10
+  confirmed: 937
+  recovered: 149
+  deaths: 11
 - name: Australia
-  confirmed: 6108
+  confirmed: 6204
   recovered: 1472
-  deaths: 51
+  deaths: 54
 - name: Austria
-  confirmed: 13306
+  confirmed: 13337
   recovered: 5240
   deaths: 295
 - name: Azerbaijan
@@ -356,7 +356,7 @@ countries:
   deaths: 7
 - name: Kazakhstan
   confirmed: 802
-  recovered: 60
+  recovered: 61
   deaths: 9
 - name: Kenya
   confirmed: 184
@@ -372,7 +372,7 @@ countries:
   deaths: 5
 - name: Kuwait
   confirmed: 910
-  recovered: 111
+  recovered: 123
   deaths: 1
 - name: Kyrgyzstan
   confirmed: 298
@@ -452,7 +452,7 @@ countries:
   deaths: 194
 - name: Moldova
   confirmed: 1289
-  recovered: 50
+  recovered: 56
   deaths: 29
 - name: Monaco
   confirmed: 84
@@ -463,7 +463,7 @@ countries:
   recovered: 4
   deaths: 0
 - name: Montenegro
-  confirmed: 252
+  confirmed: 255
   recovered: 4
   deaths: 2
 - name: Morocco
@@ -535,13 +535,13 @@ countries:
   recovered: 1438
   deaths: 138
 - name: Philippines
-  confirmed: 4076
-  recovered: 124
-  deaths: 203
+  confirmed: 4195
+  recovered: 140
+  deaths: 221
 - name: Poland
-  confirmed: 5575
-  recovered: 284
-  deaths: 174
+  confirmed: 5742
+  recovered: 318
+  deaths: 175
 - name: Portugal
   confirmed: 13956
   recovered: 205
@@ -553,11 +553,11 @@ countries:
 - name: Romania
   confirmed: 5202
   recovered: 647
-  deaths: 248
+  deaths: 257
 - name: Russia
-  confirmed: 10131
-  recovered: 698
-  deaths: 76
+  confirmed: 11917
+  recovered: 795
+  deaths: 94
 - name: Rwanda
   confirmed: 113
   recovered: 7
@@ -632,7 +632,7 @@ countries:
   deaths: 15447
 - name: Sri Lanka
   confirmed: 190
-  recovered: 49
+  recovered: 50
   deaths: 7
 - name: Sudan
   confirmed: 15
@@ -745,35 +745,35 @@ countries:
 breakdowns:
   Australia:
   - name: Australian Capital Territory
-    confirmed: 100
+    confirmed: 103
     recovered: 47
     deaths: 2
   - name: New South Wales
-    confirmed: 2773
+    confirmed: 2822
     recovered: 4
-    deaths: 21
+    deaths: 22
   - name: Northern Territory
     confirmed: 28
     recovered: 2
     deaths: 0
   - name: Queensland
-    confirmed: 953
+    confirmed: 965
     recovered: 345
     deaths: 4
   - name: South Australia
-    confirmed: 420
+    confirmed: 428
     recovered: 120
     deaths: 3
   - name: Tasmania
     confirmed: 111
     recovered: 48
-    deaths: 3
+    deaths: 4
   - name: Victoria
-    confirmed: 1228
+    confirmed: 1241
     recovered: 736
-    deaths: 12
+    deaths: 13
   - name: Western Australia
-    confirmed: 495
+    confirmed: 506
     recovered: 170
     deaths: 6
   Canada:
@@ -1203,5 +1203,5 @@ breakdowns:
     confirmed: 239
     recovered: 0
     deaths: 0
-updated: 2020-04-10 07:30:00
+updated: 2020-04-10 08:41:35
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

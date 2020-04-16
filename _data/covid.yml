@@ -1,6 +1,6 @@
-confirmed: 2078277
-recovered: 525316
-deaths: 138101
+confirmed: 2081969
+recovered: 525884
+deaths: 138487
 countries:
 - name: Afghanistan
   confirmed: 840
@@ -28,8 +28,8 @@ countries:
   deaths: 3
 - name: Argentina
   confirmed: 2571
-  recovered: 596
-  deaths: 112
+  recovered: 631
+  deaths: 115
 - name: Armenia
   confirmed: 1159
   recovered: 358
@@ -131,7 +131,7 @@ countries:
   recovered: 165
   deaths: 17
 - name: Canada
-  confirmed: 28253
+  confirmed: 28379
   recovered: 8979
   deaths: 1010
 - name: Central African Republic
@@ -171,9 +171,9 @@ countries:
   recovered: 146
   deaths: 6
 - name: Croatia
-  confirmed: 1741
-  recovered: 473
-  deaths: 33
+  confirmed: 1791
+  recovered: 529
+  deaths: 35
 - name: Cuba
   confirmed: 814
   recovered: 151
@@ -188,8 +188,8 @@ countries:
   deaths: 166
 - name: Denmark
   confirmed: 7074
-  recovered: 2928
-  deaths: 309
+  recovered: 3203
+  deaths: 321
 - name: Diamond Princess
   confirmed: 712
   recovered: 644
@@ -247,7 +247,7 @@ countries:
   recovered: 300
   deaths: 72
 - name: France
-  confirmed: 134582
+  confirmed: 134598
   recovered: 31470
   deaths: 17188
 - name: Gabon
@@ -483,9 +483,9 @@ countries:
   recovered: 1
   deaths: 0
 - name: Netherlands
-  confirmed: 28316
-  recovered: 304
-  deaths: 3145
+  confirmed: 29381
+  recovered: 311
+  deaths: 3326
 - name: New Zealand
   confirmed: 1401
   recovered: 770
@@ -515,9 +515,9 @@ countries:
   recovered: 176
   deaths: 4
 - name: Pakistan
-  confirmed: 6505
+  confirmed: 6919
   recovered: 1645
-  deaths: 124
+  deaths: 128
 - name: Panama
   confirmed: 3751
   recovered: 75
@@ -543,9 +543,9 @@ countries:
   recovered: 774
   deaths: 292
 - name: Portugal
-  confirmed: 18091
-  recovered: 383
-  deaths: 599
+  confirmed: 18841
+  recovered: 493
+  deaths: 629
 - name: Qatar
   confirmed: 4103
   recovered: 415
@@ -583,9 +583,9 @@ countries:
   recovered: 0
   deaths: 0
 - name: Saudi Arabia
-  confirmed: 5862
-  recovered: 931
-  deaths: 79
+  confirmed: 6380
+  recovered: 990
+  deaths: 83
 - name: Senegal
   confirmed: 314
   recovered: 190
@@ -599,7 +599,7 @@ countries:
   recovered: 0
   deaths: 0
 - name: Sierra Leone
-  confirmed: 13
+  confirmed: 15
   recovered: 0
   deaths: 0
 - name: Singapore
@@ -632,7 +632,7 @@ countries:
   deaths: 19130
 - name: Sri Lanka
   confirmed: 238
-  recovered: 65
+  recovered: 68
   deaths: 7
 - name: Sudan
   confirmed: 32
@@ -643,13 +643,13 @@ countries:
   recovered: 6
   deaths: 1
 - name: Sweden
-  confirmed: 11927
+  confirmed: 12540
   recovered: 381
-  deaths: 1203
+  deaths: 1333
 - name: Switzerland
-  confirmed: 26359
+  confirmed: 26422
   recovered: 15400
-  deaths: 1254
+  deaths: 1269
 - name: Syria
   confirmed: 33
   recovered: 5
@@ -659,7 +659,7 @@ countries:
   recovered: 137
   deaths: 6
 - name: Tanzania
-  confirmed: 88
+  confirmed: 94
   recovered: 11
   deaths: 4
 - name: Thailand
@@ -687,9 +687,9 @@ countries:
   recovered: 5674
   deaths: 1518
 - name: US
-  confirmed: 639664
-  recovered: 52738
-  deaths: 30985
+  confirmed: 639733
+  recovered: 52739
+  deaths: 30990
 - name: Uganda
   confirmed: 55
   recovered: 12
@@ -712,7 +712,7 @@ countries:
   deaths: 9
 - name: Uzbekistan
   confirmed: 1349
-  recovered: 107
+  recovered: 129
   deaths: 4
 - name: Venezuela
   confirmed: 197
@@ -778,7 +778,7 @@ breakdowns:
     deaths: 6
   Canada:
   - name: Alberta
-    confirmed: 1870
+    confirmed: 1996
     recovered: 0
     deaths: 48
   - name: British Columbia
@@ -1140,12 +1140,12 @@ breakdowns:
     recovered: 0
     deaths: 787
   - name: Puerto Rico
-    confirmed: 974
+    confirmed: 1043
     recovered: 0
-    deaths: 51
+    deaths: 56
   - name: Recovered
     confirmed: 0
-    recovered: 52738
+    recovered: 52739
     deaths: 0
   - name: Rhode Island
     confirmed: 3529
@@ -1199,5 +1199,5 @@ breakdowns:
     confirmed: 288
     recovered: 0
     deaths: 2
-updated: 2020-04-16 11:53:03
+updated: 2020-04-16 13:03:08
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

@@ -1,6 +1,6 @@
-confirmed: 2402798
-recovered: 616193
-deaths: 165154
+confirmed: 2403963
+recovered: 616583
+deaths: 165227
 countries:
 - name: Afghanistan
   confirmed: 996
@@ -131,9 +131,9 @@ countries:
   recovered: 305
   deaths: 42
 - name: Canada
-  confirmed: 35633
-  recovered: 11847
-  deaths: 1564
+  confirmed: 36039
+  recovered: 11852
+  deaths: 1625
 - name: Central African Republic
   confirmed: 12
   recovered: 4
@@ -147,8 +147,8 @@ countries:
   recovered: 4338
   deaths: 133
 - name: China
-  confirmed: 83805
-  recovered: 77690
+  confirmed: 83817
+  recovered: 77706
   deaths: 4636
 - name: Colombia
   confirmed: 3792
@@ -589,7 +589,7 @@ countries:
 - name: Senegal
   confirmed: 367
   recovered: 220
-  deaths: 3
+  deaths: 4
 - name: Serbia
   confirmed: 6318
   recovered: 753
@@ -687,9 +687,9 @@ countries:
   recovered: 11976
   deaths: 2017
 - name: US
-  confirmed: 758720
-  recovered: 70558
-  deaths: 40666
+  confirmed: 759467
+  recovered: 70927
+  deaths: 40677
 - name: Uganda
   confirmed: 55
   recovered: 28
@@ -780,7 +780,7 @@ breakdowns:
   - name: Alberta
     confirmed: 2803
     recovered: 0
-    deaths: 51
+    deaths: 55
   - name: British Columbia
     confirmed: 1647
     recovered: 0
@@ -790,7 +790,7 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Manitoba
-    confirmed: 254
+    confirmed: 253
     recovered: 0
     deaths: 5
   - name: New Brunswick
@@ -818,12 +818,12 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Quebec
-    confirmed: 17950
+    confirmed: 18357
     recovered: 0
-    deaths: 820
+    deaths: 877
   - name: Recovered
     confirmed: 0
-    recovered: 11847
+    recovered: 11852
     deaths: 0
   - name: Saskatchewan
     confirmed: 315
@@ -840,7 +840,7 @@ breakdowns:
     deaths: 6
   - name: Beijing
     confirmed: 593
-    recovered: 510
+    recovered: 514
     deaths: 8
   - name: Chongqing
     confirmed: 579
@@ -855,8 +855,8 @@ breakdowns:
     recovered: 137
     deaths: 2
   - name: Guangdong
-    confirmed: 1580
-    recovered: 1490
+    confirmed: 1581
+    recovered: 1494
     deaths: 8
   - name: Guangxi
     confirmed: 254
@@ -872,10 +872,10 @@ breakdowns:
     deaths: 6
   - name: Hebei
     confirmed: 328
-    recovered: 316
+    recovered: 317
     deaths: 6
   - name: Heilongjiang
-    confirmed: 898
+    confirmed: 905
     recovered: 472
     deaths: 13
   - name: Henan
@@ -888,14 +888,14 @@ breakdowns:
     deaths: 4
   - name: Hubei
     confirmed: 68128
-    recovered: 63507
+    recovered: 63511
     deaths: 4512
   - name: Hunan
     confirmed: 1019
     recovered: 1015
     deaths: 4
   - name: Inner Mongolia
-    confirmed: 193
+    confirmed: 194
     recovered: 104
     deaths: 1
   - name: Jiangsu
@@ -912,7 +912,7 @@ breakdowns:
     deaths: 1
   - name: Liaoning
     confirmed: 146
-    recovered: 142
+    recovered: 143
     deaths: 2
   - name: Macau
     confirmed: 45
@@ -935,7 +935,7 @@ breakdowns:
     recovered: 765
     deaths: 7
   - name: Shanghai
-    confirmed: 635
+    confirmed: 638
     recovered: 521
     deaths: 7
   - name: Shanxi
@@ -964,7 +964,7 @@ breakdowns:
     deaths: 2
   - name: Zhejiang
     confirmed: 1268
-    recovered: 1247
+    recovered: 1249
     deaths: 1
   US:
   - name: Alabama
@@ -1044,9 +1044,9 @@ breakdowns:
     recovered: 0
     deaths: 75
   - name: Kansas
-    confirmed: 1939
+    confirmed: 1941
     recovered: 0
-    deaths: 93
+    deaths: 94
   - name: Kentucky
     confirmed: 2960
     recovered: 0
@@ -1108,7 +1108,7 @@ breakdowns:
     recovered: 0
     deaths: 55
   - name: New York
-    confirmed: 247815
+    confirmed: 248412
     recovered: 0
     deaths: 18298
   - name: North Carolina
@@ -1145,7 +1145,7 @@ breakdowns:
     deaths: 62
   - name: Recovered
     confirmed: 0
-    recovered: 70558
+    recovered: 70927
     deaths: 0
   - name: Rhode Island
     confirmed: 4706
@@ -1164,9 +1164,9 @@ breakdowns:
     recovered: 0
     deaths: 148
   - name: Texas
-    confirmed: 19260
+    confirmed: 19408
     recovered: 0
-    deaths: 490
+    deaths: 500
   - name: Utah
     confirmed: 3069
     recovered: 0
@@ -1199,5 +1199,5 @@ breakdowns:
     confirmed: 313
     recovered: 0
     deaths: 2
-updated: 2020-04-20 01:38:40
+updated: 2020-04-20 02:38:30
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

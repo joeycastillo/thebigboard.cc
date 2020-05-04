@@ -4,6 +4,7 @@ import yaml
 import codecs
 import subprocess
 import os
+from time import mktime, localtime
 from git import Repo
 from datetime import datetime
 from contextlib import closing
@@ -58,7 +59,7 @@ with closing(requests.get(source_url, stream=True)) as r:
         deaths += int(row[deaths_col])
         if not len(row[update_col]):
             continue
-        row_update = datetime.strptime(row[update_col], '%Y-%m-%dT%H:%M:%S.000Z')
+        row_update = datetime.fromtimestamp(mktime(localtime(int(row[update_col]) / 1000)))
         if row_update > last_update:
             last_update = row_update
 

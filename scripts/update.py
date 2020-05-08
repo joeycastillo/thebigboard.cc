@@ -30,7 +30,7 @@ with closing(requests.get(source_url, stream=True)) as r:
     reader = csv.reader(codecs.iterdecode(r.iter_lines(), 'utf-8') , delimiter=',', quotechar='"')
 
     header_processed = False
-    update_col = None
+    update_col = 0
     confirmed_col = None
     recovered_col = None
     deaths_col = None
@@ -59,7 +59,7 @@ with closing(requests.get(source_url, stream=True)) as r:
         deaths += int(row[deaths_col])
         if not len(row[update_col]):
             continue
-        row_update = datetime.fromtimestamp(mktime(localtime(int(row[update_col]) / 1000)))
+        row_update = row_update = datetime.strptime(row[update_col], '%Y/%m/%d %H:%M:%S+00')
         if row_update > last_update:
             last_update = row_update
 

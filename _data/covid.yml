@@ -1,6 +1,6 @@
-confirmed: 4405019
-recovered: 1573765
-deaths: 299873
+confirmed: 4405688
+recovered: 1576318
+deaths: 300074
 countries:
 - name: Afghanistan
   confirmed: 5639
@@ -267,9 +267,9 @@ countries:
   recovered: 383
   deaths: 12
 - name: Germany
-  confirmed: 174478
+  confirmed: 174284
   recovered: 150300
-  deaths: 7884
+  deaths: 7868
 - name: Ghana
   confirmed: 5408
   recovered: 514
@@ -535,8 +535,8 @@ countries:
   recovered: 8
   deaths: 0
 - name: Paraguay
-  confirmed: 740
-  recovered: 182
+  confirmed: 754
+  recovered: 184
   deaths: 11
 - name: Peru
   confirmed: 76306
@@ -635,9 +635,9 @@ countries:
   recovered: 2
   deaths: 0
 - name: Spain
-  confirmed: 228691
-  recovered: 140823
-  deaths: 27104
+  confirmed: 229540
+  recovered: 143374
+  deaths: 27321
 - name: Sri Lanka
   confirmed: 916
   recovered: 445
@@ -791,11 +791,11 @@ breakdowns:
   Canada:
   - name: Alberta
     confirmed: 6407
-    recovered: 0
+    recovered: 5076
     deaths: 120
   - name: British Columbia
     confirmed: 2376
-    recovered: 0
+    recovered: 1859
     deaths: 132
   - name: Diamond Princess
     confirmed: 1
@@ -803,51 +803,47 @@ breakdowns:
     deaths: 1
   - name: Grand Princess
     confirmed: 13
-    recovered: 0
+    recovered: 13
     deaths: 0
   - name: Manitoba
     confirmed: 290
-    recovered: 0
+    recovered: 251
     deaths: 7
   - name: New Brunswick
     confirmed: 120
-    recovered: 0
+    recovered: 118
     deaths: 0
   - name: Newfoundland and Labrador
     confirmed: 261
-    recovered: 0
+    recovered: 248
     deaths: 3
   - name: Northwest Territories
     confirmed: 5
-    recovered: 0
+    recovered: 5
     deaths: 0
   - name: Nova Scotia
     confirmed: 1026
-    recovered: 0
+    recovered: 909
     deaths: 51
   - name: Ontario
     confirmed: 22599
-    recovered: 0
+    recovered: 16204
     deaths: 1892
   - name: Prince Edward Island
     confirmed: 27
-    recovered: 0
+    recovered: 27
     deaths: 0
   - name: Quebec
     confirmed: 39940
-    recovered: 0
+    recovered: 10470
     deaths: 3221
-  - name: Recovered
-    confirmed: 0
-    recovered: 35576
-    deaths: 0
   - name: Saskatchewan
     confirmed: 577
-    recovered: 0
+    recovered: 385
     deaths: 7
   - name: Yukon
     confirmed: 11
-    recovered: 0
+    recovered: 11
     deaths: 0
   China:
   - name: Anhui
@@ -1223,5 +1219,5 @@ breakdowns:
     confirmed: 688
     recovered: 0
     deaths: 7
-updated: 2020-05-14 17:32:31
+updated: 2020-05-14 17:38:36
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

@@ -1,6 +1,6 @@
-confirmed: 5840369
-recovered: 2439310
-deaths: 361066
+confirmed: 5844499
+recovered: 2443458
+deaths: 361119
 countries:
 - name: Afghanistan
   confirmed: 13659
@@ -28,8 +28,8 @@ countries:
   deaths: 3
 - name: Argentina
   confirmed: 14702
-  recovered: 4617
-  deaths: 508
+  recovered: 4788
+  deaths: 510
 - name: Armenia
   confirmed: 8676
   recovered: 3297
@@ -223,8 +223,8 @@ countries:
   recovered: 1015
   deaths: 42
 - name: Equatorial Guinea
-  confirmed: 1043
-  recovered: 165
+  confirmed: 1306
+  recovered: 200
   deaths: 12
 - name: Eritrea
   confirmed: 39
@@ -249,7 +249,7 @@ countries:
 - name: Finland
   confirmed: 6776
   recovered: 5500
-  deaths: 313
+  deaths: 314
 - name: France
   confirmed: 186364
   recovered: 67309
@@ -268,8 +268,8 @@ countries:
   deaths: 12
 - name: Germany
   confirmed: 182559
-  recovered: 164120
-  deaths: 8481
+  recovered: 164200
+  deaths: 8497
 - name: Ghana
   confirmed: 7616
   recovered: 2421
@@ -316,12 +316,12 @@ countries:
   deaths: 517
 - name: Iceland
   confirmed: 1805
-  recovered: 1792
+  recovered: 1794
   deaths: 10
 - name: India
-  confirmed: 167442
-  recovered: 71406
-  deaths: 4797
+  confirmed: 168387
+  recovered: 72265
+  deaths: 4806
 - name: Indonesia
   confirmed: 25216
   recovered: 6492
@@ -363,9 +363,9 @@ countries:
   recovered: 5011
   deaths: 37
 - name: Kenya
-  confirmed: 1618
-  recovered: 421
-  deaths: 58
+  confirmed: 1745
+  recovered: 438
+  deaths: 62
 - name: Korea, South
   confirmed: 11402
   recovered: 10363
@@ -399,8 +399,8 @@ countries:
   recovered: 1
   deaths: 0
 - name: Liberia
-  confirmed: 269
-  recovered: 144
+  confirmed: 273
+  recovered: 146
   deaths: 27
 - name: Libya
   confirmed: 105
@@ -515,7 +515,7 @@ countries:
   recovered: 1516
   deaths: 126
 - name: Norway
-  confirmed: 8411
+  confirmed: 8422
   recovered: 7727
   deaths: 236
 - name: Oman
@@ -583,25 +583,25 @@ countries:
   recovered: 14
   deaths: 0
 - name: San Marino
-  confirmed: 670
-  recovered: 322
+  confirmed: 671
+  recovered: 344
   deaths: 42
 - name: Sao Tome and Principe
   confirmed: 458
   recovered: 68
   deaths: 12
 - name: Saudi Arabia
-  confirmed: 80185
-  recovered: 54553
-  deaths: 441
+  confirmed: 81766
+  recovered: 57013
+  deaths: 458
 - name: Senegal
   confirmed: 3429
   recovered: 1738
   deaths: 41
 - name: Serbia
-  confirmed: 11300
-  recovered: 6438
-  deaths: 241
+  confirmed: 11354
+  recovered: 6524
+  deaths: 242
 - name: Seychelles
   confirmed: 11
   recovered: 11
@@ -639,7 +639,7 @@ countries:
   recovered: 150376
   deaths: 27119
 - name: Sri Lanka
-  confirmed: 1530
+  confirmed: 1540
   recovered: 754
   deaths: 10
 - name: Sudan
@@ -699,9 +699,9 @@ countries:
   recovered: 124369
   deaths: 4461
 - name: US
-  confirmed: 1721926
+  confirmed: 1722419
   recovered: 399991
-  deaths: 101621
+  deaths: 101622
 - name: Uganda
   confirmed: 317
   recovered: 69
@@ -711,12 +711,12 @@ countries:
   recovered: 8934
   deaths: 679
 - name: United Arab Emirates
-  confirmed: 32532
-  recovered: 16685
-  deaths: 258
+  confirmed: 33170
+  recovered: 17097
+  deaths: 260
 - name: United Kingdom
-  confirmed: 270508
-  recovered: 1167
+  confirmed: 270511
+  recovered: 1168
   deaths: 37919
 - name: Uruguay
   confirmed: 811
@@ -732,7 +732,7 @@ countries:
   deaths: 11
 - name: Vietnam
   confirmed: 327
-  recovered: 278
+  recovered: 279
   deaths: 0
 - name: West Bank and Gaza
   confirmed: 446
@@ -1028,7 +1028,7 @@ breakdowns:
     recovered: 0
     deaths: 2364
   - name: Georgia
-    confirmed: 45266
+    confirmed: 45598
     recovered: 0
     deaths: 1973
   - name: Grand Princess
@@ -1156,9 +1156,9 @@ breakdowns:
     recovered: 0
     deaths: 5373
   - name: Puerto Rico
-    confirmed: 3486
+    confirmed: 3647
     recovered: 0
-    deaths: 131
+    deaths: 132
   - name: Recovered
     confirmed: 0
     recovered: 399991
@@ -1219,5 +1219,5 @@ breakdowns:
     confirmed: 876
     recovered: 0
     deaths: 15
-updated: 2020-05-29 12:32:46
+updated: 2020-05-29 13:32:49
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

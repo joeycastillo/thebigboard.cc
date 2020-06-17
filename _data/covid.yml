@@ -1,6 +1,6 @@
-confirmed: 8282430
-recovered: 4026087
-deaths: 446254
+confirmed: 8317055
+recovered: 4035200
+deaths: 447581
 countries:
 - name: Afghanistan
   confirmed: 26874
@@ -95,17 +95,17 @@ countries:
   recovered: 25
   deaths: 1
 - name: Brazil
-  confirmed: 923189
+  confirmed: 955377
   recovered: 494526
-  deaths: 45241
+  deaths: 46510
 - name: Brunei
   confirmed: 141
   recovered: 138
   deaths: 3
 - name: Bulgaria
-  confirmed: 3453
-  recovered: 1817
-  deaths: 181
+  confirmed: 3542
+  recovered: 1880
+  deaths: 184
 - name: Burkina Faso
   confirmed: 895
   recovered: 809
@@ -131,8 +131,8 @@ countries:
   recovered: 5570
   deaths: 276
 - name: Canada
-  confirmed: 101397
-  recovered: 63262
+  confirmed: 101478
+  recovered: 63280
   deaths: 8312
 - name: Central African Republic
   confirmed: 2564
@@ -507,9 +507,9 @@ countries:
   recovered: 885
   deaths: 66
 - name: Nigeria
-  confirmed: 17148
-  recovered: 5623
-  deaths: 455
+  confirmed: 17735
+  recovered: 5967
+  deaths: 469
 - name: North Macedonia
   confirmed: 4482
   recovered: 1803
@@ -699,9 +699,9 @@ countries:
   recovered: 154640
   deaths: 4861
 - name: US
-  confirmed: 2157768
-  recovered: 583503
-  deaths: 117622
+  confirmed: 2159446
+  recovered: 592191
+  deaths: 117663
 - name: Uganda
   confirmed: 732
   recovered: 420
@@ -735,7 +735,7 @@ countries:
   recovered: 325
   deaths: 0
 - name: West Bank and Gaza
-  confirmed: 553
+  confirmed: 555
   recovered: 415
   deaths: 3
 - name: Western Sahara
@@ -790,12 +790,12 @@ breakdowns:
     deaths: 9
   Canada:
   - name: Alberta
-    confirmed: 7482
-    recovered: 6882
+    confirmed: 7530
+    recovered: 6893
     deaths: 151
   - name: British Columbia
-    confirmed: 2756
-    recovered: 2416
+    confirmed: 2775
+    recovered: 2422
     deaths: 168
   - name: Diamond Princess
     confirmed: 0
@@ -826,8 +826,8 @@ breakdowns:
     recovered: 997
     deaths: 62
   - name: Ontario
-    confirmed: 34355
-    recovered: 29046
+    confirmed: 34369
+    recovered: 29047
     deaths: 2607
   - name: Prince Edward Island
     confirmed: 27
@@ -1004,9 +1004,9 @@ breakdowns:
     recovered: 0
     deaths: 5224
   - name: Colorado
-    confirmed: 29427
+    confirmed: 29656
     recovered: 0
-    deaths: 1617
+    deaths: 1631
   - name: Connecticut
     confirmed: 45429
     recovered: 0
@@ -1108,7 +1108,7 @@ breakdowns:
     recovered: 0
     deaths: 231
   - name: Nevada
-    confirmed: 11845
+    confirmed: 11852
     recovered: 0
     deaths: 473
   - name: New Hampshire
@@ -1120,9 +1120,9 @@ breakdowns:
     recovered: 0
     deaths: 12835
   - name: New Mexico
-    confirmed: 9933
+    confirmed: 10027
     recovered: 0
-    deaths: 447
+    deaths: 452
   - name: New York
     confirmed: 385142
     recovered: 0
@@ -1161,7 +1161,7 @@ breakdowns:
     deaths: 147
   - name: Recovered
     confirmed: 0
-    recovered: 583503
+    recovered: 592191
     deaths: 0
   - name: Rhode Island
     confirmed: 16213
@@ -1180,9 +1180,9 @@ breakdowns:
     recovered: 0
     deaths: 498
   - name: Texas
-    confirmed: 96102
+    confirmed: 97450
     recovered: 0
-    deaths: 2066
+    deaths: 2088
   - name: United States Virgin Islands
     confirmed: 0
     recovered: 0
@@ -1219,5 +1219,5 @@ breakdowns:
     confirmed: 1114
     recovered: 0
     deaths: 18
-updated: 2020-06-17 21:21:09
+updated: 2020-06-17 22:33:22
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

@@ -1,6 +1,6 @@
-confirmed: 8705724
-recovered: 4284723
-deaths: 461037
+confirmed: 8716985
+recovered: 4286643
+deaths: 461206
 countries:
 - name: Afghanistan
   confirmed: 28424
@@ -131,9 +131,9 @@ countries:
   recovered: 7548
   deaths: 282
 - name: Canada
-  confirmed: 102326
-  recovered: 64318
-  deaths: 8408
+  confirmed: 102463
+  recovered: 64621
+  deaths: 8445
 - name: Central African Republic
   confirmed: 2686
   recovered: 420
@@ -155,8 +155,8 @@ countries:
   recovered: 22726
   deaths: 2046
 - name: Comoros
-  confirmed: 210
-  recovered: 129
+  confirmed: 247
+  recovered: 159
   deaths: 5
 - name: Congo (Brazzaville)
   confirmed: 883
@@ -240,7 +240,7 @@ countries:
   deaths: 4
 - name: Ethiopia
   confirmed: 4469
-  recovered: 1029
+  recovered: 1122
   deaths: 72
 - name: Fiji
   confirmed: 18
@@ -268,7 +268,7 @@ countries:
   deaths: 14
 - name: Germany
   confirmed: 190670
-  recovered: 174579
+  recovered: 174585
   deaths: 8895
 - name: Ghana
   confirmed: 13203
@@ -335,9 +335,9 @@ countries:
   recovered: 13211
   deaths: 1013
 - name: Ireland
-  confirmed: 25368
+  confirmed: 25374
   recovered: 22698
-  deaths: 1714
+  deaths: 1715
 - name: Israel
   confirmed: 20339
   recovered: 15586
@@ -361,7 +361,7 @@ countries:
 - name: Kazakhstan
   confirmed: 16779
   recovered: 10671
-  deaths: 113
+  deaths: 118
 - name: Kenya
   confirmed: 4478
   recovered: 1586
@@ -435,8 +435,8 @@ countries:
   recovered: 8146
   deaths: 121
 - name: Maldives
-  confirmed: 2150
-  recovered: 1769
+  confirmed: 2187
+  recovered: 1788
   deaths: 8
 - name: Mali
   confirmed: 1923
@@ -471,12 +471,12 @@ countries:
   recovered: 139
   deaths: 0
 - name: Montenegro
-  confirmed: 355
+  confirmed: 359
   recovered: 315
   deaths: 9
 - name: Morocco
-  confirmed: 9801
-  recovered: 8133
+  confirmed: 9839
+  recovered: 8223
   deaths: 213
 - name: Mozambique
   confirmed: 688
@@ -623,15 +623,15 @@ countries:
   recovered: 1359
   deaths: 109
 - name: Somalia
-  confirmed: 2719
-  recovered: 724
+  confirmed: 2755
+  recovered: 751
   deaths: 88
 - name: South Africa
   confirmed: 87715
   recovered: 47825
   deaths: 1831
 - name: South Sudan
-  confirmed: 1864
+  confirmed: 1882
   recovered: 122
   deaths: 34
 - name: Spain
@@ -695,13 +695,13 @@ countries:
   recovered: 1017
   deaths: 50
 - name: Turkey
-  confirmed: 185245
-  recovered: 157516
-  deaths: 4905
+  confirmed: 186493
+  recovered: 158828
+  deaths: 4927
 - name: US
-  confirmed: 2228368
+  confirmed: 2238065
   recovered: 606715
-  deaths: 119241
+  deaths: 119342
 - name: Uganda
   confirmed: 763
   recovered: 492
@@ -743,9 +743,9 @@ countries:
   recovered: 8
   deaths: 1
 - name: Yemen
-  confirmed: 919
-  recovered: 288
-  deaths: 251
+  confirmed: 922
+  recovered: 328
+  deaths: 254
 - name: Zambia
   confirmed: 1430
   recovered: 1194
@@ -826,17 +826,17 @@ breakdowns:
     recovered: 998
     deaths: 62
   - name: Ontario
-    confirmed: 34792
-    recovered: 29565
-    deaths: 2625
+    confirmed: 34805
+    recovered: 29639
+    deaths: 2629
   - name: Prince Edward Island
     confirmed: 27
     recovered: 27
     deaths: 0
   - name: Quebec
-    confirmed: 54550
-    recovered: 22972
-    deaths: 5375
+    confirmed: 54674
+    recovered: 23201
+    deaths: 5408
   - name: Saskatchewan
     confirmed: 716
     recovered: 636
@@ -992,9 +992,9 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Arizona
-    confirmed: 46910
+    confirmed: 49802
     recovered: 0
-    deaths: 1321
+    deaths: 1344
   - name: Arkansas
     confirmed: 14631
     recovered: 0
@@ -1024,9 +1024,9 @@ breakdowns:
     recovered: 0
     deaths: 531
   - name: Florida
-    confirmed: 89748
+    confirmed: 93797
     recovered: 0
-    deaths: 3104
+    deaths: 3144
   - name: Georgia
     confirmed: 62009
     recovered: 0
@@ -1036,7 +1036,7 @@ breakdowns:
     recovered: 0
     deaths: 3
   - name: Guam
-    confirmed: 200
+    confirmed: 222
     recovered: 0
     deaths: 5
   - name: Hawaii
@@ -1072,7 +1072,7 @@ breakdowns:
     recovered: 0
     deaths: 3084
   - name: Maine
-    confirmed: 2913
+    confirmed: 2939
     recovered: 0
     deaths: 102
   - name: Maryland
@@ -1096,11 +1096,11 @@ breakdowns:
     recovered: 0
     deaths: 938
   - name: Missouri
-    confirmed: 17723
+    confirmed: 18048
     recovered: 0
-    deaths: 961
+    deaths: 960
   - name: Montana
-    confirmed: 697
+    confirmed: 698
     recovered: 0
     deaths: 20
   - name: Nebraska
@@ -1116,9 +1116,9 @@ breakdowns:
     recovered: 0
     deaths: 337
   - name: New Jersey
-    confirmed: 168496
+    confirmed: 168821
     recovered: 0
-    deaths: 12902
+    deaths: 12924
   - name: New Mexico
     confirmed: 10260
     recovered: 0
@@ -1126,11 +1126,11 @@ breakdowns:
   - name: New York
     confirmed: 387272
     recovered: 0
-    deaths: 31015
+    deaths: 31023
   - name: North Carolina
-    confirmed: 49652
+    confirmed: 51390
     recovered: 0
-    deaths: 1207
+    deaths: 1215
   - name: North Dakota
     confirmed: 3251
     recovered: 0
@@ -1152,7 +1152,7 @@ breakdowns:
     recovered: 0
     deaths: 188
   - name: Pennsylvania
-    confirmed: 85591
+    confirmed: 85590
     recovered: 0
     deaths: 6419
   - name: Puerto Rico
@@ -1180,9 +1180,9 @@ breakdowns:
     recovered: 0
     deaths: 515
   - name: Texas
-    confirmed: 105488
+    confirmed: 105790
     recovered: 0
-    deaths: 2159
+    deaths: 2160
   - name: United States Virgin Islands
     confirmed: 0
     recovered: 0
@@ -1208,7 +1208,7 @@ breakdowns:
     recovered: 0
     deaths: 1255
   - name: West Virginia
-    confirmed: 2468
+    confirmed: 2486
     recovered: 0
     deaths: 88
   - name: Wisconsin
@@ -1219,5 +1219,5 @@ breakdowns:
     confirmed: 1179
     recovered: 0
     deaths: 20
-updated: 2020-06-20 16:33:21
+updated: 2020-06-20 17:33:22
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

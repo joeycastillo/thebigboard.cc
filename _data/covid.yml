@@ -1,6 +1,6 @@
-confirmed: 14355705
-recovered: 8071937
-deaths: 603285
+confirmed: 14360451
+recovered: 8073083
+deaths: 603378
 countries:
 - name: Afghanistan
   confirmed: 35475
@@ -53,7 +53,7 @@ countries:
 - name: Bahrain
   confirmed: 36004
   recovered: 31765
-  deaths: 125
+  deaths: 126
 - name: Bangladesh
   confirmed: 204525
   recovered: 111642
@@ -131,7 +131,7 @@ countries:
   recovered: 13728
   deaths: 373
 - name: Canada
-  confirmed: 112095
+  confirmed: 112111
   recovered: 98459
   deaths: 8893
 - name: Central African Republic
@@ -364,8 +364,8 @@ countries:
   deaths: 375
 - name: Kenya
   confirmed: 13353
-  recovered: 4440
-  deaths: 225
+  recovered: 5122
+  deaths: 234
 - name: Korea, South
   confirmed: 13745
   recovered: 12556
@@ -391,8 +391,8 @@ countries:
   recovered: 1022
   deaths: 31
 - name: Lebanon
-  confirmed: 2775
-  recovered: 1485
+  confirmed: 2859
+  recovered: 1515
   deaths: 40
 - name: Lesotho
   confirmed: 359
@@ -475,17 +475,17 @@ countries:
   recovered: 385
   deaths: 32
 - name: Morocco
-  confirmed: 17015
-  recovered: 14620
-  deaths: 269
+  confirmed: 17236
+  recovered: 14921
+  deaths: 273
 - name: Mozambique
   confirmed: 1491
   recovered: 472
   deaths: 10
 - name: Namibia
-  confirmed: 1203
-  recovered: 32
-  deaths: 2
+  confirmed: 1247
+  recovered: 35
+  deaths: 3
 - name: Nepal
   confirmed: 17658
   recovered: 11695
@@ -587,8 +587,8 @@ countries:
   recovered: 656
   deaths: 42
 - name: Sao Tome and Principe
-  confirmed: 743
-  recovered: 337
+  confirmed: 746
+  recovered: 451
   deaths: 14
 - name: Saudi Arabia
   confirmed: 250920
@@ -607,7 +607,7 @@ countries:
   recovered: 27
   deaths: 0
 - name: Sierra Leone
-  confirmed: 1701
+  confirmed: 1711
   recovered: 1237
   deaths: 65
 - name: Singapore
@@ -623,8 +623,8 @@ countries:
   recovered: 1568
   deaths: 112
 - name: Somalia
-  confirmed: 3111
-  recovered: 1452
+  confirmed: 3119
+  recovered: 1457
   deaths: 93
 - name: South Africa
   confirmed: 350879
@@ -699,9 +699,9 @@ countries:
   recovered: 202010
   deaths: 5491
 - name: US
-  confirmed: 3739726
+  confirmed: 3744061
   recovered: 1122720
-  deaths: 140294
+  deaths: 140369
 - name: Uganda
   confirmed: 1065
   recovered: 1023
@@ -737,15 +737,15 @@ countries:
 - name: West Bank and Gaza
   confirmed: 8549
   recovered: 1921
-  deaths: 61
+  deaths: 62
 - name: Western Sahara
   confirmed: 10
   recovered: 8
   deaths: 1
 - name: Yemen
-  confirmed: 1581
-  recovered: 701
-  deaths: 443
+  confirmed: 1606
+  recovered: 712
+  deaths: 445
 - name: Zambia
   confirmed: 2980
   recovered: 1462
@@ -810,7 +810,7 @@ breakdowns:
     recovered: 318
     deaths: 7
   - name: New Brunswick
-    confirmed: 168
+    confirmed: 169
     recovered: 163
     deaths: 2
   - name: Newfoundland and Labrador
@@ -826,7 +826,7 @@ breakdowns:
     recovered: 1002
     deaths: 63
   - name: Ontario
-    confirmed: 39370
+    confirmed: 39385
     recovered: 34816
     deaths: 2791
   - name: Prince Edward Island
@@ -1000,7 +1000,7 @@ breakdowns:
     recovered: 0
     deaths: 357
   - name: California
-    confirmed: 381164
+    confirmed: 381217
     recovered: 0
     deaths: 7702
   - name: Colorado
@@ -1056,7 +1056,7 @@ breakdowns:
     recovered: 0
     deaths: 2821
   - name: Iowa
-    confirmed: 38643
+    confirmed: 38702
     recovered: 0
     deaths: 792
   - name: Kansas
@@ -1068,9 +1068,9 @@ breakdowns:
     recovered: 0
     deaths: 667
   - name: Louisiana
-    confirmed: 88590
+    confirmed: 91706
     recovered: 0
-    deaths: 3509
+    deaths: 3543
   - name: Maine
     confirmed: 3687
     recovered: 0
@@ -1140,9 +1140,9 @@ breakdowns:
     recovered: 0
     deaths: 2
   - name: Ohio
-    confirmed: 73821
+    confirmed: 74928
     recovered: 0
-    deaths: 3132
+    deaths: 3173
   - name: Oklahoma
     confirmed: 25266
     recovered: 0
@@ -1219,5 +1219,5 @@ breakdowns:
     confirmed: 2126
     recovered: 0
     deaths: 25
-updated: 2020-07-19 17:34:42
+updated: 2020-07-19 18:34:37
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

@@ -1,11 +1,11 @@
-confirmed: 16199931
-recovered: 9359821
-deaths: 647910
+confirmed: 16264048
+recovered: 9407977
+deaths: 648966
 countries:
 - name: Afghanistan
-  confirmed: 36157
-  recovered: 25180
-  deaths: 1259
+  confirmed: 36263
+  recovered: 25198
+  deaths: 1269
 - name: Albania
   confirmed: 4763
   recovered: 2682
@@ -36,7 +36,7 @@ countries:
   deaths: 705
 - name: Australia
   confirmed: 14935
-  recovered: 9171
+  recovered: 9311
   deaths: 161
 - name: Austria
   confirmed: 20472
@@ -59,7 +59,7 @@ countries:
   recovered: 123882
   deaths: 2928
 - name: Barbados
-  confirmed: 108
+  confirmed: 110
   recovered: 94
   deaths: 7
 - name: Belarus
@@ -67,8 +67,8 @@ countries:
   recovered: 60425
   deaths: 534
 - name: Belgium
-  confirmed: 65727
-  recovered: 17425
+  confirmed: 66026
+  recovered: 17438
   deaths: 9821
 - name: Belize
   confirmed: 48
@@ -79,7 +79,7 @@ countries:
   recovered: 1036
   deaths: 35
 - name: Bhutan
-  confirmed: 93
+  confirmed: 95
   recovered: 85
   deaths: 0
 - name: Bolivia
@@ -131,7 +131,7 @@ countries:
   recovered: 14539
   deaths: 385
 - name: Canada
-  confirmed: 115787
+  confirmed: 115789
   recovered: 100969
   deaths: 8934
 - name: Central African Republic
@@ -151,9 +151,9 @@ countries:
   recovered: 80459
   deaths: 4652
 - name: Colombia
-  confirmed: 240795
-  recovered: 119667
-  deaths: 8269
+  confirmed: 248976
+  recovered: 125037
+  deaths: 8525
 - name: Comoros
   confirmed: 354
   recovered: 328
@@ -220,8 +220,8 @@ countries:
   deaths: 4606
 - name: El Salvador
   confirmed: 14630
-  recovered: 7648
-  deaths: 400
+  recovered: 7667
+  deaths: 408
 - name: Equatorial Guinea
   confirmed: 3071
   recovered: 842
@@ -263,12 +263,12 @@ countries:
   recovered: 60
   deaths: 6
 - name: Georgia
-  confirmed: 1131
-  recovered: 920
+  confirmed: 1137
+  recovered: 922
   deaths: 16
 - name: Germany
-  confirmed: 206667
-  recovered: 190055
+  confirmed: 206751
+  recovered: 190255
   deaths: 9124
 - name: Ghana
   confirmed: 32969
@@ -299,7 +299,7 @@ countries:
   recovered: 181
   deaths: 20
 - name: Haiti
-  confirmed: 7297
+  confirmed: 7315
   recovered: 4365
   deaths: 157
 - name: Holy See
@@ -307,11 +307,11 @@ countries:
   recovered: 12
   deaths: 0
 - name: Honduras
-  confirmed: 38438
-  recovered: 4713
-  deaths: 1098
+  confirmed: 39276
+  recovered: 4922
+  deaths: 1116
 - name: Hungary
-  confirmed: 4435
+  confirmed: 4448
   recovered: 3329
   deaths: 596
 - name: Iceland
@@ -319,9 +319,9 @@ countries:
   recovered: 1823
   deaths: 10
 - name: India
-  confirmed: 1385685
-  recovered: 885577
-  deaths: 32063
+  confirmed: 1435616
+  recovered: 917568
+  deaths: 32771
 - name: Indonesia
   confirmed: 98778
   recovered: 56655
@@ -351,7 +351,7 @@ countries:
   recovered: 714
   deaths: 10
 - name: Japan
-  confirmed: 30530
+  confirmed: 30764
   recovered: 21606
   deaths: 998
 - name: Jordan
@@ -359,8 +359,8 @@ countries:
   recovered: 1041
   deaths: 11
 - name: Kazakhstan
-  confirmed: 81720
-  recovered: 51823
+  confirmed: 83122
+  recovered: 52571
   deaths: 585
 - name: Kenya
   confirmed: 17603
@@ -379,9 +379,9 @@ countries:
   recovered: 54373
   deaths: 433
 - name: Kyrgyzstan
-  confirmed: 32813
-  recovered: 20388
-  deaths: 1277
+  confirmed: 33296
+  recovered: 21205
+  deaths: 1301
 - name: Laos
   confirmed: 20
   recovered: 19
@@ -491,7 +491,7 @@ countries:
   recovered: 13128
   deaths: 45
 - name: Netherlands
-  confirmed: 53005
+  confirmed: 53219
   recovered: 196
   deaths: 6159
 - name: New Zealand
@@ -523,9 +523,9 @@ countries:
   recovered: 55299
   deaths: 384
 - name: Pakistan
-  confirmed: 273113
-  recovered: 237434
-  deaths: 5822
+  confirmed: 274289
+  recovered: 241026
+  deaths: 5842
 - name: Panama
   confirmed: 60296
   recovered: 34131
@@ -540,7 +540,7 @@ countries:
   deaths: 41
 - name: Peru
   confirmed: 375961
-  recovered: 263130
+  recovered: 267850
   deaths: 17843
 - name: Philippines
   confirmed: 80448
@@ -675,8 +675,8 @@ countries:
   recovered: 183
   deaths: 21
 - name: Thailand
-  confirmed: 3291
-  recovered: 3109
+  confirmed: 3295
+  recovered: 3111
   deaths: 58
 - name: Timor-Leste
   confirmed: 24
@@ -699,17 +699,17 @@ countries:
   recovered: 209487
   deaths: 5613
 - name: US
-  confirmed: 4233825
+  confirmed: 4234140
   recovered: 1297863
-  deaths: 146934
+  deaths: 146935
 - name: Uganda
   confirmed: 1115
   recovered: 982
   deaths: 2
 - name: Ukraine
-  confirmed: 66261
-  recovered: 36885
-  deaths: 1625
+  confirmed: 67068
+  recovered: 37200
+  deaths: 1636
 - name: United Arab Emirates
   confirmed: 58913
   recovered: 52182
@@ -782,11 +782,11 @@ breakdowns:
     deaths: 13
   - name: Victoria
     confirmed: 8696
-    recovered: 3680
+    recovered: 3817
     deaths: 77
   - name: Western Australia
     confirmed: 658
-    recovered: 644
+    recovered: 647
     deaths: 9
   Canada:
   - name: Alberta
@@ -826,7 +826,7 @@ breakdowns:
     recovered: 1004
     deaths: 63
   - name: Ontario
-    confirmed: 40556
+    confirmed: 40558
     recovered: 35973
     deaths: 2806
   - name: Prince Edward Island
@@ -1036,7 +1036,7 @@ breakdowns:
     recovered: 0
     deaths: 3
   - name: Guam
-    confirmed: 337
+    confirmed: 346
     recovered: 0
     deaths: 5
   - name: Hawaii
@@ -1056,9 +1056,9 @@ breakdowns:
     recovered: 0
     deaths: 2903
   - name: Iowa
-    confirmed: 42259
+    confirmed: 42358
     recovered: 0
-    deaths: 828
+    deaths: 829
   - name: Kansas
     confirmed: 25290
     recovered: 0
@@ -1096,7 +1096,7 @@ breakdowns:
     recovered: 0
     deaths: 1493
   - name: Missouri
-    confirmed: 42160
+    confirmed: 42257
     recovered: 0
     deaths: 1209
   - name: Montana
@@ -1132,7 +1132,7 @@ breakdowns:
     recovered: 0
     deaths: 1817
   - name: North Dakota
-    confirmed: 5876
+    confirmed: 5986
     recovered: 0
     deaths: 99
   - name: Northern Mariana Islands
@@ -1219,5 +1219,5 @@ breakdowns:
     confirmed: 2475
     recovered: 0
     deaths: 25
-updated: 2020-07-27 02:35:10
+updated: 2020-07-27 07:34:58
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

@@ -1,11 +1,11 @@
-confirmed: 17852451
-recovered: 10598297
-deaths: 679742
+confirmed: 17855729
+recovered: 10598327
+deaths: 679794
 countries:
 - name: Afghanistan
   confirmed: 36710
-  recovered: 25509
-  deaths: 1283
+  recovered: 25510
+  deaths: 1284
 - name: Albania
   confirmed: 5519
   recovered: 3018
@@ -131,9 +131,9 @@ countries:
   recovered: 15320
   deaths: 391
 - name: Canada
-  confirmed: 118568
-  recovered: 103158
-  deaths: 8986
+  confirmed: 118743
+  recovered: 103159
+  deaths: 8990
 - name: Central African Republic
   confirmed: 4614
   recovered: 1635
@@ -355,8 +355,8 @@ countries:
   recovered: 25748
   deaths: 1013
 - name: Jordan
-  confirmed: 1208
-  recovered: 1094
+  confirmed: 1213
+  recovered: 1099
   deaths: 11
 - name: Kazakhstan
   confirmed: 91593
@@ -631,7 +631,7 @@ countries:
   recovered: 342461
   deaths: 8153
 - name: South Sudan
-  confirmed: 2352
+  confirmed: 2429
   recovered: 1175
   deaths: 46
 - name: Spain
@@ -639,7 +639,7 @@ countries:
   recovered: 150376
   deaths: 28445
 - name: Sri Lanka
-  confirmed: 2822
+  confirmed: 2823
   recovered: 2514
   deaths: 11
 - name: Sudan
@@ -659,9 +659,9 @@ countries:
   recovered: 31300
   deaths: 1981
 - name: Syria
-  confirmed: 780
-  recovered: 237
-  deaths: 43
+  confirmed: 809
+  recovered: 256
+  deaths: 44
 - name: Taiwan*
   confirmed: 474
   recovered: 441
@@ -691,17 +691,17 @@ countries:
   recovered: 132
   deaths: 8
 - name: Tunisia
-  confirmed: 1552
-  recovered: 1217
+  confirmed: 1561
+  recovered: 1221
   deaths: 51
 - name: Turkey
   confirmed: 232856
   recovered: 216494
   deaths: 5728
 - name: US
-  confirmed: 4646691
+  confirmed: 4649669
   recovered: 1461885
-  deaths: 154701
+  deaths: 154744
 - name: Uganda
   confirmed: 1182
   recovered: 1045
@@ -743,9 +743,9 @@ countries:
   recovered: 8
   deaths: 1
 - name: Yemen
-  confirmed: 1730
+  confirmed: 1734
   recovered: 862
-  deaths: 494
+  deaths: 497
 - name: Zambia
   confirmed: 6347
   recovered: 4493
@@ -806,7 +806,7 @@ breakdowns:
     recovered: 13
     deaths: 0
   - name: Manitoba
-    confirmed: 417
+    confirmed: 435
     recovered: 337
     deaths: 8
   - name: New Brunswick
@@ -826,17 +826,17 @@ breakdowns:
     recovered: 1003
     deaths: 64
   - name: Ontario
-    confirmed: 41300
-    recovered: 36959
-    deaths: 2821
+    confirmed: 41316
+    recovered: 36960
+    deaths: 2822
   - name: Prince Edward Island
     confirmed: 36
     recovered: 36
     deaths: 0
   - name: Quebec
-    confirmed: 59458
+    confirmed: 59599
     recovered: 50886
-    deaths: 5678
+    deaths: 5681
   - name: Saskatchewan
     confirmed: 1334
     recovered: 1054
@@ -984,7 +984,7 @@ breakdowns:
     recovered: 0
     deaths: 1627
   - name: Alaska
-    confirmed: 3136
+    confirmed: 3280
     recovered: 0
     deaths: 24
   - name: American Samoa
@@ -992,9 +992,9 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: Arizona
-    confirmed: 177002
+    confirmed: 178467
     recovered: 0
-    deaths: 3747
+    deaths: 3765
   - name: Arkansas
     confirmed: 43173
     recovered: 0
@@ -1056,7 +1056,7 @@ breakdowns:
     recovered: 0
     deaths: 2974
   - name: Iowa
-    confirmed: 45493
+    confirmed: 45492
     recovered: 0
     deaths: 874
   - name: Kansas
@@ -1084,7 +1084,7 @@ breakdowns:
     recovered: 0
     deaths: 8626
   - name: Michigan
-    confirmed: 91332
+    confirmed: 91758
     recovered: 0
     deaths: 6457
   - name: Minnesota
@@ -1126,7 +1126,7 @@ breakdowns:
   - name: New York
     confirmed: 416298
     recovered: 0
-    deaths: 32699
+    deaths: 32710
   - name: North Carolina
     confirmed: 125330
     recovered: 0
@@ -1140,9 +1140,9 @@ breakdowns:
     recovered: 0
     deaths: 2
   - name: Ohio
-    confirmed: 92087
+    confirmed: 93031
     recovered: 0
-    deaths: 3515
+    deaths: 3529
   - name: Oklahoma
     confirmed: 38225
     recovered: 0
@@ -1219,5 +1219,5 @@ breakdowns:
     confirmed: 2808
     recovered: 0
     deaths: 26
-updated: 2020-08-02 17:34:34
+updated: 2020-08-02 18:34:33
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

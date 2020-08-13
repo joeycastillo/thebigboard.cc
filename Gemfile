@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
-gem "kramdown", ">= 2.3.0"
-gem "jekyll", "~> 3.8.5"
+gem "jekyll", "~> 3.9.0"
 
 group :jekyll_plugins do
   gem 'html-proofer'

@@ -1,0 +1,13 @@
+---
+---
+{% assign last_update = site.data.covid.updated | date: '%s'%}{% assign start_of_year = 1577836800 | times: 1.0 %}{% assign seconds_this_year = 29980800 | times: 1.0 %}{% assign seconds_so_far = last_update | minus: start_of_year %}{% assign percent_done = seconds_so_far | divided_by: seconds_this_year %}{% assign covid_displayed = false %}
+{"standings": [{% for death in site.data.deaths %}{% assign deaths_so_far = death.deaths | times: percent_done | round  %}
+{% if site.data.covid.deaths > deaths_so_far and covid_displayed == false %}
+{"cause" : "COVID-19", "deaths" : {{ deaths_so_far }}},
+{% assign covid_displayed = true %}
+{% endif %}
+{"cause" : "{{ death.cause | upcase }}", "deaths" : {{ deaths_so_far }}}{% if displayed_after_covid != 2 %},{% endif %}
+{% if covid_displayed == true %}{% capture _ %}{% increment displayed_after_covid %}{% endcapture %}{% endif %}
+{% if displayed_after_covid == 3 %}{% break %}{% endif %}
+{% endfor %}
+],"updated":"{{site.data.covid.updated}}"}

@@ -1,6 +1,6 @@
-confirmed: 25583294
-recovered: 16881769
-deaths: 852710
+confirmed: 25587737
+recovered: 16882698
+deaths: 852851
 countries:
 - name: Afghanistan
   confirmed: 38196
@@ -15,13 +15,13 @@ countries:
   recovered: 31493
   deaths: 1518
 - name: Andorra
-  confirmed: 1176
+  confirmed: 1184
   recovered: 908
   deaths: 53
 - name: Angola
-  confirmed: 2654
-  recovered: 1071
-  deaths: 108
+  confirmed: 2729
+  recovered: 1084
+  deaths: 109
 - name: Antigua and Barbuda
   confirmed: 94
   recovered: 91
@@ -119,8 +119,8 @@ countries:
   recovered: 357
   deaths: 1
 - name: Cabo Verde
-  confirmed: 3884
-  recovered: 2916
+  confirmed: 3970
+  recovered: 3423
   deaths: 40
 - name: Cambodia
   confirmed: 274
@@ -131,8 +131,8 @@ countries:
   recovered: 17651
   deaths: 414
 - name: Canada
-  confirmed: 131151
-  recovered: 116230
+  confirmed: 131186
+  recovered: 116260
   deaths: 9176
 - name: Central African Republic
   confirmed: 4711
@@ -339,9 +339,9 @@ countries:
   recovered: 23364
   deaths: 1777
 - name: Israel
-  confirmed: 118122
-  recovered: 96206
-  deaths: 956
+  confirmed: 118538
+  recovered: 96214
+  deaths: 957
 - name: Italy
   confirmed: 270189
   recovered: 207944
@@ -399,8 +399,8 @@ countries:
   recovered: 528
   deaths: 31
 - name: Liberia
-  confirmed: 1304
-  recovered: 872
+  confirmed: 1305
+  recovered: 1158
   deaths: 82
 - name: Libya
   confirmed: 14624
@@ -439,8 +439,8 @@ countries:
   recovered: 5265
   deaths: 29
 - name: Mali
-  confirmed: 2776
-  recovered: 2169
+  confirmed: 2777
+  recovered: 2178
   deaths: 126
 - name: Malta
   confirmed: 1909
@@ -607,9 +607,9 @@ countries:
   recovered: 127
   deaths: 0
 - name: Sierra Leone
-  confirmed: 2022
+  confirmed: 2028
   recovered: 1594
-  deaths: 70
+  deaths: 71
 - name: Singapore
   confirmed: 56852
   recovered: 55749
@@ -659,9 +659,9 @@ countries:
   recovered: 36300
   deaths: 2011
 - name: Syria
-  confirmed: 2765
-  recovered: 629
-  deaths: 112
+  confirmed: 2830
+  recovered: 646
+  deaths: 116
 - name: Taiwan*
   confirmed: 488
   recovered: 462
@@ -683,8 +683,8 @@ countries:
   recovered: 25
   deaths: 0
 - name: Togo
-  confirmed: 1400
-  recovered: 1005
+  confirmed: 1416
+  recovered: 1035
   deaths: 28
 - name: Trinidad and Tobago
   confirmed: 1773
@@ -699,9 +699,9 @@ countries:
   recovered: 245929
   deaths: 6417
 - name: US
-  confirmed: 6064409
+  confirmed: 6068139
   recovered: 2184825
-  deaths: 184320
+  deaths: 184450
 - name: Uganda
   confirmed: 3037
   recovered: 1489
@@ -743,9 +743,9 @@ countries:
   recovered: 8
   deaths: 1
 - name: Yemen
-  confirmed: 1958
-  recovered: 1131
-  deaths: 566
+  confirmed: 1962
+  recovered: 1160
+  deaths: 570
 - name: Zambia
   confirmed: 12097
   recovered: 11469
@@ -826,8 +826,8 @@ breakdowns:
     recovered: 1014
     deaths: 65
   - name: Ontario
-    confirmed: 44369
-    recovered: 40155
+    confirmed: 44404
+    recovered: 40185
     deaths: 2858
   - name: Prince Edward Island
     confirmed: 44
@@ -1056,17 +1056,17 @@ breakdowns:
     recovered: 0
     deaths: 3312
   - name: Iowa
-    confirmed: 65447
+    confirmed: 65476
     recovered: 0
-    deaths: 1121
+    deaths: 1122
   - name: Kansas
     confirmed: 42789
     recovered: 0
     deaths: 453
   - name: Kentucky
-    confirmed: 48396
+    confirmed: 49185
     recovered: 0
-    deaths: 933
+    deaths: 948
   - name: Louisiana
     confirmed: 148882
     recovered: 0
@@ -1126,7 +1126,7 @@ breakdowns:
   - name: New York
     confirmed: 435510
     recovered: 0
-    deaths: 32965
+    deaths: 32966
   - name: North Carolina
     confirmed: 169424
     recovered: 0
@@ -1180,9 +1180,9 @@ breakdowns:
     recovered: 0
     deaths: 1781
   - name: Texas
-    confirmed: 633573
+    confirmed: 636485
     recovered: 0
-    deaths: 12780
+    deaths: 12893
   - name: United States Virgin Islands
     confirmed: 0
     recovered: 0
@@ -1219,5 +1219,5 @@ breakdowns:
     confirmed: 3850
     recovered: 0
     deaths: 37
-updated: 2020-09-01 20:28:26
+updated: 2020-09-01 21:28:30
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

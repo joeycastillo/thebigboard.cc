@@ -1,6 +1,6 @@
-confirmed: 28643102
-recovered: 19317900
-deaths: 918352
+confirmed: 28650588
+recovered: 19322144
+deaths: 918796
 countries:
 - name: Afghanistan
   confirmed: 38641
@@ -35,7 +35,7 @@ countries:
   recovered: 41605
   deaths: 911
 - name: Australia
-  confirmed: 26648
+  confirmed: 26651
   recovered: 23338
   deaths: 810
 - name: Austria
@@ -147,8 +147,8 @@ countries:
   recovered: 404919
   deaths: 11895
 - name: China
-  confirmed: 90162
-  recovered: 85045
+  confirmed: 90167
+  recovered: 85046
   deaths: 4734
 - name: Colombia
   confirmed: 702088
@@ -367,9 +367,9 @@ countries:
   recovered: 22771
   deaths: 619
 - name: Korea, South
-  confirmed: 22055
-  recovered: 18029
-  deaths: 355
+  confirmed: 22176
+  recovered: 18226
+  deaths: 358
 - name: Kosovo
   confirmed: 12683
   recovered: 8788
@@ -455,9 +455,9 @@ countries:
   recovered: 335
   deaths: 10
 - name: Mexico
-  confirmed: 658299
-  recovered: 547088
-  deaths: 70183
+  confirmed: 663973
+  recovered: 551113
+  deaths: 70604
 - name: Moldova
   confirmed: 42714
   recovered: 30437
@@ -491,12 +491,12 @@ countries:
   recovered: 37524
   deaths: 336
 - name: Netherlands
-  confirmed: 84697
-  recovered: 1991
+  confirmed: 84707
+  recovered: 1992
   deaths: 6291
 - name: New Zealand
-  confirmed: 1795
-  recovered: 1663
+  confirmed: 1797
+  recovered: 1676
   deaths: 24
 - name: Nicaragua
   confirmed: 4818
@@ -699,9 +699,9 @@ countries:
   recovered: 257731
   deaths: 6999
 - name: US
-  confirmed: 6480834
+  confirmed: 6482503
   recovered: 2434658
-  deaths: 193650
+  deaths: 193670
 - name: Uganda
   confirmed: 4703
   recovered: 1998
@@ -715,8 +715,8 @@ countries:
   recovered: 68983
   deaths: 399
 - name: United Kingdom
-  confirmed: 367590
-  recovered: 1873
+  confirmed: 367592
+  recovered: 1880
   deaths: 41712
 - name: Uruguay
   confirmed: 1780
@@ -761,7 +761,7 @@ breakdowns:
     recovered: 110
     deaths: 3
   - name: New South Wales
-    confirmed: 4157
+    confirmed: 4166
     recovered: 2994
     deaths: 52
   - name: Northern Territory
@@ -781,7 +781,7 @@ breakdowns:
     recovered: 217
     deaths: 13
   - name: Victoria
-    confirmed: 19841
+    confirmed: 19835
     recovered: 17771
     deaths: 723
   - name: Western Australia
@@ -867,11 +867,11 @@ breakdowns:
     recovered: 168
     deaths: 2
   - name: Guangdong
-    confirmed: 1776
+    confirmed: 1777
     recovered: 1745
     deaths: 8
   - name: Guangxi
-    confirmed: 257
+    confirmed: 258
     recovered: 253
     deaths: 2
   - name: Guizhou
@@ -891,7 +891,7 @@ breakdowns:
     recovered: 935
     deaths: 13
   - name: Henan
-    confirmed: 1276
+    confirmed: 1277
     recovered: 1254
     deaths: 22
   - name: Hong Kong
@@ -960,7 +960,7 @@ breakdowns:
     deaths: 3
   - name: Tianjin
     confirmed: 234
-    recovered: 220
+    recovered: 221
     deaths: 3
   - name: Tibet
     confirmed: 1
@@ -975,7 +975,7 @@ breakdowns:
     recovered: 193
     deaths: 2
   - name: Zhejiang
-    confirmed: 1278
+    confirmed: 1280
     recovered: 1268
     deaths: 1
   US:
@@ -1000,9 +1000,9 @@ breakdowns:
     recovered: 0
     deaths: 953
   - name: California
-    confirmed: 757104
+    confirmed: 758616
     recovered: 0
-    deaths: 14307
+    deaths: 14327
   - name: Colorado
     confirmed: 60876
     recovered: 0
@@ -1056,7 +1056,7 @@ breakdowns:
     recovered: 0
     deaths: 3437
   - name: Iowa
-    confirmed: 73868
+    confirmed: 73901
     recovered: 0
     deaths: 1217
   - name: Kansas
@@ -1180,7 +1180,7 @@ breakdowns:
     recovered: 0
     deaths: 2064
   - name: Texas
-    confirmed: 677592
+    confirmed: 677716
     recovered: 0
     deaths: 14332
   - name: United States Virgin Islands
@@ -1219,5 +1219,5 @@ breakdowns:
     confirmed: 4297
     recovered: 0
     deaths: 42
-updated: 2020-09-13 00:26:18
+updated: 2020-09-13 01:25:58
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

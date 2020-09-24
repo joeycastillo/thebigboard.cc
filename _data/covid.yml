@@ -1,6 +1,6 @@
-confirmed: 31920652
-recovered: 22002729
-deaths: 977311
+confirmed: 31932867
+recovered: 22010986
+deaths: 977452
 countries:
 - name: Afghanistan
   confirmed: 39170
@@ -43,9 +43,9 @@ countries:
   recovered: 31661
   deaths: 783
 - name: Azerbaijan
-  confirmed: 39524
-  recovered: 37122
-  deaths: 580
+  confirmed: 39686
+  recovered: 37255
+  deaths: 581
 - name: Bahamas
   confirmed: 3618
   recovered: 1915
@@ -87,9 +87,9 @@ countries:
   recovered: 91556
   deaths: 7731
 - name: Bosnia and Herzegovina
-  confirmed: 26081
-  recovered: 18634
-  deaths: 790
+  confirmed: 26316
+  recovered: 19142
+  deaths: 802
 - name: Botswana
   confirmed: 2567
   recovered: 624
@@ -163,8 +163,8 @@ countries:
   recovered: 3887
   deaths: 89
 - name: Congo (Kinshasa)
-  confirmed: 10537
-  recovered: 10041
+  confirmed: 10555
+  recovered: 10051
   deaths: 271
 - name: Costa Rica
   confirmed: 68059
@@ -191,9 +191,9 @@ countries:
   recovered: 26709
   deaths: 555
 - name: Denmark
-  confirmed: 24822
-  recovered: 18789
-  deaths: 643
+  confirmed: 25385
+  recovered: 19076
+  deaths: 645
 - name: Diamond Princess
   confirmed: 712
   recovered: 651
@@ -331,9 +331,9 @@ countries:
   recovered: 367829
   deaths: 25015
 - name: Iraq
-  confirmed: 332635
-  recovered: 264988
-  deaths: 8754
+  confirmed: 337106
+  recovered: 268761
+  deaths: 8799
 - name: Ireland
   confirmed: 33675
   recovered: 23364
@@ -351,9 +351,9 @@ countries:
   recovered: 1444
   deaths: 76
 - name: Japan
-  confirmed: 80470
-  recovered: 71547
-  deaths: 1525
+  confirmed: 80467
+  recovered: 72066
+  deaths: 1540
 - name: Jordan
   confirmed: 6042
   recovered: 3812
@@ -375,9 +375,9 @@ countries:
   recovered: 8788
   deaths: 488
 - name: Kuwait
-  confirmed: 101299
-  recovered: 92341
-  deaths: 590
+  confirmed: 101851
+  recovered: 92961
+  deaths: 592
 - name: Kyrgyzstan
   confirmed: 45757
   recovered: 42005
@@ -395,17 +395,17 @@ countries:
   recovered: 13527
   deaths: 328
 - name: Lesotho
-  confirmed: 1507
-  recovered: 766
+  confirmed: 1554
+  recovered: 782
   deaths: 35
 - name: Liberia
-  confirmed: 1337
-  recovered: 1219
+  confirmed: 1338
+  recovered: 1221
   deaths: 82
 - name: Libya
-  confirmed: 30097
-  recovered: 16430
-  deaths: 469
+  confirmed: 30632
+  recovered: 16842
+  deaths: 474
 - name: Liechtenstein
   confirmed: 116
   recovered: 110
@@ -423,9 +423,9 @@ countries:
   recovered: 0
   deaths: 2
 - name: Madagascar
-  confirmed: 16167
-  recovered: 14788
-  deaths: 226
+  confirmed: 16191
+  recovered: 14833
+  deaths: 227
 - name: Malawi
   confirmed: 5746
   recovered: 4140
@@ -491,9 +491,9 @@ countries:
   recovered: 50411
   deaths: 453
 - name: Netherlands
-  confirmed: 105304
+  confirmed: 107848
   recovered: 3143
-  deaths: 6344
+  deaths: 6360
 - name: New Zealand
   confirmed: 1827
   recovered: 1737
@@ -591,17 +591,17 @@ countries:
   recovered: 880
   deaths: 15
 - name: Saudi Arabia
-  confirmed: 331359
-  recovered: 313786
-  deaths: 4569
+  confirmed: 331857
+  recovered: 314793
+  deaths: 4599
 - name: Senegal
   confirmed: 14816
   recovered: 11818
   deaths: 304
 - name: Serbia
-  confirmed: 33080
+  confirmed: 33163
   recovered: 0
-  deaths: 744
+  deaths: 745
 - name: Seychelles
   confirmed: 143
   recovered: 136
@@ -651,9 +651,9 @@ countries:
   recovered: 4560
   deaths: 101
 - name: Sweden
-  confirmed: 89756
+  confirmed: 90289
   recovered: 0
-  deaths: 5876
+  deaths: 5878
 - name: Switzerland
   confirmed: 51492
   recovered: 42300
@@ -691,21 +691,21 @@ countries:
   recovered: 1960
   deaths: 67
 - name: Tunisia
-  confirmed: 12479
+  confirmed: 13305
   recovered: 2386
-  deaths: 174
+  deaths: 180
 - name: Turkey
   confirmed: 308069
   recovered: 270723
   deaths: 7711
 - name: US
-  confirmed: 6935414
+  confirmed: 6935799
   recovered: 2670256
   deaths: 201920
 - name: Uganda
-  confirmed: 6879
-  recovered: 2961
-  deaths: 69
+  confirmed: 7064
+  recovered: 3226
+  deaths: 70
 - name: Ukraine
   confirmed: 192966
   recovered: 86624
@@ -735,9 +735,9 @@ countries:
   recovered: 991
   deaths: 35
 - name: West Bank and Gaza
-  confirmed: 37083
-  recovered: 26288
-  deaths: 272
+  confirmed: 37591
+  recovered: 26934
+  deaths: 274
 - name: Western Sahara
   confirmed: 10
   recovered: 8
@@ -747,8 +747,8 @@ countries:
   recovered: 1245
   deaths: 586
 - name: Zambia
-  confirmed: 14443
-  recovered: 13629
+  confirmed: 14491
+  recovered: 13643
   deaths: 332
 - name: Zimbabwe
   confirmed: 7725
@@ -1056,7 +1056,7 @@ breakdowns:
     recovered: 0
     deaths: 3530
   - name: Iowa
-    confirmed: 82956
+    confirmed: 83341
     recovered: 0
     deaths: 1298
   - name: Kansas
@@ -1219,5 +1219,5 @@ breakdowns:
     confirmed: 5169
     recovered: 0
     deaths: 50
-updated: 2020-09-24 11:23:40
+updated: 2020-09-24 13:23:42
 source: https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv

@@ -1,6 +1,9 @@
 # The Big Coronavirus Board
 
+[![big board preview](assets/images/default.png)](https://thebigboard.cc)
+
 This is a Jekyll-powered website aimed at displaying Coronavirus deaths in context, as compared to other causes of death worldwide.
+To see a live demo, visit [thebigboard.cc](https://thebigboard.cc).
 
 ## Architecture and Methodology
 

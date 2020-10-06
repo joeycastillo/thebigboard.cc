@@ -9,7 +9,7 @@ from git import Repo
 from datetime import datetime
 from contextlib import closing
 
-source_url = 'https://opendata.arcgis.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1.csv'
+source_url = 'https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv'
 countries_to_break_down = ['Australia', 'Canada', 'China', 'US']
 
 last_update = datetime(1970, 1, 1)

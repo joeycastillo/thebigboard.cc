@@ -1,15 +1,15 @@
-confirmed: 35882378
-recovered: 25014233
-deaths: 1051138
+confirmed: 35906341
+recovered: 25018241
+deaths: 1051446
 countries:
 - name: Afghanistan
   confirmed: 39548
   recovered: 33045
   deaths: 1469
 - name: Albania
-  confirmed: 14568
-  recovered: 8965
-  deaths: 403
+  confirmed: 14730
+  recovered: 9115
+  deaths: 407
 - name: Algeria
   confirmed: 52399
   recovered: 36763
@@ -131,8 +131,8 @@ countries:
   recovered: 19764
   deaths: 420
 - name: Canada
-  confirmed: 173756
-  recovered: 146429
+  confirmed: 173936
+  recovered: 146431
   deaths: 9582
 - name: Central African Republic
   confirmed: 4852
@@ -251,9 +251,9 @@ countries:
   recovered: 8100
   deaths: 346
 - name: France
-  confirmed: 675736
-  recovered: 101443
-  deaths: 32383
+  confirmed: 693383
+  recovered: 101941
+  deaths: 32462
 - name: Gabon
   confirmed: 8808
   recovered: 8135
@@ -268,8 +268,8 @@ countries:
   deaths: 63
 - name: Germany
   confirmed: 309128
-  recovered: 267758
-  deaths: 9566
+  recovered: 267819
+  deaths: 9567
 - name: Ghana
   confirmed: 46829
   recovered: 46060
@@ -283,9 +283,9 @@ countries:
   recovered: 24
   deaths: 0
 - name: Guatemala
-  confirmed: 94870
-  recovered: 83480
-  deaths: 3310
+  confirmed: 95704
+  recovered: 84036
+  deaths: 3335
 - name: Guinea
   confirmed: 10863
   recovered: 10176
@@ -344,20 +344,20 @@ countries:
   deaths: 1806
 - name: Italy
   confirmed: 330263
-  recovered: 234099
-  deaths: 36030
+  recovered: 235303
+  deaths: 36061
 - name: Jamaica
-  confirmed: 7109
-  recovered: 2674
-  deaths: 123
+  confirmed: 7191
+  recovered: 2700
+  deaths: 126
 - name: Japan
   confirmed: 87038
-  recovered: 78521
-  deaths: 1612
+  recovered: 79123
+  deaths: 1614
 - name: Jordan
-  confirmed: 19001
-  recovered: 5386
-  deaths: 122
+  confirmed: 20200
+  recovered: 5575
+  deaths: 131
 - name: Kazakhstan
   confirmed: 108362
   recovered: 103465
@@ -415,8 +415,8 @@ countries:
   recovered: 2600
   deaths: 101
 - name: Luxembourg
-  confirmed: 8979
-  recovered: 7793
+  confirmed: 9119
+  recovered: 7900
   deaths: 128
 - name: MS Zaandam
   confirmed: 9
@@ -459,9 +459,9 @@ countries:
   recovered: 676923
   deaths: 82348
 - name: Moldova
-  confirmed: 57732
-  recovered: 41938
-  deaths: 1389
+  confirmed: 58794
+  recovered: 42480
+  deaths: 1406
 - name: Monaco
   confirmed: 224
   recovered: 198
@@ -612,7 +612,7 @@ countries:
   deaths: 72
 - name: Singapore
   confirmed: 57840
-  recovered: 57612
+  recovered: 57624
   deaths: 27
 - name: Slovakia
   confirmed: 14689
@@ -687,9 +687,9 @@ countries:
   recovered: 1410
   deaths: 49
 - name: Trinidad and Tobago
-  confirmed: 4846
-  recovered: 2951
-  deaths: 83
+  confirmed: 4876
+  recovered: 3010
+  deaths: 84
 - name: Tunisia
   confirmed: 24542
   recovered: 5032
@@ -699,9 +699,9 @@ countries:
   recovered: 287599
   deaths: 8553
 - name: US
-  confirmed: 7504116
+  confirmed: 7506743
   recovered: 2952390
-  deaths: 210972
+  deaths: 211108
 - name: Uganda
   confirmed: 9260
   recovered: 5588
@@ -826,8 +826,8 @@ breakdowns:
     recovered: 1021
     deaths: 65
   - name: Ontario
-    confirmed: 57795
-    recovered: 49312
+    confirmed: 57975
+    recovered: 49314
     deaths: 3038
   - name: Prince Edward Island
     confirmed: 61
@@ -1000,7 +1000,7 @@ breakdowns:
     recovered: 0
     deaths: 1469
   - name: California
-    confirmed: 838869
+    confirmed: 838953
     recovered: 0
     deaths: 16269
   - name: Colorado
@@ -1020,13 +1020,13 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: District of Columbia
-    confirmed: 15697
+    confirmed: 15652
     recovered: 0
-    deaths: 632
+    deaths: 631
   - name: Florida
-    confirmed: 720125
+    confirmed: 722707
     recovered: 0
-    deaths: 14767
+    deaths: 14904
   - name: Georgia
     confirmed: 324650
     recovered: 0
@@ -1192,7 +1192,7 @@ breakdowns:
     recovered: 0
     deaths: 488
   - name: Vermont
-    confirmed: 1821
+    confirmed: 1827
     recovered: 0
     deaths: 58
   - name: Virgin Islands
@@ -1219,5 +1219,5 @@ breakdowns:
     confirmed: 6770
     recovered: 0
     deaths: 53
-updated: 2020-10-07 14:23:55
+updated: 2020-10-07 15:23:43
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

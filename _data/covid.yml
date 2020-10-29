@@ -1,6 +1,6 @@
-confirmed: 44400318
-recovered: 29988533
-deaths: 1173270
+confirmed: 44401826
+recovered: 29989572
+deaths: 1173292
 countries:
 - name: Afghanistan
   confirmed: 41145
@@ -35,7 +35,7 @@ countries:
   recovered: 52508
   deaths: 1243
 - name: Australia
-  confirmed: 27562
+  confirmed: 27567
   recovered: 25225
   deaths: 907
 - name: Austria
@@ -71,9 +71,9 @@ countries:
   recovered: 23504
   deaths: 11038
 - name: Belize
-  confirmed: 3232
-  recovered: 2045
-  deaths: 51
+  confirmed: 3261
+  recovered: 2076
+  deaths: 52
 - name: Benin
   confirmed: 2643
   recovered: 2330
@@ -147,8 +147,8 @@ countries:
   recovered: 482906
   deaths: 14032
 - name: China
-  confirmed: 91224
-  recovered: 86041
+  confirmed: 91271
+  recovered: 86049
   deaths: 4739
 - name: Colombia
   confirmed: 1041936
@@ -221,7 +221,7 @@ countries:
 - name: El Salvador
   confirmed: 32925
   recovered: 28582
-  deaths: 957
+  deaths: 962
 - name: Equatorial Guinea
   confirmed: 5083
   recovered: 4964
@@ -359,8 +359,8 @@ countries:
   recovered: 7508
   deaths: 700
 - name: Kazakhstan
-  confirmed: 110832
-  recovered: 105883
+  confirmed: 111100
+  recovered: 106059
   deaths: 1825
 - name: Kenya
   confirmed: 51851
@@ -523,9 +523,9 @@ countries:
   recovered: 103060
   deaths: 1208
 - name: Pakistan
-  confirmed: 330200
-  recovered: 311814
-  deaths: 6759
+  confirmed: 331108
+  recovered: 312638
+  deaths: 6775
 - name: Panama
   confirmed: 131247
   recovered: 107391
@@ -703,7 +703,7 @@ countries:
   recovered: 319181
   deaths: 10027
 - name: US
-  confirmed: 8855182
+  confirmed: 8855433
   recovered: 3518140
   deaths: 227673
 - name: Uganda
@@ -769,7 +769,7 @@ breakdowns:
     recovered: 3147
     deaths: 53
   - name: Northern Territory
-    confirmed: 33
+    confirmed: 38
     recovered: 33
     deaths: 0
   - name: Queensland
@@ -855,7 +855,7 @@ breakdowns:
     recovered: 985
     deaths: 6
   - name: Beijing
-    confirmed: 941
+    confirmed: 942
     recovered: 928
     deaths: 9
   - name: Chongqing
@@ -863,7 +863,7 @@ breakdowns:
     recovered: 579
     deaths: 6
   - name: Fujian
-    confirmed: 431
+    confirmed: 432
     recovered: 410
     deaths: 1
   - name: Gansu
@@ -871,7 +871,7 @@ breakdowns:
     recovered: 168
     deaths: 2
   - name: Guangdong
-    confirmed: 1911
+    confirmed: 1914
     recovered: 1870
     deaths: 8
   - name: Guangxi
@@ -911,11 +911,11 @@ breakdowns:
     recovered: 1015
     deaths: 4
   - name: Inner Mongolia
-    confirmed: 279
+    confirmed: 287
     recovered: 268
     deaths: 1
   - name: Jiangsu
-    confirmed: 670
+    confirmed: 672
     recovered: 666
     deaths: 0
   - name: Jiangxi
@@ -928,7 +928,7 @@ breakdowns:
     deaths: 2
   - name: Liaoning
     confirmed: 283
-    recovered: 273
+    recovered: 276
     deaths: 2
   - name: Macau
     confirmed: 46
@@ -943,35 +943,35 @@ breakdowns:
     recovered: 18
     deaths: 0
   - name: Shaanxi
-    confirmed: 453
+    confirmed: 454
     recovered: 421
     deaths: 3
   - name: Shandong
     confirmed: 846
-    recovered: 829
+    recovered: 831
     deaths: 7
   - name: Shanghai
-    confirmed: 1149
-    recovered: 1048
+    confirmed: 1155
+    recovered: 1049
     deaths: 7
   - name: Shanxi
     confirmed: 212
-    recovered: 205
+    recovered: 206
     deaths: 0
   - name: Sichuan
     confirmed: 737
     recovered: 708
     deaths: 3
   - name: Tianjin
-    confirmed: 261
-    recovered: 246
+    confirmed: 263
+    recovered: 247
     deaths: 3
   - name: Tibet
     confirmed: 1
     recovered: 1
     deaths: 0
   - name: Xinjiang
-    confirmed: 924
+    confirmed: 947
     recovered: 899
     deaths: 3
   - name: Yunnan
@@ -1060,7 +1060,7 @@ breakdowns:
     recovered: 0
     deaths: 4227
   - name: Iowa
-    confirmed: 120131
+    confirmed: 120382
     recovered: 0
     deaths: 1684
   - name: Kansas
@@ -1223,5 +1223,5 @@ breakdowns:
     confirmed: 12146
     recovered: 0
     deaths: 77
-updated: 2020-10-29 02:24:42
+updated: 2020-10-29 03:24:53
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

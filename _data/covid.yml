@@ -1,6 +1,6 @@
-confirmed: 59671202
-recovered: 38189510
-deaths: 1407542
+confirmed: 59679996
+recovered: 38211000
+deaths: 1407873
 countries:
 - name: Afghanistan
   confirmed: 45280
@@ -67,9 +67,9 @@ countries:
   recovered: 105835
   deaths: 1112
 - name: Belgium
-  confirmed: 559902
+  confirmed: 561803
   recovered: 0
-  deaths: 15755
+  deaths: 15938
 - name: Belize
   confirmed: 5249
   recovered: 2877
@@ -123,17 +123,17 @@ countries:
   recovered: 9833
   deaths: 104
 - name: Cambodia
-  confirmed: 306
-  recovered: 296
+  confirmed: 307
+  recovered: 298
   deaths: 0
 - name: Cameroon
   confirmed: 23869
   recovered: 22177
   deaths: 436
 - name: Canada
-  confirmed: 340900
-  recovered: 274315
-  deaths: 11570
+  confirmed: 344770
+  recovered: 276792
+  deaths: 11653
 - name: Central African Republic
   confirmed: 4911
   recovered: 1924
@@ -243,7 +243,7 @@ countries:
   recovered: 66018
   deaths: 1661
 - name: Fiji
-  confirmed: 35
+  confirmed: 38
   recovered: 33
   deaths: 2
 - name: Finland
@@ -268,7 +268,7 @@ countries:
   deaths: 1051
 - name: Germany
   confirmed: 963192
-  recovered: 644779
+  recovered: 662576
   deaths: 14637
 - name: Ghana
   confirmed: 51184
@@ -351,7 +351,7 @@ countries:
   recovered: 5572
   deaths: 243
 - name: Japan
-  confirmed: 135776
+  confirmed: 135778
   recovered: 112385
   deaths: 1963
 - name: Jordan
@@ -527,9 +527,9 @@ countries:
   recovered: 113856
   deaths: 1391
 - name: Pakistan
-  confirmed: 379883
-  recovered: 331760
-  deaths: 7744
+  confirmed: 382892
+  recovered: 332974
+  deaths: 7803
 - name: Panama
   confirmed: 156930
   recovered: 138007
@@ -707,9 +707,9 @@ countries:
   recovered: 381569
   deaths: 12672
 - name: US
-  confirmed: 12589221
+  confirmed: 12589229
   recovered: 4696664
-  deaths: 259874
+  deaths: 259880
 - name: Uganda
   confirmed: 18406
   recovered: 8764
@@ -802,13 +802,13 @@ breakdowns:
     deaths: 9
   Canada:
   - name: Alberta
-    confirmed: 48421
-    recovered: 34779
-    deaths: 476
+    confirmed: 49536
+    recovered: 35695
+    deaths: 492
   - name: British Columbia
-    confirmed: 27407
-    recovered: 19699
-    deaths: 348
+    confirmed: 28348
+    recovered: 19605
+    deaths: 358
   - name: Diamond Princess
     confirmed: 0
     recovered: 0
@@ -818,24 +818,24 @@ breakdowns:
     recovered: 13
     deaths: 0
   - name: Manitoba
-    confirmed: 14087
-    recovered: 5353
-    deaths: 236
+    confirmed: 14558
+    recovered: 5633
+    deaths: 248
   - name: New Brunswick
-    confirmed: 445
-    recovered: 349
+    confirmed: 450
+    recovered: 350
     deaths: 7
   - name: Newfoundland and Labrador
-    confirmed: 321
-    recovered: 294
+    confirmed: 323
+    recovered: 295
     deaths: 4
   - name: Northwest Territories
     confirmed: 15
-    recovered: 13
+    recovered: 15
     deaths: 0
   - name: Nova Scotia
-    confirmed: 1190
-    recovered: 1074
+    confirmed: 1227
+    recovered: 1075
     deaths: 65
   - name: Nunavut
     confirmed: 134
@@ -847,15 +847,15 @@ breakdowns:
     deaths: 3553
   - name: Prince Edward Island
     confirmed: 69
-    recovered: 67
+    recovered: 68
     deaths: 0
   - name: Quebec
-    confirmed: 133206
-    recovered: 115367
-    deaths: 6842
+    confirmed: 134330
+    recovered: 116624
+    deaths: 6887
   - name: Saskatchewan
-    confirmed: 6708
-    recovered: 3807
+    confirmed: 6883
+    recovered: 3919
     deaths: 37
   - name: Yukon
     confirmed: 38
@@ -1018,7 +1018,7 @@ breakdowns:
   - name: California
     confirmed: 1145209
     recovered: 0
-    deaths: 18856
+    deaths: 18862
   - name: Colorado
     confirmed: 206439
     recovered: 0
@@ -1072,7 +1072,7 @@ breakdowns:
     recovered: 0
     deaths: 5435
   - name: Iowa
-    confirmed: 216160
+    confirmed: 216168
     recovered: 0
     deaths: 2226
   - name: Kansas
@@ -1235,5 +1235,5 @@ breakdowns:
     confirmed: 29959
     recovered: 0
     deaths: 202
-updated: 2020-11-25 02:26:29
+updated: 2020-11-25 03:27:09
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

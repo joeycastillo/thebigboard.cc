@@ -1,6 +1,6 @@
-confirmed: 78551622
-recovered: 44225515
-deaths: 1727556
+confirmed: 78574009
+recovered: 44231742
+deaths: 1727672
 countries:
 - name: Afghanistan
   confirmed: 50433
@@ -27,16 +27,16 @@ countries:
   recovered: 146
   deaths: 5
 - name: Argentina
-  confirmed: 1555279
-  recovered: 1379726
-  deaths: 42254
+  confirmed: 1563865
+  recovered: 1384277
+  deaths: 42314
 - name: Armenia
   confirmed: 155440
   recovered: 135638
   deaths: 2691
 - name: Australia
-  confirmed: 28238
-  recovered: 25718
+  confirmed: 28258
+  recovered: 25719
   deaths: 908
 - name: Austria
   confirmed: 344357
@@ -131,9 +131,9 @@ countries:
   recovered: 23851
   deaths: 448
 - name: Canada
-  confirmed: 531989
-  recovered: 441706
-  deaths: 14597
+  confirmed: 532506
+  recovered: 442564
+  deaths: 14616
 - name: Central African Republic
   confirmed: 4948
   recovered: 1924
@@ -183,9 +183,9 @@ countries:
   recovered: 9307
   deaths: 139
 - name: Cyprus
-  confirmed: 18004
+  confirmed: 18883
   recovered: 2057
-  deaths: 96
+  deaths: 104
 - name: Czechia
   confirmed: 646312
   recovered: 546926
@@ -255,8 +255,8 @@ countries:
   recovered: 193192
   deaths: 62097
 - name: Gabon
-  confirmed: 9420
-  recovered: 9283
+  confirmed: 9469
+  recovered: 9310
   deaths: 64
 - name: Gambia
   confirmed: 3791
@@ -267,7 +267,7 @@ countries:
   recovered: 191968
   deaths: 2233
 - name: Germany
-  confirmed: 1579033
+  confirmed: 1587903
   recovered: 1176877
   deaths: 28527
 - name: Ghana
@@ -467,17 +467,17 @@ countries:
   recovered: 122614
   deaths: 2825
 - name: Monaco
-  confirmed: 756
-  recovered: 636
+  confirmed: 767
+  recovered: 646
   deaths: 3
 - name: Mongolia
   confirmed: 1063
   recovered: 541
   deaths: 0
 - name: Montenegro
-  confirmed: 44542
-  recovered: 35149
-  deaths: 637
+  confirmed: 45062
+  recovered: 35482
+  deaths: 639
 - name: Morocco
   confirmed: 423214
   recovered: 385895
@@ -519,7 +519,7 @@ countries:
   recovered: 56743
   deaths: 2354
 - name: Norway
-  confirmed: 45167
+  confirmed: 45455
   recovered: 17998
   deaths: 421
 - name: Oman
@@ -711,9 +711,9 @@ countries:
   recovered: 1901307
   deaths: 18861
 - name: US
-  confirmed: 18407728
+  confirmed: 18409666
   recovered: 0
-  deaths: 325520
+  deaths: 325539
 - name: Uganda
   confirmed: 32399
   recovered: 10731
@@ -731,9 +731,9 @@ countries:
   recovered: 4644
   deaths: 69156
 - name: Uruguay
-  confirmed: 14001
-  recovered: 9127
-  deaths: 120
+  confirmed: 14710
+  recovered: 9574
+  deaths: 128
 - name: Uzbekistan
   confirmed: 76315
   recovered: 73589
@@ -773,7 +773,7 @@ breakdowns:
     recovered: 114
     deaths: 3
   - name: New South Wales
-    confirmed: 4805
+    confirmed: 4823
     recovered: 3192
     deaths: 53
   - name: Northern Territory
@@ -781,8 +781,8 @@ breakdowns:
     recovered: 62
     deaths: 0
   - name: Queensland
-    confirmed: 1236
-    recovered: 1215
+    confirmed: 1238
+    recovered: 1216
     deaths: 6
   - name: South Australia
     confirmed: 566
@@ -806,9 +806,9 @@ breakdowns:
     recovered: 75070
     deaths: 890
   - name: British Columbia
-    confirmed: 47510
-    recovered: 36094
-    deaths: 777
+    confirmed: 48027
+    recovered: 36952
+    deaths: 796
   - name: Diamond Princess
     confirmed: 0
     recovered: 0
@@ -1020,9 +1020,9 @@ breakdowns:
     recovered: 0
     deaths: 3376
   - name: California
-    confirmed: 1982761
+    confirmed: 1983215
     recovered: 0
-    deaths: 23364
+    deaths: 23383
   - name: Colorado
     confirmed: 316500
     recovered: 0
@@ -1064,9 +1064,9 @@ breakdowns:
     recovered: 0
     deaths: 285
   - name: Idaho
-    confirmed: 132594
+    confirmed: 133985
     recovered: 0
-    deaths: 1313
+    deaths: 1324
   - name: Illinois
     confirmed: 918070
     recovered: 0
@@ -1080,9 +1080,9 @@ breakdowns:
     recovered: 0
     deaths: 3667
   - name: Kansas
-    confirmed: 212761
+    confirmed: 212852
     recovered: 0
-    deaths: 2500
+    deaths: 2489
   - name: Kentucky
     confirmed: 250279
     recovered: 0
@@ -1156,7 +1156,7 @@ breakdowns:
     recovered: 0
     deaths: 1243
   - name: Northern Mariana Islands
-    confirmed: 116
+    confirmed: 118
     recovered: 0
     deaths: 2
   - name: Ohio
@@ -1239,5 +1239,5 @@ breakdowns:
     confirmed: 42664
     recovered: 0
     deaths: 373
-updated: 2020-12-23 23:22:23
+updated: 2020-12-24 00:22:40
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

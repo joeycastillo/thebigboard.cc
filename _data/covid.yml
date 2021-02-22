@@ -1,6 +1,6 @@
-confirmed: 111338617
-recovered: 62808681
-deaths: 2465846
+confirmed: 111351190
+recovered: 62824122
+deaths: 2466154
 countries:
 - name: Afghanistan
   confirmed: 55604
@@ -35,7 +35,7 @@ countries:
   recovered: 161994
   deaths: 3164
 - name: Australia
-  confirmed: 28929
+  confirmed: 28930
   recovered: 22882
   deaths: 909
 - name: Austria
@@ -67,9 +67,9 @@ countries:
   recovered: 268530
   deaths: 1912
 - name: Belgium
-  confirmed: 752379
+  confirmed: 754473
   recovered: 0
-  deaths: 21887
+  deaths: 21903
 - name: Belize
   confirmed: 12244
   recovered: 11749
@@ -268,8 +268,8 @@ countries:
   deaths: 3435
 - name: Germany
   confirmed: 2394515
-  recovered: 2198007
-  deaths: 67900
+  recovered: 2204110
+  deaths: 67946
 - name: Ghana
   confirmed: 80253
   recovered: 73018
@@ -307,9 +307,9 @@ countries:
   recovered: 15
   deaths: 0
 - name: Honduras
-  confirmed: 164495
-  recovered: 64606
-  deaths: 3992
+  confirmed: 165095
+  recovered: 64678
+  deaths: 3996
 - name: Hungary
   confirmed: 403023
   recovered: 306621
@@ -351,7 +351,7 @@ countries:
   recovered: 12931
   deaths: 396
 - name: Japan
-  confirmed: 424984
+  confirmed: 424988
   recovered: 398765
   deaths: 7485
 - name: Jordan
@@ -359,9 +359,9 @@ countries:
   recovered: 335876
   deaths: 4554
 - name: Kazakhstan
-  confirmed: 256388
-  recovered: 232309
-  deaths: 3150
+  confirmed: 257100
+  recovered: 232504
+  deaths: 3152
 - name: Kenya
   confirmed: 104201
   recovered: 85577
@@ -475,8 +475,8 @@ countries:
   recovered: 1650
   deaths: 22
 - name: Mongolia
-  confirmed: 2638
-  recovered: 1846
+  confirmed: 2693
+  recovered: 1933
   deaths: 2
 - name: Montenegro
   confirmed: 71995
@@ -531,9 +531,9 @@ countries:
   recovered: 130653
   deaths: 1552
 - name: Pakistan
-  confirmed: 571174
-  recovered: 534107
-  deaths: 12601
+  confirmed: 572334
+  recovered: 535491
+  deaths: 12617
 - name: Panama
   confirmed: 336521
   recovered: 320668
@@ -547,9 +547,9 @@ countries:
   recovered: 126919
   deaths: 3065
 - name: Peru
-  confirmed: 1275899
-  recovered: 1176128
-  deaths: 44877
+  confirmed: 1283309
+  recovered: 1183238
+  deaths: 45097
 - name: Philippines
   confirmed: 561169
   recovered: 522843
@@ -715,7 +715,7 @@ countries:
   recovered: 2523760
   deaths: 28060
 - name: US
-  confirmed: 28133627
+  confirmed: 28133699
   recovered: 0
   deaths: 498879
 - name: Uganda
@@ -747,9 +747,9 @@ countries:
   recovered: 1
   deaths: 0
 - name: Venezuela
-  confirmed: 135603
-  recovered: 127598
-  deaths: 1312
+  confirmed: 136068
+  recovered: 128088
+  deaths: 1316
 - name: Vietnam
   confirmed: 2383
   recovered: 1702
@@ -801,7 +801,7 @@ breakdowns:
     recovered: 19634
     deaths: 820
   - name: Western Australia
-    confirmed: 911
+    confirmed: 912
     recovered: 899
     deaths: 9
   Canada:
@@ -883,8 +883,8 @@ breakdowns:
     recovered: 585
     deaths: 6
   - name: Fujian
-    confirmed: 548
-    recovered: 540
+    confirmed: 549
+    recovered: 541
     deaths: 1
   - name: Gansu
     confirmed: 187
@@ -920,7 +920,7 @@ breakdowns:
     deaths: 22
   - name: Hong Kong
     confirmed: 10868
-    recovered: 10388
+    recovered: 10389
     deaths: 197
   - name: Hubei
     confirmed: 68151
@@ -991,8 +991,8 @@ breakdowns:
     recovered: 1
     deaths: 0
   - name: Unknown
-    confirmed: 1
-    recovered: 4
+    confirmed: 0
+    recovered: 2
     deaths: 0
   - name: Xinjiang
     confirmed: 980
@@ -1084,7 +1084,7 @@ breakdowns:
     recovered: 0
     deaths: 12372
   - name: Iowa
-    confirmed: 359453
+    confirmed: 359525
     recovered: 0
     deaths: 5336
   - name: Kansas
@@ -1247,5 +1247,5 @@ breakdowns:
     confirmed: 53795
     recovered: 0
     deaths: 662
-updated: 2021-02-22 02:24:20
+updated: 2021-02-22 04:24:17
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

@@ -1,6 +1,6 @@
-confirmed: 114790824
-recovered: 64864409
-deaths: 2547420
+confirmed: 114794551
+recovered: 64868267
+deaths: 2547493
 countries:
 - name: Afghanistan
   confirmed: 55759
@@ -59,7 +59,7 @@ countries:
   recovered: 498391
   deaths: 8423
 - name: Barbados
-  confirmed: 3115
+  confirmed: 3140
   recovered: 2552
   deaths: 36
 - name: Belarus
@@ -83,9 +83,9 @@ countries:
   recovered: 865
   deaths: 1
 - name: Bolivia
-  confirmed: 249767
-  recovered: 193652
-  deaths: 11666
+  confirmed: 250557
+  recovered: 194370
+  deaths: 11703
 - name: Bosnia and Herzegovina
   confirmed: 133088
   recovered: 116821
@@ -132,7 +132,7 @@ countries:
   deaths: 551
 - name: Canada
   confirmed: 878051
-  recovered: 825380
+  recovered: 826172
   deaths: 22043
 - name: Central African Republic
   confirmed: 5004
@@ -147,8 +147,8 @@ countries:
   recovered: 787700
   deaths: 20684
 - name: China
-  confirmed: 101004
-  recovered: 95694
+  confirmed: 101013
+  recovered: 95721
   deaths: 4836
 - name: Colombia
   confirmed: 2259599
@@ -283,16 +283,16 @@ countries:
   recovered: 147
   deaths: 1
 - name: Guatemala
-  confirmed: 174653
-  recovered: 161816
-  deaths: 6402
+  confirmed: 175411
+  recovered: 162481
+  deaths: 6412
 - name: Guinea
   confirmed: 16081
   recovered: 14994
   deaths: 91
 - name: Guinea-Bissau
-  confirmed: 3262
-  recovered: 2613
+  confirmed: 3271
+  recovered: 2615
   deaths: 48
 - name: Guyana
   confirmed: 8626
@@ -367,9 +367,9 @@ countries:
   recovered: 86860
   deaths: 1863
 - name: Korea, South
-  confirmed: 90372
-  recovered: 81338
-  deaths: 1606
+  confirmed: 90816
+  recovered: 81700
+  deaths: 1612
 - name: Kosovo
   confirmed: 70285
   recovered: 60335
@@ -473,7 +473,7 @@ countries:
 - name: Monaco
   confirmed: 1965
   recovered: 1720
-  deaths: 24
+  deaths: 25
 - name: Mongolia
   confirmed: 3000
   recovered: 2330
@@ -499,7 +499,7 @@ countries:
   recovered: 270543
   deaths: 2777
 - name: Netherlands
-  confirmed: 1111333
+  confirmed: 1111364
   recovered: 14533
   deaths: 15775
 - name: New Zealand
@@ -507,7 +507,7 @@ countries:
   recovered: 2287
   deaths: 26
 - name: Nicaragua
-  confirmed: 6445
+  confirmed: 6489
   recovered: 4225
   deaths: 174
 - name: Niger
@@ -535,9 +535,9 @@ countries:
   recovered: 547406
   deaths: 12938
 - name: Panama
-  confirmed: 341420
-  recovered: 327317
-  deaths: 5858
+  confirmed: 342019
+  recovered: 328100
+  deaths: 5871
 - name: Papua New Guinea
   confirmed: 1365
   recovered: 846
@@ -588,7 +588,7 @@ countries:
   deaths: 37
 - name: Saint Vincent and the Grenadines
   confirmed: 1628
-  recovered: 938
+  recovered: 945
   deaths: 8
 - name: Samoa
   confirmed: 3
@@ -615,8 +615,8 @@ countries:
   recovered: 0
   deaths: 4475
 - name: Seychelles
-  confirmed: 2688
-  recovered: 2365
+  confirmed: 2849
+  recovered: 2462
   deaths: 11
 - name: Sierra Leone
   confirmed: 3889
@@ -715,9 +715,9 @@ countries:
   recovered: 2586073
   deaths: 28706
 - name: US
-  confirmed: 28717162
+  confirmed: 28717629
   recovered: 0
-  deaths: 516475
+  deaths: 516476
 - name: Uganda
   confirmed: 40395
   recovered: 15008
@@ -731,7 +731,7 @@ countries:
   recovered: 383998
   deaths: 1253
 - name: United Kingdom
-  confirmed: 4200699
+  confirmed: 4200700
   recovered: 11662
   deaths: 123530
 - name: Uruguay
@@ -747,9 +747,9 @@ countries:
   recovered: 1
   deaths: 0
 - name: Venezuela
-  confirmed: 139545
-  recovered: 131647
-  deaths: 1348
+  confirmed: 139934
+  recovered: 132052
+  deaths: 1353
 - name: Vietnam
   confirmed: 2472
   recovered: 1898
@@ -855,7 +855,7 @@ breakdowns:
     deaths: 0
   - name: Quebec
     confirmed: 288941
-    recovered: 270364
+    recovered: 271156
     deaths: 10407
   - name: Repatriated Travellers
     confirmed: 13
@@ -876,7 +876,7 @@ breakdowns:
     deaths: 6
   - name: Beijing
     confirmed: 1049
-    recovered: 1024
+    recovered: 1026
     deaths: 9
   - name: Chongqing
     confirmed: 591
@@ -891,8 +891,8 @@ breakdowns:
     recovered: 185
     deaths: 2
   - name: Guangdong
-    confirmed: 2215
-    recovered: 2159
+    confirmed: 2218
+    recovered: 2162
     deaths: 8
   - name: Guangxi
     confirmed: 267
@@ -908,7 +908,7 @@ breakdowns:
     deaths: 6
   - name: Hebei
     confirmed: 1317
-    recovered: 1301
+    recovered: 1305
     deaths: 7
   - name: Heilongjiang
     confirmed: 1610
@@ -936,7 +936,7 @@ breakdowns:
     deaths: 1
   - name: Jiangsu
     confirmed: 704
-    recovered: 699
+    recovered: 700
     deaths: 0
   - name: Jiangxi
     confirmed: 935
@@ -944,7 +944,7 @@ breakdowns:
     deaths: 1
   - name: Jilin
     confirmed: 573
-    recovered: 564
+    recovered: 567
     deaths: 3
   - name: Liaoning
     confirmed: 406
@@ -963,7 +963,7 @@ breakdowns:
     recovered: 18
     deaths: 0
   - name: Shaanxi
-    confirmed: 552
+    confirmed: 553
     recovered: 542
     deaths: 3
   - name: Shandong
@@ -972,15 +972,15 @@ breakdowns:
     deaths: 7
   - name: Shanghai
     confirmed: 1797
-    recovered: 1749
+    recovered: 1757
     deaths: 7
   - name: Shanxi
     confirmed: 240
     recovered: 238
     deaths: 0
   - name: Sichuan
-    confirmed: 904
-    recovered: 872
+    confirmed: 909
+    recovered: 875
     deaths: 3
   - name: Tianjin
     confirmed: 357
@@ -992,7 +992,7 @@ breakdowns:
     deaths: 0
   - name: Unknown
     confirmed: 0
-    recovered: 0
+    recovered: 3
     deaths: 0
   - name: Xinjiang
     confirmed: 980
@@ -1208,9 +1208,9 @@ breakdowns:
     recovered: 0
     deaths: 11436
   - name: Texas
-    confirmed: 2668357
+    confirmed: 2668091
     recovered: 0
-    deaths: 44185
+    deaths: 44186
   - name: United States Virgin Islands
     confirmed: 0
     recovered: 0
@@ -1232,7 +1232,7 @@ breakdowns:
     recovered: 0
     deaths: 8943
   - name: Washington
-    confirmed: 340708
+    confirmed: 341441
     recovered: 0
     deaths: 4988
   - name: West Virginia
@@ -1247,5 +1247,5 @@ breakdowns:
     confirmed: 54527
     recovered: 0
     deaths: 682
-updated: 2021-03-03 01:24:01
+updated: 2021-03-03 02:24:05
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

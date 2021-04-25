@@ -1,6 +1,6 @@
-confirmed: 146079735
-recovered: 84107297
-deaths: 3096110
+confirmed: 146091986
+recovered: 84120524
+deaths: 3096579
 countries:
 - name: Afghanistan
   confirmed: 58730
@@ -35,7 +35,7 @@ countries:
   recovered: 193360
   deaths: 4001
 - name: Australia
-  confirmed: 29661
+  confirmed: 29662
   recovered: 23195
   deaths: 910
 - name: Austria
@@ -67,9 +67,9 @@ countries:
   recovered: 342102
   deaths: 2483
 - name: Belgium
-  confirmed: 968107
+  confirmed: 972041
   recovered: 0
-  deaths: 23954
+  deaths: 23990
 - name: Belize
   confirmed: 12599
   recovered: 12168
@@ -268,7 +268,7 @@ countries:
   deaths: 4007
 - name: Germany
   confirmed: 3276871
-  recovered: 2892350
+  recovered: 2902900
   deaths: 81542
 - name: Ghana
   confirmed: 91928
@@ -367,9 +367,9 @@ countries:
   recovered: 106093
   deaths: 2603
 - name: Korea, South
-  confirmed: 118243
-  recovered: 107781
-  deaths: 1812
+  confirmed: 118887
+  recovered: 108475
+  deaths: 1813
 - name: Kosovo
   confirmed: 102720
   recovered: 89432
@@ -459,9 +459,9 @@ countries:
   recovered: 1029
   deaths: 16
 - name: Mexico
-  confirmed: 2323430
+  confirmed: 2326818
   recovered: 1848177
-  deaths: 214504
+  deaths: 214841
 - name: Micronesia
   confirmed: 1
   recovered: 1
@@ -543,9 +543,9 @@ countries:
   recovered: 8301
   deaths: 102
 - name: Paraguay
-  confirmed: 263134
-  recovered: 215702
-  deaths: 5715
+  confirmed: 265296
+  recovered: 217685
+  deaths: 5802
 - name: Peru
   confirmed: 1754150
   recovered: 1679099
@@ -715,9 +715,9 @@ countries:
   recovered: 4022408
   deaths: 38011
 - name: US
-  confirmed: 32042854
+  confirmed: 32044976
   recovered: 0
-  deaths: 571914
+  deaths: 571922
 - name: Uganda
   confirmed: 41575
   recovered: 40898
@@ -777,7 +777,7 @@ breakdowns:
     recovered: 120
     deaths: 3
   - name: New South Wales
-    confirmed: 5419
+    confirmed: 5420
     recovered: 0
     deaths: 54
   - name: Northern Territory
@@ -883,7 +883,7 @@ breakdowns:
     recovered: 585
     deaths: 6
   - name: Fujian
-    confirmed: 586
+    confirmed: 589
     recovered: 561
     deaths: 1
   - name: Gansu
@@ -928,7 +928,7 @@ breakdowns:
     deaths: 4512
   - name: Hunan
     confirmed: 1044
-    recovered: 1036
+    recovered: 1037
     deaths: 4
   - name: Inner Mongolia
     confirmed: 379
@@ -983,7 +983,7 @@ breakdowns:
     recovered: 948
     deaths: 3
   - name: Tianjin
-    confirmed: 383
+    confirmed: 384
     recovered: 372
     deaths: 3
   - name: Tibet
@@ -991,8 +991,8 @@ breakdowns:
     recovered: 1
     deaths: 0
   - name: Unknown
-    confirmed: 4
-    recovered: 5
+    confirmed: 0
+    recovered: 4
     deaths: 0
   - name: Xinjiang
     confirmed: 980
@@ -1176,17 +1176,17 @@ breakdowns:
     recovered: 0
     deaths: 6716
   - name: Oregon
-    confirmed: 179120
+    confirmed: 179930
     recovered: 0
-    deaths: 2477
+    deaths: 2484
   - name: Pennsylvania
     confirmed: 1132248
     recovered: 0
     deaths: 25963
   - name: Puerto Rico
-    confirmed: 127450
+    confirmed: 128459
     recovered: 0
-    deaths: 2263
+    deaths: 2264
   - name: Recovered
     confirmed: 0
     recovered: 0
@@ -1208,7 +1208,7 @@ breakdowns:
     recovered: 0
     deaths: 12142
   - name: Texas
-    confirmed: 2872453
+    confirmed: 2872756
     recovered: 0
     deaths: 49921
   - name: United States Virgin Islands
@@ -1247,5 +1247,5 @@ breakdowns:
     confirmed: 57696
     recovered: 0
     deaths: 705
-updated: 2021-04-25 01:20:32
+updated: 2021-04-25 02:20:41
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

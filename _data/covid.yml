@@ -1,6 +1,6 @@
-confirmed: 150960330
-recovered: 87907036
-deaths: 3175443
+confirmed: 150972476
+recovered: 87926078
+deaths: 3176054
 countries:
 - name: Afghanistan
   confirmed: 59745
@@ -35,7 +35,7 @@ countries:
   recovered: 198135
   deaths: 4108
 - name: Australia
-  confirmed: 29806
+  confirmed: 29810
   recovered: 23288
   deaths: 910
 - name: Austria
@@ -67,9 +67,9 @@ countries:
   recovered: 349013
   deaths: 2542
 - name: Belgium
-  confirmed: 986622
+  confirmed: 990229
   recovered: 0
-  deaths: 24185
+  deaths: 24230
 - name: Belize
   confirmed: 12668
   recovered: 12218
@@ -96,7 +96,7 @@ countries:
   deaths: 712
 - name: Brazil
   confirmed: 14659011
-  recovered: 12980256
+  recovered: 12991951
   deaths: 403781
 - name: Brunei
   confirmed: 224
@@ -132,7 +132,7 @@ countries:
   deaths: 1107
 - name: Canada
   confirmed: 1228367
-  recovered: 1123928
+  recovered: 1125237
   deaths: 24220
 - name: Central African Republic
   confirmed: 6411
@@ -147,8 +147,8 @@ countries:
   recovered: 1129347
   deaths: 26353
 - name: China
-  confirmed: 102478
-  recovered: 97153
+  confirmed: 102494
+  recovered: 97175
   deaths: 4845
 - name: Colombia
   confirmed: 2859724
@@ -367,9 +367,9 @@ countries:
   recovered: 108565
   deaths: 2724
 - name: Korea, South
-  confirmed: 122007
-  recovered: 111422
-  deaths: 1828
+  confirmed: 122634
+  recovered: 112337
+  deaths: 1831
 - name: Kosovo
   confirmed: 103638
   recovered: 91211
@@ -459,9 +459,9 @@ countries:
   recovered: 1084
   deaths: 17
 - name: Mexico
-  confirmed: 2340934
-  recovered: 1861861
-  deaths: 216447
+  confirmed: 2344755
+  recovered: 1864914
+  deaths: 216907
 - name: Micronesia
   confirmed: 1
   recovered: 1
@@ -499,9 +499,9 @@ countries:
   recovered: 281095
   deaths: 3279
 - name: Netherlands
-  confirmed: 1522959
-  recovered: 25563
-  deaths: 17397
+  confirmed: 1522973
+  recovered: 25632
+  deaths: 17398
 - name: New Zealand
   confirmed: 2613
   recovered: 2564
@@ -543,9 +543,9 @@ countries:
   recovered: 8943
   deaths: 107
 - name: Paraguay
-  confirmed: 276865
-  recovered: 227540
-  deaths: 6302
+  confirmed: 279077
+  recovered: 229519
+  deaths: 6385
 - name: Peru
   confirmed: 1799445
   recovered: 1736183
@@ -715,9 +715,9 @@ countries:
   recovered: 4323897
   deaths: 40131
 - name: US
-  confirmed: 32343193
+  confirmed: 32345038
   recovered: 0
-  deaths: 575902
+  deaths: 575921
 - name: Uganda
   confirmed: 41866
   recovered: 41422
@@ -777,7 +777,7 @@ breakdowns:
     recovered: 120
     deaths: 3
   - name: New South Wales
-    confirmed: 5477
+    confirmed: 5481
     recovered: 0
     deaths: 54
   - name: Northern Territory
@@ -855,7 +855,7 @@ breakdowns:
     deaths: 0
   - name: Quebec
     confirmed: 349773
-    recovered: 327865
+    recovered: 329174
     deaths: 10926
   - name: Repatriated Travellers
     confirmed: 13
@@ -876,7 +876,7 @@ breakdowns:
     deaths: 6
   - name: Beijing
     confirmed: 1057
-    recovered: 1040
+    recovered: 1041
     deaths: 9
   - name: Chongqing
     confirmed: 596
@@ -891,11 +891,11 @@ breakdowns:
     recovered: 190
     deaths: 2
   - name: Guangdong
-    confirmed: 2337
-    recovered: 2283
+    confirmed: 2344
+    recovered: 2287
     deaths: 8
   - name: Guangxi
-    confirmed: 270
+    confirmed: 271
     recovered: 266
     deaths: 2
   - name: Guizhou
@@ -971,16 +971,16 @@ breakdowns:
     recovered: 866
     deaths: 7
   - name: Shanghai
-    confirmed: 1984
-    recovered: 1909
+    confirmed: 1987
+    recovered: 1914
     deaths: 7
   - name: Shanxi
     confirmed: 251
     recovered: 243
     deaths: 0
   - name: Sichuan
-    confirmed: 979
-    recovered: 952
+    confirmed: 981
+    recovered: 955
     deaths: 3
   - name: Tianjin
     confirmed: 385
@@ -991,16 +991,16 @@ breakdowns:
     recovered: 1
     deaths: 0
   - name: Unknown
-    confirmed: 0
-    recovered: 0
+    confirmed: 2
+    recovered: 6
     deaths: 0
   - name: Xinjiang
     confirmed: 980
     recovered: 977
     deaths: 3
   - name: Yunnan
-    confirmed: 342
-    recovered: 286
+    confirmed: 343
+    recovered: 289
     deaths: 2
   - name: Zhejiang
     confirmed: 1343
@@ -1164,7 +1164,7 @@ breakdowns:
     recovered: 0
     deaths: 1523
   - name: Northern Mariana Islands
-    confirmed: 164
+    confirmed: 168
     recovered: 0
     deaths: 2
   - name: Ohio
@@ -1184,9 +1184,9 @@ breakdowns:
     recovered: 0
     deaths: 26192
   - name: Puerto Rico
-    confirmed: 131437
+    confirmed: 131956
     recovered: 0
-    deaths: 2303
+    deaths: 2310
   - name: Recovered
     confirmed: 0
     recovered: 0
@@ -1232,9 +1232,9 @@ breakdowns:
     recovered: 0
     deaths: 10770
   - name: Washington
-    confirmed: 401718
+    confirmed: 403040
     recovered: 0
-    deaths: 5487
+    deaths: 5499
   - name: West Virginia
     confirmed: 153128
     recovered: 0
@@ -1247,5 +1247,5 @@ breakdowns:
     confirmed: 58142
     recovered: 0
     deaths: 707
-updated: 2021-05-01 01:20:41
+updated: 2021-05-01 02:20:44
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

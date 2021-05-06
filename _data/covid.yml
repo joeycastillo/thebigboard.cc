@@ -1,6 +1,6 @@
-confirmed: 154763588
-recovered: 91247014
-deaths: 3237435
+confirmed: 154773673
+recovered: 91254418
+deaths: 3237589
 countries:
 - name: Afghanistan
   confirmed: 60797
@@ -67,9 +67,9 @@ countries:
   recovered: 354212
   deaths: 2592
 - name: Belgium
-  confirmed: 999627
+  confirmed: 1003746
   recovered: 0
-  deaths: 24367
+  deaths: 24406
 - name: Belize
   confirmed: 12680
   recovered: 12261
@@ -131,7 +131,7 @@ countries:
   recovered: 35261
   deaths: 1107
 - name: Canada
-  confirmed: 1266235
+  confirmed: 1266249
   recovered: 1164426
   deaths: 24437
 - name: Central African Republic
@@ -359,17 +359,17 @@ countries:
   recovered: 696524
   deaths: 8988
 - name: Kazakhstan
-  confirmed: 385491
-  recovered: 336306
+  confirmed: 387934
+  recovered: 340122
   deaths: 3357
 - name: Kenya
   confirmed: 161393
   recovered: 109769
   deaths: 2825
 - name: Korea, South
-  confirmed: 124945
-  recovered: 114944
-  deaths: 1847
+  confirmed: 125519
+  recovered: 115491
+  deaths: 1851
 - name: Kosovo
   confirmed: 103638
   recovered: 91211
@@ -459,9 +459,9 @@ countries:
   recovered: 1111
   deaths: 17
 - name: Mexico
-  confirmed: 2356140
+  confirmed: 2355985
   recovered: 1877347
-  deaths: 218004
+  deaths: 218007
 - name: Micronesia
   confirmed: 1
   recovered: 1
@@ -503,8 +503,8 @@ countries:
   recovered: 26071
   deaths: 17501
 - name: New Zealand
-  confirmed: 2629
-  recovered: 2578
+  confirmed: 2633
+  recovered: 2579
   deaths: 26
 - name: Nicaragua
   confirmed: 6989
@@ -543,9 +543,9 @@ countries:
   recovered: 9773
   deaths: 121
 - name: Paraguay
-  confirmed: 286667
-  recovered: 237276
-  deaths: 6722
+  confirmed: 288974
+  recovered: 239165
+  deaths: 6798
 - name: Peru
   confirmed: 1818689
   recovered: 1766872
@@ -657,7 +657,7 @@ countries:
 - name: Sri Lanka
   confirmed: 117529
   recovered: 100075
-  deaths: 720
+  deaths: 734
 - name: Sudan
   confirmed: 34082
   recovered: 27247
@@ -747,11 +747,11 @@ countries:
   recovered: 3
   deaths: 1
 - name: Venezuela
-  confirmed: 201807
-  recovered: 184161
-  deaths: 2208
+  confirmed: 202578
+  recovered: 185312
+  deaths: 2226
 - name: Vietnam
-  confirmed: 3022
+  confirmed: 3030
   recovered: 2560
   deaths: 35
 - name: West Bank and Gaza
@@ -834,7 +834,7 @@ breakdowns:
     recovered: 1046
     deaths: 6
   - name: Northwest Territories
-    confirmed: 77
+    confirmed: 91
     recovered: 57
     deaths: 0
   - name: Nova Scotia
@@ -884,15 +884,15 @@ breakdowns:
     deaths: 6
   - name: Fujian
     confirmed: 593
-    recovered: 568
+    recovered: 569
     deaths: 1
   - name: Gansu
     confirmed: 193
     recovered: 190
     deaths: 2
   - name: Guangdong
-    confirmed: 2359
-    recovered: 2294
+    confirmed: 2360
+    recovered: 2297
     deaths: 8
   - name: Guangxi
     confirmed: 275
@@ -916,7 +916,7 @@ breakdowns:
     deaths: 13
   - name: Henan
     confirmed: 1312
-    recovered: 1288
+    recovered: 1289
     deaths: 22
   - name: Hong Kong
     confirmed: 11796
@@ -964,7 +964,7 @@ breakdowns:
     deaths: 0
   - name: Shaanxi
     confirmed: 590
-    recovered: 578
+    recovered: 579
     deaths: 3
   - name: Shandong
     confirmed: 879
@@ -972,35 +972,35 @@ breakdowns:
     deaths: 7
   - name: Shanghai
     confirmed: 1999
-    recovered: 1930
+    recovered: 1932
     deaths: 7
   - name: Shanxi
     confirmed: 251
     recovered: 243
     deaths: 0
   - name: Sichuan
-    confirmed: 990
+    confirmed: 992
     recovered: 956
     deaths: 3
   - name: Tianjin
     confirmed: 386
-    recovered: 376
+    recovered: 377
     deaths: 3
   - name: Tibet
     confirmed: 1
     recovered: 1
     deaths: 0
   - name: Unknown
-    confirmed: 5
-    recovered: 17
+    confirmed: 0
+    recovered: 7
     deaths: 0
   - name: Xinjiang
     confirmed: 980
     recovered: 977
     deaths: 3
   - name: Yunnan
-    confirmed: 345
-    recovered: 297
+    confirmed: 347
+    recovered: 298
     deaths: 2
   - name: Zhejiang
     confirmed: 1344
@@ -1247,5 +1247,5 @@ breakdowns:
     confirmed: 58438
     recovered: 0
     deaths: 710
-updated: 2021-05-06 01:20:49
+updated: 2021-05-06 02:21:05
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

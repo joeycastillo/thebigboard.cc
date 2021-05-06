@@ -1,11 +1,11 @@
-confirmed: 155297849
-recovered: 91739952
-deaths: 3244849
+confirmed: 155314752
+recovered: 91742858
+deaths: 3244926
 countries:
 - name: Afghanistan
-  confirmed: 60797
+  confirmed: 61162
   recovered: 53961
-  deaths: 2654
+  deaths: 2664
 - name: Albania
   confirmed: 131419
   recovered: 113468
@@ -147,8 +147,8 @@ countries:
   recovered: 1160945
   deaths: 26726
 - name: China
-  confirmed: 102571
-  recovered: 97287
+  confirmed: 102573
+  recovered: 97286
   deaths: 4846
 - name: Colombia
   confirmed: 2934611
@@ -243,7 +243,7 @@ countries:
   recovered: 203408
   deaths: 3795
 - name: Fiji
-  confirmed: 125
+  confirmed: 129
   recovered: 84
   deaths: 2
 - name: Finland
@@ -251,7 +251,7 @@ countries:
   recovered: 46000
   deaths: 918
 - name: France
-  confirmed: 5767542
+  confirmed: 5767738
   recovered: 366782
   deaths: 105792
 - name: Gabon
@@ -299,9 +299,9 @@ countries:
   recovered: 11672
   deaths: 308
 - name: Haiti
-  confirmed: 13149
+  confirmed: 13164
   recovered: 12151
-  deaths: 260
+  deaths: 263
 - name: Holy See
   confirmed: 27
   recovered: 15
@@ -315,8 +315,8 @@ countries:
   recovered: 546246
   deaths: 28297
 - name: Iceland
-  confirmed: 6497
-  recovered: 6295
+  confirmed: 6500
+  recovered: 6332
   deaths: 29
 - name: India
   confirmed: 21077410
@@ -383,8 +383,8 @@ countries:
   recovered: 90611
   deaths: 1640
 - name: Laos
-  confirmed: 1072
-  recovered: 99
+  confirmed: 1177
+  recovered: 101
   deaths: 0
 - name: Latvia
   confirmed: 121509
@@ -396,7 +396,7 @@ countries:
   deaths: 7390
 - name: Lesotho
   confirmed: 10749
-  recovered: 6267
+  recovered: 6427
   deaths: 319
 - name: Liberia
   confirmed: 2113
@@ -495,9 +495,9 @@ countries:
   recovered: 46683
   deaths: 667
 - name: Nepal
-  confirmed: 359610
-  recovered: 289783
-  deaths: 3475
+  confirmed: 368580
+  recovered: 292490
+  deaths: 3529
 - name: Netherlands
   confirmed: 1558553
   recovered: 26075
@@ -647,7 +647,7 @@ countries:
   recovered: 1510385
   deaths: 54557
 - name: South Sudan
-  confirmed: 10613
+  confirmed: 10620
   recovered: 10312
   deaths: 115
 - name: Spain
@@ -659,7 +659,7 @@ countries:
   recovered: 100075
   deaths: 734
 - name: Sudan
-  confirmed: 34082
+  confirmed: 34461
   recovered: 27247
   deaths: 2365
 - name: Suriname
@@ -667,20 +667,20 @@ countries:
   recovered: 9602
   deaths: 212
 - name: Sweden
-  confirmed: 995595
+  confirmed: 1002121
   recovered: 0
-  deaths: 14151
+  deaths: 14158
 - name: Switzerland
   confirmed: 667380
   recovered: 317600
-  deaths: 10693
+  deaths: 10694
 - name: Syria
   confirmed: 23121
   recovered: 17725
   deaths: 1625
 - name: Taiwan*
-  confirmed: 1160
-  recovered: 1074
+  confirmed: 1173
+  recovered: 1075
   deaths: 12
 - name: Tajikistan
   confirmed: 13308
@@ -715,9 +715,9 @@ countries:
   recovered: 4589501
   deaths: 41883
 - name: US
-  confirmed: 32558066
+  confirmed: 32558384
   recovered: 0
-  deaths: 579280
+  deaths: 579282
 - name: Uganda
   confirmed: 42102
   recovered: 41652
@@ -919,8 +919,8 @@ breakdowns:
     recovered: 1289
     deaths: 22
   - name: Hong Kong
-    confirmed: 11796
-    recovered: 11462
+    confirmed: 11798
+    recovered: 11468
     deaths: 210
   - name: Hubei
     confirmed: 68158
@@ -992,7 +992,7 @@ breakdowns:
     deaths: 0
   - name: Unknown
     confirmed: 0
-    recovered: 7
+    recovered: 0
     deaths: 0
   - name: Xinjiang
     confirmed: 980
@@ -1100,9 +1100,9 @@ breakdowns:
     recovered: 0
     deaths: 10418
   - name: Maine
-    confirmed: 62858
+    confirmed: 63176
     recovered: 0
-    deaths: 791
+    deaths: 793
   - name: Maryland
     confirmed: 450689
     recovered: 0
@@ -1247,5 +1247,5 @@ breakdowns:
     confirmed: 58438
     recovered: 0
     deaths: 710
-updated: 2021-05-06 11:20:43
+updated: 2021-05-06 12:20:47
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

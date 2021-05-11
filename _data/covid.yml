@@ -1,6 +1,6 @@
-confirmed: 158616506
-recovered: 94638451
-deaths: 3299447
+confirmed: 158616717
+recovered: 94638472
+deaths: 3299694
 countries:
 - name: Afghanistan
   confirmed: 62063
@@ -36,7 +36,7 @@ countries:
   deaths: 4249
 - name: Australia
   confirmed: 29938
-  recovered: 23455
+  recovered: 23460
   deaths: 910
 - name: Austria
   confirmed: 631896
@@ -269,7 +269,7 @@ countries:
 - name: Germany
   confirmed: 3538208
   recovered: 3188710
-  deaths: 84907
+  deaths: 85118
 - name: Ghana
   confirmed: 93011
   recovered: 90697
@@ -657,7 +657,7 @@ countries:
 - name: Sri Lanka
   confirmed: 128530
   recovered: 105611
-  deaths: 801
+  deaths: 827
 - name: Sudan
   confirmed: 34889
   recovered: 27949
@@ -715,9 +715,9 @@ countries:
   recovered: 4743871
   deaths: 43311
 - name: US
-  confirmed: 32743117
+  confirmed: 32743300
   recovered: 0
-  deaths: 582140
+  deaths: 582150
 - name: Uganda
   confirmed: 42384
   recovered: 41971
@@ -751,8 +751,8 @@ countries:
   recovered: 192075
   deaths: 2304
 - name: Vietnam
-  confirmed: 3461
-  recovered: 2602
+  confirmed: 3489
+  recovered: 2618
   deaths: 35
 - name: West Bank and Gaza
   confirmed: 302249
@@ -802,7 +802,7 @@ breakdowns:
     deaths: 820
   - name: Western Australia
     confirmed: 1015
-    recovered: 986
+    recovered: 991
     deaths: 9
   Canada:
   - name: Alberta
@@ -883,7 +883,7 @@ breakdowns:
     recovered: 585
     deaths: 6
   - name: Fujian
-    confirmed: 595
+    confirmed: 597
     recovered: 569
     deaths: 1
   - name: Gansu
@@ -963,7 +963,7 @@ breakdowns:
     recovered: 18
     deaths: 0
   - name: Shaanxi
-    confirmed: 594
+    confirmed: 595
     recovered: 584
     deaths: 3
   - name: Shandong
@@ -991,7 +991,7 @@ breakdowns:
     recovered: 1
     deaths: 0
   - name: Unknown
-    confirmed: 3
+    confirmed: 0
     recovered: 13
     deaths: 0
   - name: Xinjiang
@@ -1184,9 +1184,9 @@ breakdowns:
     recovered: 0
     deaths: 26526
   - name: Puerto Rico
-    confirmed: 135543
+    confirmed: 135726
     recovered: 0
-    deaths: 2374
+    deaths: 2384
   - name: Recovered
     confirmed: 0
     recovered: 0
@@ -1247,5 +1247,5 @@ breakdowns:
     confirmed: 58764
     recovered: 0
     deaths: 710
-updated: 2021-05-11 02:20:43
+updated: 2021-05-11 03:20:43
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

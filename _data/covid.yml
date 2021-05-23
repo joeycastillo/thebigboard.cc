@@ -1,10 +1,10 @@
-confirmed: 166436448
-recovered: 102729033
-deaths: 3449371
+confirmed: 166438026
+recovered: 102729906
+deaths: 3449399
 countries:
 - name: Afghanistan
   confirmed: 65486
-  recovered: 55886
+  recovered: 55889
   deaths: 2792
 - name: Albania
   confirmed: 132176
@@ -59,7 +59,7 @@ countries:
   recovered: 729798
   deaths: 12348
 - name: Barbados
-  confirmed: 3985
+  confirmed: 3991
   recovered: 3922
   deaths: 47
 - name: Belarus
@@ -100,7 +100,7 @@ countries:
   deaths: 448208
 - name: Brunei
   confirmed: 235
-  recovered: 222
+  recovered: 224
   deaths: 3
 - name: Bulgaria
   confirmed: 416565
@@ -147,8 +147,8 @@ countries:
   recovered: 1252970
   deaths: 28386
 - name: China
-  confirmed: 102837
-  recovered: 97605
+  confirmed: 102853
+  recovered: 97606
   deaths: 4846
 - name: Colombia
   confirmed: 3210787
@@ -227,7 +227,7 @@ countries:
   recovered: 7801
   deaths: 113
 - name: Eritrea
-  confirmed: 3921
+  confirmed: 3932
   recovered: 3711
   deaths: 14
 - name: Estonia
@@ -283,9 +283,9 @@ countries:
   recovered: 160
   deaths: 1
 - name: Guatemala
-  confirmed: 246156
-  recovered: 226014
-  deaths: 7977
+  confirmed: 247106
+  recovered: 226819
+  deaths: 7996
 - name: Guinea
   confirmed: 22988
   recovered: 20699
@@ -499,7 +499,7 @@ countries:
   recovered: 383684
   deaths: 6153
 - name: Netherlands
-  confirmed: 1649959
+  confirmed: 1649960
   recovered: 26645
   deaths: 17810
 - name: New Zealand
@@ -587,8 +587,8 @@ countries:
   recovered: 4617
   deaths: 77
 - name: Saint Vincent and the Grenadines
-  confirmed: 1962
-  recovered: 1809
+  confirmed: 1973
+  recovered: 1827
   deaths: 12
 - name: Samoa
   confirmed: 3
@@ -599,9 +599,9 @@ countries:
   recovered: 4974
   deaths: 90
 - name: Sao Tome and Principe
-  confirmed: 2335
-  recovered: 2282
-  deaths: 35
+  confirmed: 2338
+  recovered: 2283
+  deaths: 36
 - name: Saudi Arabia
   confirmed: 439847
   recovered: 423795
@@ -663,9 +663,9 @@ countries:
   recovered: 27949
   deaths: 2568
 - name: Suriname
-  confirmed: 12742
-  recovered: 10686
-  deaths: 243
+  confirmed: 12928
+  recovered: 10729
+  deaths: 245
 - name: Sweden
   confirmed: 1058341
   recovered: 0
@@ -715,9 +715,9 @@ countries:
   recovered: 5013111
   deaths: 46071
 - name: US
-  confirmed: 33102724
+  confirmed: 33103118
   recovered: 0
-  deaths: 589664
+  deaths: 589670
 - name: Uganda
   confirmed: 43507
   recovered: 42880
@@ -875,7 +875,7 @@ breakdowns:
     recovered: 989
     deaths: 6
   - name: Beijing
-    confirmed: 1057
+    confirmed: 1058
     recovered: 1046
     deaths: 9
   - name: Chongqing
@@ -991,7 +991,7 @@ breakdowns:
     recovered: 1
     deaths: 0
   - name: Unknown
-    confirmed: 0
+    confirmed: 14
     recovered: 0
     deaths: 0
   - name: Xinjiang
@@ -999,8 +999,8 @@ breakdowns:
     recovered: 977
     deaths: 3
   - name: Yunnan
-    confirmed: 351
-    recovered: 324
+    confirmed: 352
+    recovered: 325
     deaths: 2
   - name: Zhejiang
     confirmed: 1361
@@ -1028,9 +1028,9 @@ breakdowns:
     recovered: 0
     deaths: 5816
   - name: California
-    confirmed: 3775959
+    confirmed: 3776262
     recovered: 0
-    deaths: 62905
+    deaths: 62911
   - name: Colorado
     confirmed: 536969
     recovered: 0
@@ -1084,7 +1084,7 @@ breakdowns:
     recovered: 0
     deaths: 13553
   - name: Iowa
-    confirmed: 370517
+    confirmed: 370519
     recovered: 0
     deaths: 6035
   - name: Kansas
@@ -1124,7 +1124,7 @@ breakdowns:
     recovered: 0
     deaths: 7279
   - name: Missouri
-    confirmed: 602868
+    confirmed: 602900
     recovered: 0
     deaths: 9420
   - name: Montana
@@ -1208,7 +1208,7 @@ breakdowns:
     recovered: 0
     deaths: 12380
   - name: Texas
-    confirmed: 2940622
+    confirmed: 2940679
     recovered: 0
     deaths: 51209
   - name: United States Virgin Islands
@@ -1247,5 +1247,5 @@ breakdowns:
     confirmed: 59661
     recovered: 0
     deaths: 713
-updated: 2021-05-23 00:21:36
+updated: 2021-05-23 01:21:41
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

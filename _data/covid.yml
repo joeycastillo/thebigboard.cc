@@ -1,6 +1,6 @@
-confirmed: 166759188
-recovered: 103180497
-deaths: 3455302
+confirmed: 166770399
+recovered: 103190840
+deaths: 3455423
 countries:
 - name: Afghanistan
   confirmed: 65486
@@ -35,17 +35,17 @@ countries:
   recovered: 211057
   deaths: 4392
 - name: Australia
-  confirmed: 30007
-  recovered: 23541
+  confirmed: 30011
+  recovered: 23544
   deaths: 910
 - name: Austria
   confirmed: 641380
   recovered: 622889
   deaths: 10546
 - name: Azerbaijan
-  confirmed: 332235
-  recovered: 319991
-  deaths: 4851
+  confirmed: 332454
+  recovered: 320708
+  deaths: 4860
 - name: Bahamas
   confirmed: 11396
   recovered: 10221
@@ -79,7 +79,7 @@ countries:
   recovered: 7893
   deaths: 101
 - name: Bhutan
-  confirmed: 1392
+  confirmed: 1394
   recovered: 1186
   deaths: 1
 - name: Bolivia
@@ -131,9 +131,9 @@ countries:
   recovered: 35261
   deaths: 1239
 - name: Canada
-  confirmed: 1363519
-  recovered: 1283944
-  deaths: 25180
+  confirmed: 1364056
+  recovered: 1284664
+  deaths: 25185
 - name: Central African Republic
   confirmed: 7010
   recovered: 5112
@@ -191,9 +191,9 @@ countries:
   recovered: 1607706
   deaths: 30020
 - name: Denmark
-  confirmed: 273369
-  recovered: 257235
-  deaths: 2508
+  confirmed: 274204
+  recovered: 258087
+  deaths: 2509
 - name: Diamond Princess
   confirmed: 712
   recovered: 699
@@ -267,9 +267,9 @@ countries:
   recovered: 318599
   deaths: 4622
 - name: Germany
-  confirmed: 3657726
+  confirmed: 3657674
   recovered: 3398700
-  deaths: 87386
+  deaths: 87390
 - name: Ghana
   confirmed: 93583
   recovered: 91511
@@ -331,17 +331,17 @@ countries:
   recovered: 2333789
   deaths: 78597
 - name: Iraq
-  confirmed: 1164149
-  recovered: 1076804
-  deaths: 16158
+  confirmed: 1167940
+  recovered: 1081843
+  deaths: 16190
 - name: Ireland
   confirmed: 254870
   recovered: 23364
   deaths: 4941
 - name: Israel
-  confirmed: 839316
-  recovered: 832324
-  deaths: 6398
+  confirmed: 839319
+  recovered: 832354
+  deaths: 6402
 - name: Italy
   confirmed: 4188190
   recovered: 3779293
@@ -395,7 +395,7 @@ countries:
   recovered: 508930
   deaths: 7670
 - name: Lesotho
-  confirmed: 10815
+  confirmed: 10822
   recovered: 6431
   deaths: 326
 - name: Liberia
@@ -499,9 +499,9 @@ countries:
   recovered: 391348
   deaths: 6346
 - name: Netherlands
-  confirmed: 1649970
+  confirmed: 1653392
   recovered: 26648
-  deaths: 17810
+  deaths: 17817
 - name: New Zealand
   confirmed: 2668
   recovered: 2615
@@ -563,9 +563,9 @@ countries:
   recovered: 805466
   deaths: 17017
 - name: Qatar
-  confirmed: 215160
-  recovered: 210589
-  deaths: 543
+  confirmed: 215443
+  recovered: 210942
+  deaths: 544
 - name: Romania
   confirmed: 1075543
   recovered: 1032888
@@ -603,17 +603,17 @@ countries:
   recovered: 2283
   deaths: 36
 - name: Saudi Arabia
-  confirmed: 439847
-  recovered: 423795
-  deaths: 7237
+  confirmed: 440914
+  recovered: 424690
+  deaths: 7249
 - name: Senegal
   confirmed: 41090
   recovered: 39758
   deaths: 1132
 - name: Serbia
-  confirmed: 709673
+  confirmed: 709939
   recovered: 0
-  deaths: 6766
+  deaths: 6777
 - name: Seychelles
   confirmed: 9764
   recovered: 7826
@@ -656,7 +656,7 @@ countries:
   deaths: 79620
 - name: Sri Lanka
   confirmed: 161242
-  recovered: 126995
+  recovered: 128607
   deaths: 1178
 - name: Sudan
   confirmed: 34889
@@ -695,9 +695,9 @@ countries:
   recovered: 26873
   deaths: 776
 - name: Timor-Leste
-  confirmed: 5481
-  recovered: 2960
-  deaths: 11
+  confirmed: 5637
+  recovered: 3082
+  deaths: 13
 - name: Togo
   confirmed: 13363
   recovered: 12222
@@ -715,13 +715,13 @@ countries:
   recovered: 5013111
   deaths: 46071
 - name: US
-  confirmed: 33105228
+  confirmed: 33105595
   recovered: 0
-  deaths: 589703
+  deaths: 589730
 - name: Uganda
-  confirmed: 43507
+  confirmed: 43734
   recovered: 42880
-  deaths: 350
+  deaths: 356
 - name: Ukraine
   confirmed: 2239897
   recovered: 2003916
@@ -731,7 +731,7 @@ countries:
   recovered: 536050
   deaths: 1651
 - name: United Kingdom
-  confirmed: 4476297
+  confirmed: 4476298
   recovered: 15427
   deaths: 127978
 - name: Uruguay
@@ -751,7 +751,7 @@ countries:
   recovered: 205575
   deaths: 2499
 - name: Vietnam
-  confirmed: 5141
+  confirmed: 5217
   recovered: 2721
   deaths: 42
 - name: West Bank and Gaza
@@ -782,10 +782,10 @@ breakdowns:
     deaths: 54
   - name: Northern Territory
     confirmed: 171
-    recovered: 165
+    recovered: 168
     deaths: 0
   - name: Queensland
-    confirmed: 1597
+    confirmed: 1601
     recovered: 1574
     deaths: 7
   - name: South Australia
@@ -846,9 +846,9 @@ breakdowns:
     recovered: 595
     deaths: 4
   - name: Ontario
-    confirmed: 528516
-    recovered: 500792
-    deaths: 8575
+    confirmed: 529053
+    recovered: 501512
+    deaths: 8580
   - name: Prince Edward Island
     confirmed: 199
     recovered: 185
@@ -1084,7 +1084,7 @@ breakdowns:
     recovered: 0
     deaths: 13553
   - name: Iowa
-    confirmed: 370600
+    confirmed: 370615
     recovered: 0
     deaths: 6035
   - name: Kansas
@@ -1100,13 +1100,13 @@ breakdowns:
     recovered: 0
     deaths: 10522
   - name: Maine
-    confirmed: 66863
+    confirmed: 66979
     recovered: 0
-    deaths: 819
+    deaths: 820
   - name: Maryland
     confirmed: 458048
     recovered: 0
-    deaths: 8990
+    deaths: 9007
   - name: Massachusetts
     confirmed: 704796
     recovered: 0
@@ -1228,9 +1228,9 @@ breakdowns:
     recovered: 0
     deaths: 27
   - name: Virginia
-    confirmed: 672793
+    confirmed: 673029
     recovered: 0
-    deaths: 11097
+    deaths: 11106
   - name: Washington
     confirmed: 427494
     recovered: 0
@@ -1247,5 +1247,5 @@ breakdowns:
     confirmed: 59661
     recovered: 0
     deaths: 713
-updated: 2021-05-23 12:20:54
+updated: 2021-05-23 14:21:11
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

@@ -1,11 +1,11 @@
-confirmed: 167219723
-recovered: 103681610
-deaths: 3464799
+confirmed: 167229205
+recovered: 103686584
+deaths: 3464997
 countries:
 - name: Afghanistan
-  confirmed: 65728
-  recovered: 56035
-  deaths: 2802
+  confirmed: 66275
+  recovered: 56295
+  deaths: 2812
 - name: Albania
   confirmed: 132209
   recovered: 128732
@@ -53,7 +53,7 @@ countries:
 - name: Bahrain
   confirmed: 218047
   recovered: 194885
-  deaths: 825
+  deaths: 829
 - name: Bangladesh
   confirmed: 789080
   recovered: 730697
@@ -147,7 +147,7 @@ countries:
   recovered: 1259080
   deaths: 28518
 - name: China
-  confirmed: 102873
+  confirmed: 102874
   recovered: 97632
   deaths: 4846
 - name: Colombia
@@ -267,9 +267,9 @@ countries:
   recovered: 319956
   deaths: 4639
 - name: Germany
-  confirmed: 3658628
+  confirmed: 3658655
   recovered: 3410040
-  deaths: 87429
+  deaths: 87431
 - name: Ghana
   confirmed: 93620
   recovered: 91581
@@ -299,9 +299,9 @@ countries:
   recovered: 13745
   deaths: 359
 - name: Haiti
-  confirmed: 13735
+  confirmed: 13906
   recovered: 12507
-  deaths: 280
+  deaths: 288
 - name: Holy See
   confirmed: 27
   recovered: 27
@@ -351,9 +351,9 @@ countries:
   recovered: 23986
   deaths: 917
 - name: Japan
-  confirmed: 720715
+  confirmed: 722630
   recovered: 639731
-  deaths: 12280
+  deaths: 12351
 - name: Jordan
   confirmed: 726432
   recovered: 710608
@@ -423,17 +423,17 @@ countries:
   recovered: 7
   deaths: 2
 - name: Madagascar
-  confirmed: 40876
-  recovered: 39255
-  deaths: 800
+  confirmed: 40954
+  recovered: 39410
+  deaths: 806
 - name: Malawi
   confirmed: 34284
   recovered: 32462
   deaths: 1153
 - name: Malaysia
-  confirmed: 512091
-  recovered: 452821
-  deaths: 2248
+  confirmed: 518600
+  recovered: 456273
+  deaths: 2309
 - name: Maldives
   confirmed: 55924
   recovered: 32322
@@ -443,8 +443,8 @@ countries:
   recovered: 9442
   deaths: 514
 - name: Malta
-  confirmed: 30504
-  recovered: 30006
+  confirmed: 30506
+  recovered: 30017
   deaths: 417
 - name: Marshall Islands
   confirmed: 4
@@ -567,9 +567,9 @@ countries:
   recovered: 210942
   deaths: 544
 - name: Romania
-  confirmed: 1075543
-  recovered: 1032888
-  deaths: 29941
+  confirmed: 1075773
+  recovered: 1033984
+  deaths: 29977
 - name: Russia
   confirmed: 4952412
   recovered: 4570842
@@ -715,7 +715,7 @@ countries:
   recovered: 5024313
   deaths: 46268
 - name: US
-  confirmed: 33117920
+  confirmed: 33117923
   recovered: 0
   deaths: 589893
 - name: Uganda
@@ -731,7 +731,7 @@ countries:
   recovered: 537531
   deaths: 1654
 - name: United Kingdom
-  confirmed: 4478391
+  confirmed: 4478390
   recovered: 15427
   deaths: 127983
 - name: Uruguay
@@ -919,8 +919,8 @@ breakdowns:
     recovered: 1289
     deaths: 22
   - name: Hong Kong
-    confirmed: 11832
-    recovered: 11553
+    confirmed: 11833
+    recovered: 11556
     deaths: 210
   - name: Hubei
     confirmed: 68159
@@ -992,7 +992,7 @@ breakdowns:
     deaths: 0
   - name: Unknown
     confirmed: 0
-    recovered: 13
+    recovered: 10
     deaths: 0
   - name: Xinjiang
     confirmed: 980
@@ -1208,7 +1208,7 @@ breakdowns:
     recovered: 0
     deaths: 12380
   - name: Texas
-    confirmed: 2941389
+    confirmed: 2941392
     recovered: 0
     deaths: 51225
   - name: United States Virgin Islands
@@ -1247,5 +1247,5 @@ breakdowns:
     confirmed: 59661
     recovered: 0
     deaths: 713
-updated: 2021-05-24 10:20:54
+updated: 2021-05-24 11:21:03
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

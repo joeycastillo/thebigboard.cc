@@ -1,6 +1,6 @@
-confirmed: 169773989
-recovered: 106850222
-deaths: 3529577
+confirmed: 169781239
+recovered: 106861907
+deaths: 3529742
 countries:
 - name: Afghanistan
   confirmed: 70111
@@ -59,7 +59,7 @@ countries:
   recovered: 737408
   deaths: 12549
 - name: Barbados
-  confirmed: 4009
+  confirmed: 4012
   recovered: 3922
   deaths: 47
 - name: Belarus
@@ -67,9 +67,9 @@ countries:
   recovered: 383380
   deaths: 2831
 - name: Belgium
-  confirmed: 1057903
+  confirmed: 1059763
   recovered: 0
-  deaths: 24910
+  deaths: 24921
 - name: Belize
   confirmed: 12791
   recovered: 12378
@@ -83,9 +83,9 @@ countries:
   recovered: 1241
   deaths: 1
 - name: Bolivia
-  confirmed: 364570
-  recovered: 289809
-  deaths: 14377
+  confirmed: 366714
+  recovered: 291325
+  deaths: 14435
 - name: Bosnia and Herzegovina
   confirmed: 203839
   recovered: 174236
@@ -268,8 +268,8 @@ countries:
   deaths: 4739
 - name: Germany
   confirmed: 3684672
-  recovered: 3472800
-  deaths: 88379
+  recovered: 3479700
+  deaths: 88413
 - name: Ghana
   confirmed: 93775
   recovered: 91853
@@ -371,9 +371,9 @@ countries:
   recovered: 0
   deaths: 0
 - name: Korea, South
-  confirmed: 139431
-  recovered: 129739
-  deaths: 1951
+  confirmed: 139910
+  recovered: 130381
+  deaths: 1957
 - name: Kosovo
   confirmed: 106946
   recovered: 102303
@@ -507,8 +507,8 @@ countries:
   recovered: 26810
   deaths: 17889
 - name: New Zealand
-  confirmed: 2670
-  recovered: 2623
+  confirmed: 2672
+  recovered: 2630
   deaths: 26
 - name: Nicaragua
   confirmed: 7324
@@ -535,9 +535,9 @@ countries:
   recovered: 197080
   deaths: 2303
 - name: Pakistan
-  confirmed: 916239
-  recovered: 836702
-  deaths: 20680
+  confirmed: 918936
+  recovered: 839322
+  deaths: 20736
 - name: Panama
   confirmed: 377428
   recovered: 364783
@@ -591,7 +591,7 @@ countries:
   recovered: 4772
   deaths: 77
 - name: Saint Vincent and the Grenadines
-  confirmed: 2014
+  confirmed: 2027
   recovered: 1831
   deaths: 12
 - name: Samoa
@@ -755,7 +755,7 @@ countries:
   recovered: 212199
   deaths: 2595
 - name: Vietnam
-  confirmed: 6856
+  confirmed: 6908
   recovered: 2896
   deaths: 47
 - name: West Bank and Gaza
@@ -887,12 +887,12 @@ breakdowns:
     recovered: 586
     deaths: 6
   - name: Fujian
-    confirmed: 618
-    recovered: 587
+    confirmed: 620
+    recovered: 588
     deaths: 1
   - name: Gansu
     confirmed: 194
-    recovered: 191
+    recovered: 192
     deaths: 2
   - name: Guangdong
     confirmed: 2432
@@ -940,7 +940,7 @@ breakdowns:
     deaths: 1
   - name: Jiangsu
     confirmed: 726
-    recovered: 715
+    recovered: 716
     deaths: 0
   - name: Jiangxi
     confirmed: 937
@@ -952,7 +952,7 @@ breakdowns:
     deaths: 3
   - name: Liaoning
     confirmed: 425
-    recovered: 411
+    recovered: 412
     deaths: 2
   - name: Macau
     confirmed: 51
@@ -967,7 +967,7 @@ breakdowns:
     recovered: 18
     deaths: 0
   - name: Shaanxi
-    confirmed: 615
+    confirmed: 616
     recovered: 592
     deaths: 3
   - name: Shandong
@@ -995,8 +995,8 @@ breakdowns:
     recovered: 1
     deaths: 0
   - name: Unknown
-    confirmed: 3
-    recovered: 14
+    confirmed: 0
+    recovered: 10
     deaths: 0
   - name: Xinjiang
     confirmed: 980
@@ -1251,5 +1251,5 @@ breakdowns:
     confirmed: 60144
     recovered: 0
     deaths: 719
-updated: 2021-05-30 01:20:52
+updated: 2021-05-30 03:20:48
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

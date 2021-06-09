@@ -1,11 +1,11 @@
-confirmed: 174060099
-recovered: 112047405
-deaths: 3749148
+confirmed: 174063532
+recovered: 112048551
+deaths: 3749454
 countries:
 - name: Afghanistan
-  confirmed: 82326
+  confirmed: 84050
   recovered: 59569
-  deaths: 3251
+  deaths: 3305
 - name: Albania
   confirmed: 132397
   recovered: 129736
@@ -63,9 +63,9 @@ countries:
   recovered: 3922
   deaths: 47
 - name: Belarus
-  confirmed: 401019
-  recovered: 393237
-  deaths: 2929
+  confirmed: 401853
+  recovered: 394272
+  deaths: 2939
 - name: Belgium
   confirmed: 1072175
   recovered: 0
@@ -251,9 +251,9 @@ countries:
   recovered: 46000
   deaths: 959
 - name: France
-  confirmed: 5781556
+  confirmed: 5781714
   recovered: 396687
-  deaths: 110299
+  deaths: 110302
 - name: Gabon
   confirmed: 24651
   recovered: 23180
@@ -267,7 +267,7 @@ countries:
   recovered: 335895
   deaths: 4982
 - name: Germany
-  confirmed: 3713913
+  confirmed: 3714266
   recovered: 3557840
   deaths: 89504
 - name: Ghana
@@ -299,9 +299,9 @@ countries:
   recovered: 15628
   deaths: 416
 - name: Haiti
-  confirmed: 15895
+  confirmed: 16001
   recovered: 12557
-  deaths: 333
+  deaths: 342
 - name: Holy See
   confirmed: 27
   recovered: 27
@@ -571,9 +571,9 @@ countries:
   recovered: 215899
   deaths: 570
 - name: Romania
-  confirmed: 1079154
-  recovered: 1043371
-  deaths: 31155
+  confirmed: 1079294
+  recovered: 1043482
+  deaths: 31383
 - name: Russia
   confirmed: 5096657
   recovered: 4706871
@@ -663,7 +663,7 @@ countries:
   recovered: 178259
   deaths: 1844
 - name: Sudan
-  confirmed: 36004
+  confirmed: 36122
   recovered: 29812
   deaths: 2711
 - name: Suriname
@@ -677,7 +677,7 @@ countries:
 - name: Switzerland
   confirmed: 698798
   recovered: 317600
-  deaths: 10848
+  deaths: 10850
 - name: Syria
   confirmed: 24700
   recovered: 21646
@@ -936,7 +936,7 @@ breakdowns:
     deaths: 4
   - name: Inner Mongolia
     confirmed: 390
-    recovered: 384
+    recovered: 385
     deaths: 1
   - name: Jiangsu
     confirmed: 729
@@ -996,7 +996,7 @@ breakdowns:
     deaths: 0
   - name: Unknown
     confirmed: 0
-    recovered: 4
+    recovered: 3
     deaths: 0
   - name: Xinjiang
     confirmed: 980
@@ -1251,5 +1251,5 @@ breakdowns:
     confirmed: 60849
     recovered: 0
     deaths: 725
-updated: 2021-06-09 11:22:50
+updated: 2021-06-09 12:23:38
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

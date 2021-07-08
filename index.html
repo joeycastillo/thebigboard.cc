@@ -15,7 +15,7 @@ title: "The Big Board"
 {% assign deaths_so_far = death.deaths | times: percent_done | round  %}
 {% if site.data.covid.deaths > deaths_so_far and covid_displayed == false %}
   <tr class="covid">
-    <td style="padding-right: 32px">2019 Coronavirus</td>
+    <td style="padding-right: 32px">COVID-19</td>
     <td style="text-align: right">{{ site.data.covid.deaths }}</td>
   </tr>
 {% assign covid_displayed = true %}

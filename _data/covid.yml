@@ -1,6 +1,6 @@
-confirmed: 196571404
-recovered: 129042880
-deaths: 4198195
+confirmed: 196582046
+recovered: 129048865
+deaths: 4198379
 countries:
 - name: Afghanistan
   confirmed: 145996
@@ -147,7 +147,7 @@ countries:
   recovered: 1568294
   deaths: 35295
 - name: China
-  confirmed: 104916
+  confirmed: 104918
   recovered: 99070
   deaths: 4848
 - name: Colombia
@@ -351,7 +351,7 @@ countries:
   recovered: 46938
   deaths: 1182
 - name: Japan
-  confirmed: 904034
+  confirmed: 904126
   recovered: 827216
   deaths: 15188
 - name: Jordan
@@ -359,9 +359,9 @@ countries:
   recovered: 749676
   deaths: 10010
 - name: Kazakhstan
-  confirmed: 617387
-  recovered: 517244
-  deaths: 5619
+  confirmed: 625165
+  recovered: 522304
+  deaths: 5780
 - name: Kenya
   confirmed: 201009
   recovered: 188222
@@ -727,9 +727,9 @@ countries:
   recovered: 5443501
   deaths: 51184
 - name: US
-  confirmed: 34748644
+  confirmed: 34750605
   recovered: 0
-  deaths: 612112
+  deaths: 612117
 - name: Uganda
   confirmed: 93282
   recovered: 81014
@@ -759,13 +759,13 @@ countries:
   recovered: 3
   deaths: 1
 - name: Venezuela
-  confirmed: 302988
-  recovered: 286795
-  deaths: 3542
+  confirmed: 303797
+  recovered: 287720
+  deaths: 3558
 - name: Vietnam
   confirmed: 133405
   recovered: 31780
-  deaths: 1020
+  deaths: 1022
 - name: West Bank and Gaza
   confirmed: 316487
   recovered: 311714
@@ -891,12 +891,12 @@ breakdowns:
     recovered: 1067
     deaths: 9
   - name: Chongqing
-    confirmed: 601
+    confirmed: 603
     recovered: 593
     deaths: 6
   - name: Fujian
-    confirmed: 730
-    recovered: 687
+    confirmed: 733
+    recovered: 690
     deaths: 1
   - name: Gansu
     confirmed: 199
@@ -928,11 +928,11 @@ breakdowns:
     deaths: 13
   - name: Henan
     confirmed: 1331
-    recovered: 1292
+    recovered: 1293
     deaths: 22
   - name: Hong Kong
     confirmed: 11982
-    recovered: 11707
+    recovered: 11709
     deaths: 212
   - name: Hubei
     confirmed: 68195
@@ -964,7 +964,7 @@ breakdowns:
     deaths: 2
   - name: Macau
     confirmed: 59
-    recovered: 53
+    recovered: 54
     deaths: 0
   - name: Ningxia
     confirmed: 76
@@ -976,15 +976,15 @@ breakdowns:
     deaths: 0
   - name: Shaanxi
     confirmed: 656
-    recovered: 629
+    recovered: 630
     deaths: 3
   - name: Shandong
     confirmed: 885
     recovered: 876
     deaths: 7
   - name: Shanghai
-    confirmed: 2292
-    recovered: 2228
+    confirmed: 2299
+    recovered: 2231
     deaths: 7
   - name: Shanxi
     confirmed: 253
@@ -1003,15 +1003,15 @@ breakdowns:
     recovered: 1
     deaths: 0
   - name: Unknown
-    confirmed: 20
-    recovered: 18
+    confirmed: 0
+    recovered: 7
     deaths: 0
   - name: Xinjiang
     confirmed: 980
     recovered: 977
     deaths: 3
   - name: Yunnan
-    confirmed: 785
+    confirmed: 795
     recovered: 427
     deaths: 2
   - name: Zhejiang
@@ -1036,9 +1036,9 @@ breakdowns:
     recovered: 0
     deaths: 6110
   - name: California
-    confirmed: 3943033
+    confirmed: 3944933
     recovered: 0
-    deaths: 64382
+    deaths: 64386
   - name: Colorado
     confirmed: 573907
     recovered: 0
@@ -1056,9 +1056,9 @@ breakdowns:
     recovered: 0
     deaths: 0
   - name: District of Columbia
-    confirmed: 50268
+    confirmed: 50329
     recovered: 0
-    deaths: 1148
+    deaths: 1149
   - name: Florida
     confirmed: 2523510
     recovered: 0
@@ -1251,5 +1251,5 @@ breakdowns:
     confirmed: 64955
     recovered: 0
     deaths: 776
-updated: 2021-07-30 03:22:03
+updated: 2021-07-30 04:21:34
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

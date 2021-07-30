@@ -1,6 +1,6 @@
-confirmed: 196543425
-recovered: 129032996
-deaths: 4196887
+confirmed: 196571404
+recovered: 129042880
+deaths: 4198195
 countries:
 - name: Afghanistan
   confirmed: 145996
@@ -36,7 +36,7 @@ countries:
   deaths: 4604
 - name: Australia
   confirmed: 33909
-  recovered: 24035
+  recovered: 24036
   deaths: 923
 - name: Austria
   confirmed: 658004
@@ -83,9 +83,9 @@ countries:
   recovered: 2353
   deaths: 2
 - name: Bolivia
-  confirmed: 470929
-  recovered: 404509
-  deaths: 17754
+  confirmed: 471958
+  recovered: 405853
+  deaths: 17784
 - name: Bosnia and Herzegovina
   confirmed: 205610
   recovered: 189348
@@ -131,9 +131,9 @@ countries:
   recovered: 35261
   deaths: 1334
 - name: Canada
-  confirmed: 1437104
-  recovered: 1403626
-  deaths: 26543
+  confirmed: 1437111
+  recovered: 1403628
+  deaths: 26544
 - name: Central African Republic
   confirmed: 7151
   recovered: 6859
@@ -211,9 +211,9 @@ countries:
   recovered: 317127
   deaths: 3956
 - name: Ecuador
-  confirmed: 480720
+  confirmed: 485673
   recovered: 443880
-  deaths: 30797
+  deaths: 31549
 - name: Egypt
   confirmed: 284170
   recovered: 229167
@@ -307,9 +307,9 @@ countries:
   recovered: 27
   deaths: 0
 - name: Honduras
-  confirmed: 292969
-  recovered: 99072
-  deaths: 7758
+  confirmed: 294561
+  recovered: 99879
+  deaths: 7793
 - name: Hungary
   confirmed: 809427
   recovered: 747512
@@ -351,7 +351,7 @@ countries:
   recovered: 46938
   deaths: 1182
 - name: Japan
-  confirmed: 903973
+  confirmed: 904034
   recovered: 827216
   deaths: 15188
 - name: Jordan
@@ -371,9 +371,9 @@ countries:
   recovered: 0
   deaths: 0
 - name: Korea, South
-  confirmed: 195099
-  recovered: 171559
-  deaths: 2085
+  confirmed: 196806
+  recovered: 172757
+  deaths: 2089
 - name: Kosovo
   confirmed: 108203
   recovered: 105633
@@ -463,9 +463,9 @@ countries:
   recovered: 1854
   deaths: 19
 - name: Mexico
-  confirmed: 2809983
+  confirmed: 2810097
   recovered: 2192477
-  deaths: 240001
+  deaths: 239997
 - name: Micronesia
   confirmed: 1
   recovered: 1
@@ -535,9 +535,9 @@ countries:
   recovered: 278195
   deaths: 3814
 - name: Pakistan
-  confirmed: 1020324
-  recovered: 937354
-  deaths: 23209
+  confirmed: 1024861
+  recovered: 938843
+  deaths: 23295
 - name: Palau
   confirmed: 0
   recovered: 0
@@ -579,9 +579,9 @@ countries:
   recovered: 1047528
   deaths: 34275
 - name: Russia
-  confirmed: 6138958
-  recovered: 5500348
-  deaths: 154403
+  confirmed: 6138969
+  recovered: 5500409
+  deaths: 154404
 - name: Rwanda
   confirmed: 68867
   recovered: 44814
@@ -699,7 +699,7 @@ countries:
   recovered: 14389
   deaths: 121
 - name: Tanzania
-  confirmed: 509
+  confirmed: 1017
   recovered: 183
   deaths: 21
 - name: Thailand
@@ -727,9 +727,9 @@ countries:
   recovered: 5443501
   deaths: 51184
 - name: US
-  confirmed: 34745060
+  confirmed: 34748644
   recovered: 0
-  deaths: 612105
+  deaths: 612112
 - name: Uganda
   confirmed: 93282
   recovered: 81014
@@ -743,9 +743,9 @@ countries:
   recovered: 655183
   deaths: 1939
 - name: United Kingdom
-  confirmed: 5828205
-  recovered: 19979
-  deaths: 129803
+  confirmed: 5828316
+  recovered: 20638
+  deaths: 129809
 - name: Uruguay
   confirmed: 381187
   recovered: 373007
@@ -763,9 +763,9 @@ countries:
   recovered: 286795
   deaths: 3542
 - name: Vietnam
-  confirmed: 123640
-  recovered: 27457
-  deaths: 630
+  confirmed: 133405
+  recovered: 31780
+  deaths: 1020
 - name: West Bank and Gaza
   confirmed: 316487
   recovered: 311714
@@ -814,7 +814,7 @@ breakdowns:
     deaths: 820
   - name: Western Australia
     confirmed: 1057
-    recovered: 1032
+    recovered: 1033
     deaths: 9
   Canada:
   - name: Alberta
@@ -878,9 +878,9 @@ breakdowns:
     recovered: 48892
     deaths: 578
   - name: Yukon
-    confirmed: 582
-    recovered: 504
-    deaths: 6
+    confirmed: 589
+    recovered: 506
+    deaths: 7
   China:
   - name: Anhui
     confirmed: 1008
@@ -939,15 +939,15 @@ breakdowns:
     recovered: 63663
     deaths: 4512
   - name: Hunan
-    confirmed: 1072
-    recovered: 1053
+    confirmed: 1073
+    recovered: 1055
     deaths: 4
   - name: Inner Mongolia
     confirmed: 403
     recovered: 395
     deaths: 1
   - name: Jiangsu
-    confirmed: 931
+    confirmed: 949
     recovered: 744
     deaths: 0
   - name: Jiangxi
@@ -959,7 +959,7 @@ breakdowns:
     recovered: 570
     deaths: 3
   - name: Liaoning
-    confirmed: 435
+    confirmed: 436
     recovered: 426
     deaths: 2
   - name: Macau
@@ -979,7 +979,7 @@ breakdowns:
     recovered: 629
     deaths: 3
   - name: Shandong
-    confirmed: 884
+    confirmed: 885
     recovered: 876
     deaths: 7
   - name: Shanghai
@@ -991,8 +991,8 @@ breakdowns:
     recovered: 253
     deaths: 0
   - name: Sichuan
-    confirmed: 1149
-    recovered: 1103
+    confirmed: 1150
+    recovered: 1104
     deaths: 3
   - name: Tianjin
     confirmed: 419
@@ -1003,8 +1003,8 @@ breakdowns:
     recovered: 1
     deaths: 0
   - name: Unknown
-    confirmed: 42
-    recovered: 21
+    confirmed: 20
+    recovered: 18
     deaths: 0
   - name: Xinjiang
     confirmed: 980
@@ -1036,13 +1036,13 @@ breakdowns:
     recovered: 0
     deaths: 6110
   - name: California
-    confirmed: 3939806
+    confirmed: 3943033
     recovered: 0
-    deaths: 64377
+    deaths: 64382
   - name: Colorado
     confirmed: 573907
     recovered: 0
-    deaths: 6934
+    deaths: 6935
   - name: Connecticut
     confirmed: 353844
     recovered: 0
@@ -1084,7 +1084,7 @@ breakdowns:
     recovered: 0
     deaths: 2195
   - name: Illinois
-    confirmed: 1417276
+    confirmed: 1417263
     recovered: 0
     deaths: 25865
   - name: Indiana
@@ -1192,9 +1192,9 @@ breakdowns:
     recovered: 0
     deaths: 27842
   - name: Puerto Rico
-    confirmed: 144961
+    confirmed: 145314
     recovered: 0
-    deaths: 2577
+    deaths: 2578
   - name: Recovered
     confirmed: 0
     recovered: 0
@@ -1228,7 +1228,7 @@ breakdowns:
     recovered: 0
     deaths: 259
   - name: Virgin Islands
-    confirmed: 4497
+    confirmed: 4514
     recovered: 0
     deaths: 36
   - name: Virginia
@@ -1251,5 +1251,5 @@ breakdowns:
     confirmed: 64955
     recovered: 0
     deaths: 776
-updated: 2021-07-30 02:21:42
+updated: 2021-07-30 03:22:03
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv

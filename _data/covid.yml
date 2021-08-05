@@ -1,6 +1,6 @@
-confirmed: 200053793
-recovered: 130787268
-deaths: 4253084
+confirmed: 200128659
+recovered: 130809226
+deaths: 4254948
 countries:
 - name: Afghanistan
   confirmed: 148933
@@ -19,24 +19,24 @@ countries:
   recovered: 14380
   deaths: 128
 - name: Angola
-  confirmed: 43070
-  recovered: 39389
-  deaths: 1022
+  confirmed: 43158
+  recovered: 39582
+  deaths: 1026
 - name: Antigua and Barbuda
   confirmed: 1311
   recovered: 1239
   deaths: 43
 - name: Argentina
-  confirmed: 4961880
-  recovered: 4606026
-  deaths: 106447
+  confirmed: 4975616
+  recovered: 4615834
+  deaths: 106747
 - name: Armenia
   confirmed: 230993
   recovered: 220438
   deaths: 4625
 - name: Australia
-  confirmed: 35089
-  recovered: 24178
+  confirmed: 35095
+  recovered: 24203
   deaths: 927
 - name: Austria
   confirmed: 660854
@@ -95,9 +95,9 @@ countries:
   recovered: 96964
   deaths: 1653
 - name: Brazil
-  confirmed: 19985817
+  confirmed: 20026533
   recovered: 17771228
-  deaths: 558432
+  deaths: 559607
 - name: Brunei
   confirmed: 338
   recovered: 280
@@ -131,8 +131,8 @@ countries:
   recovered: 35261
   deaths: 1334
 - name: Canada
-  confirmed: 1441907
-  recovered: 1405834
+  confirmed: 1442249
+  recovered: 1405958
   deaths: 26582
 - name: Central African Republic
   confirmed: 7151
@@ -151,9 +151,9 @@ countries:
   recovered: 99187
   deaths: 4848
 - name: Colombia
-  confirmed: 4807979
-  recovered: 4606140
-  deaths: 121484
+  confirmed: 4815063
+  recovered: 4615354
+  deaths: 121695
 - name: Comoros
   confirmed: 4028
   recovered: 3869
@@ -171,9 +171,9 @@ countries:
   recovered: 334117
   deaths: 5070
 - name: Cote d'Ivoire
-  confirmed: 50499
-  recovered: 49553
-  deaths: 332
+  confirmed: 50650
+  recovered: 49642
+  deaths: 334
 - name: Croatia
   confirmed: 364244
   recovered: 354830
@@ -211,9 +211,9 @@ countries:
   recovered: 324861
   deaths: 3971
 - name: Ecuador
-  confirmed: 487702
+  confirmed: 489089
   recovered: 443880
-  deaths: 31644
+  deaths: 31694
 - name: Egypt
   confirmed: 284415
   recovered: 232060
@@ -259,9 +259,9 @@ countries:
   recovered: 25191
   deaths: 164
 - name: Gambia
-  confirmed: 8296
-  recovered: 7122
-  deaths: 227
+  confirmed: 8392
+  recovered: 7310
+  deaths: 233
 - name: Georgia
   confirmed: 432903
   recovered: 390827
@@ -271,9 +271,9 @@ countries:
   recovered: 3658150
   deaths: 91723
 - name: Ghana
-  confirmed: 105512
-  recovered: 98392
-  deaths: 844
+  confirmed: 106053
+  recovered: 98633
+  deaths: 847
 - name: Greece
   confirmed: 503885
   recovered: 93764
@@ -307,9 +307,9 @@ countries:
   recovered: 27
   deaths: 0
 - name: Honduras
-  confirmed: 301700
+  confirmed: 303387
   recovered: 101909
-  deaths: 7962
+  deaths: 8014
 - name: Hungary
   confirmed: 809731
   recovered: 749773
@@ -519,9 +519,9 @@ countries:
   recovered: 5349
   deaths: 196
 - name: Nigeria
-  confirmed: 175264
-  recovered: 165122
-  deaths: 2163
+  confirmed: 176011
+  recovered: 165208
+  deaths: 2167
 - name: North Macedonia
   confirmed: 156707
   recovered: 150440
@@ -715,9 +715,9 @@ countries:
   recovered: 14654
   deaths: 155
 - name: Trinidad and Tobago
-  confirmed: 39162
-  recovered: 32305
-  deaths: 1101
+  confirmed: 39345
+  recovered: 32454
+  deaths: 1110
 - name: Tunisia
   confirmed: 599594
   recovered: 525889
@@ -727,9 +727,9 @@ countries:
   recovered: 5478185
   deaths: 51767
 - name: US
-  confirmed: 35320199
+  confirmed: 35326946
   recovered: 0
-  deaths: 614784
+  deaths: 614793
 - name: Uganda
   confirmed: 94739
   recovered: 86826
@@ -743,13 +743,13 @@ countries:
   recovered: 664130
   deaths: 1965
 - name: United Kingdom
-  confirmed: 5980697
-  recovered: 24395
-  deaths: 130298
+  confirmed: 5980820
+  recovered: 24653
+  deaths: 130299
 - name: Uruguay
-  confirmed: 381853
-  recovered: 374044
-  deaths: 5976
+  confirmed: 381994
+  recovered: 374203
+  deaths: 5979
 - name: Uzbekistan
   confirmed: 132901
   recovered: 126377
@@ -779,9 +779,9 @@ countries:
   recovered: 189658
   deaths: 3430
 - name: Zimbabwe
-  confirmed: 112435
-  recovered: 81570
-  deaths: 3676
+  confirmed: 113526
+  recovered: 82994
+  deaths: 3711
 breakdowns:
   Australia:
   - name: Australian Capital Territory
@@ -809,8 +809,8 @@ breakdowns:
     recovered: 221
     deaths: 13
   - name: Victoria
-    confirmed: 20955
-    recovered: 20036
+    confirmed: 20961
+    recovered: 20061
     deaths: 820
   - name: Western Australia
     confirmed: 1058
@@ -822,8 +822,8 @@ breakdowns:
     recovered: 230634
     deaths: 2328
   - name: British Columbia
-    confirmed: 150631
-    recovered: 147285
+    confirmed: 150973
+    recovered: 147409
     deaths: 1772
   - name: Diamond Princess
     confirmed: 0
@@ -1036,13 +1036,13 @@ breakdowns:
     recovered: 0
     deaths: 6230
   - name: California
-    confirmed: 4000868
+    confirmed: 4001233
     recovered: 0
     deaths: 64640
   - name: Colorado
-    confirmed: 579366
+    confirmed: 579363
     recovered: 0
-    deaths: 6963
+    deaths: 6962
   - name: Connecticut
     confirmed: 356701
     recovered: 0
@@ -1076,13 +1076,13 @@ breakdowns:
     recovered: 0
     deaths: 143
   - name: Hawaii
-    confirmed: 43616
+    confirmed: 43962
     recovered: 0
     deaths: 538
   - name: Idaho
-    confirmed: 202032
+    confirmed: 202669
     recovered: 0
-    deaths: 2209
+    deaths: 2210
   - name: Illinois
     confirmed: 1430257
     recovered: 0
@@ -1216,7 +1216,7 @@ breakdowns:
     recovered: 0
     deaths: 12776
   - name: Texas
-    confirmed: 3182484
+    confirmed: 3185932
     recovered: 0
     deaths: 53455
   - name: Utah
@@ -1236,9 +1236,9 @@ breakdowns:
     recovered: 0
     deaths: 11541
   - name: Washington
-    confirmed: 481435
+    confirmed: 483389
     recovered: 0
-    deaths: 6136
+    deaths: 6145
   - name: West Virginia
     confirmed: 168330
     recovered: 0
@@ -1251,5 +1251,5 @@ breakdowns:
     confirmed: 65953
     recovered: 0
     deaths: 786
-updated: 2021-08-04 22:21:44
+updated: 2021-08-05 00:21:39
 source: https://opendata.arcgis.com/datasets/6137e495864d471799423ffc91275972_1.csv
